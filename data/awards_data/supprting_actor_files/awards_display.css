@@ -1,0 +1,175 @@
+/*  Added definitions for a tags for dl and td selectors; modified definitions for .nomHangIndent a and .awardYearHeader a, zf, 12/23/2009  */
+
+body {
+    font-family: 'FuturaPT-Book',Futura,"Trebuchet MS",Arial,sans-serif; 
+    font-size: 100%;
+	color: #5f5e5b;
+}
+
+p {
+	margin: 0;
+	}
+	
+td {
+    vertical-align: top;
+}
+
+#main {
+    display: inline;
+ /* float: right;  */
+	margin: 0 0 20px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+/*added 9/2/2010 for Vendor Page No Left Side Bar after Kelly took it out of the oscars source page*/
+#main_noSideBar #main{               width:944px;}
+#main_noSideBar #content{            background:#fff;}
+#sidebar        {                   width:225px; float:left; display:inline;  padding:16px 0 30px;}
+/* end of addition for getting rid of the left side bar */
+
+#aadb { margin: 0 40px 20px 0 } /* Added a new div to solve the problem of competing styles, 1/7/2010 */
+
+#aadb td {padding-right: 5px}
+#aadb a:link, #aadb  a:visited {color:#5F5E5B; text-decoration:none; }  
+#aadb a:hover {color:blue;} 
+
+#aadb dt  {margin-bottom:10px;} 
+
+
+
+#aadb .nomHangIndent {margin-left: 70px; text-indent: -70px; color: #5F5E5B;  }
+#aadb .nomHangIndent a:link, #aadb .nomHangIndent a:visited  { color:#5F5E5B ; text-decoration:none; }
+#aadb .nomHangIndent a:hover   { color:blue ; text-decoration:none ; font-weight: normal ;} 
+
+/* #aadb .awardYearHeader {text-decoration: underline !important; color: #5F5E5B; font-size:18px; font-weight: bold;} */
+#aadb .awardYearHeader {text-decoration: underline !important; color: #5F5E5B;}
+#aadb .awardYearHeader a:link, #aadb .awardYearHeader a:visited   { color:#5F5E5B   ; font-weight: normal ;}
+#aadb .awardYearHeader a:hover   { color:blue; text-decoration:none; font-weight: normal ;} 
+
+
+#aadb .chronNomHangIndent {
+    margin-left: 90px;
+    text-indent: -45px;
+    color: #5F5E5B;
+}
+
+#aadb .headerHangIndent { margin-left: 50px; text-indent: -50px; color: #5F5E5B;}
+/*#aadb .headerHangIndent a:link, #aadb .headerHangIndent a:visited {color:#5F5E5B; text-decoration:none; }  
+#aadb .headerHangIndent a:hover {color:blue;} commented out defs for .headerHangIndent links 1/21/2010, 9:46*/
+
+#aadb .noteIndent {
+    margin-left: 35px;
+    color: #5F5E5B;
+}
+
+#aadb .dirFilmIndent {
+    margin-left: 35px; /* changed from 50 */
+    color: #5F5E5B;
+}
+
+#aadb .chronNoteIndent {
+    margin-left: 90px;
+    color: #5F5E5B;
+}
+
+#aadb .footer_main {  
+    font-family: "futura book",Futura,"Trebuchet MS",Arial,sans-serif;  
+    font-size: 10px; 
+    color: #5F5E5B;
+}
+div#buttonrow {
+
+	margin-left:-40px;
+	}
+	
+ul#buttonrow{ 
+	list-style-type: none;
+} 
+
+#buttonrow li.last  {
+	float:left; 
+    font-family: "futura book",Futura,"Trebuchet MS",Arial,sans-serif;  
+	font-weight:normal;
+	list-style-type: none;
+	}
+
+#buttonrow li  {
+	float:left; 
+    font-family: "futura book",Futura,"Trebuchet MS",Arial,sans-serif;  
+    font-size:12px;
+	font-weight:bold;
+	list-style-type: none;
+	}
+
+/*#buttonrow a {
+	display:block;
+    width:110px;
+	background-color:#C6AF85;
+	color: #34322e ;
+	font-size:12px;
+	text-align:center;
+	border-bottom:1px solid #3E6D8E;
+	border-right:1px solid #7F9FB6;
+	margin:1px 2px 1px 0;
+	padding:2px 4px 1px 4px; 
+	text-decoration:none;
+	height: 20px; line-height:20px;
+}*/
+#buttonrow a {
+    background-color: #c79f27;
+    color: #fff;
+    display: block;
+/*    font-size: 15px; */
+    height: 25px;
+    line-height: 20px;
+    margin: 1px 2px 1px 0;
+    padding: 2px 4px 1px;
+	text-align: center;
+    text-decoration: none;
+    width: 110px;
+}
+#buttonrow a:hover {background-color:#FFFFFF;
+	border:1px solid #c79f27;
+	color:#c79f27;
+	text-decoration:none;}
+	
+.noResult a:link, .noResult a:hover, .noResult a:visited {color:blue !important;  text-decoration:underline !important; }
+
+
+form select, form textarea {
+    border: 1px inset #b4b4b4;
+}
+
+div#aadb dl table{
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+}
+
+div#aadb table tbody tr td{
+	line-height:1.25em;
+}
+/*@media print {
+body{
+    font-size: 100%;
+    font-family: Times;
+    line-height: 150%; }
+*  {color: black !important;} 
+
+td#aadb {
+    padding-right: 4px}
+	
+#mNav, #content {border: none;}
+.breadcrumb, .jumpmenu, #buttonrow, #header, #footer 
+{display:none; } 
+
+}
+*/
+
+
+
+
+
+
+
+

@@ -53,18 +53,26 @@ def write_list_of_hash_to_file(input_list,filename):
 		for row in input_list:
 			fwriter.writerow(row.values())
 
+def insert_into_db(data_list):
+
+
+
 if __name__ == "__main__":
 	files = get_all_filenames()
 	all_data = []
 	for f in files:
 		all_data.extend(get_data(f))
-	print len(all_data)
-	# print all_data[0]
+	# print len(all_data)
 	final_data = clean_data(all_data)
-	# count = 0
-	# for row in final_data:
-	# 	if len(row['Contributors']) == 0:
-	# 		count +=1
-	print len(final_data)
-	# print count
+	# print len(final_data)
 	write_list_of_hash_to_file(final_data,'final_data')
+	insert_into_db(final_data)
+	#Need to get all actors and movies list and insert it.
+	contributors = []
+	for row in final_data:
+		contributors.extend(re.sub('\[|\]|\'','',row['Contributors']).split(', '))
+	contributor_set = set(contributors)
+
+
+
+

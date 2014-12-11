@@ -48,8 +48,7 @@ def process_content(content,award_type):
 
 
 if __name__ == "__main__":
-	urls = ['actress', 'actors','writing','directing','picture']
-	# urls = ['actors']
+	urls = ['actress', 'actors','writing','directing','picture','supporting_actor','supporting_actress']
 	awards_list = []
 	for url in urls:
 		content = get_content('data/awards_data/'+url+'.html')
