@@ -7,12 +7,8 @@ Using a dataset of movies spread over 20 years of Hollywood cinema, we uncover t
 
 We are analysing various algorithms like HITS, Modified Shapley approach etc., that can be used to compute the influence score of the collaborators.
 
-1. extractMovieLink.py
-- to get the movie links from the films listed by year page in wikipedia.
-2. extractMovieData.py
-- to extract the movie infobox from wikipedia
-3. getOscarData.py
-- to extract academy awards info
-4. insertToDB.py
-- to clean and consolidate our data.
+1. extractMovieLink.py - to get the movie links from the films listed by year page in wikipedia.
+2. extractMovieData.py - to extract the movie infobox from wikipedia
+3. getOscarData.py - to extract academy awards info
+4. insertToDB.py - to clean and consolidate our data.
 
