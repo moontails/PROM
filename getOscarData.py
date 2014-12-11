@@ -52,7 +52,7 @@ if __name__ == "__main__":
 	# urls = ['actors']
 	awards_list = []
 	for url in urls:
-		content = get_content('awards_data/'+url+'.html')
+		content = get_content('data/awards_data/'+url+'.html')
 		temp_list = process_content(content,url)
 		print temp_list[0]
 		awards_list.extend(temp_list)

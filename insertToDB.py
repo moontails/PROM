@@ -6,7 +6,7 @@ import os
 
 def get_data(filename):
 	data_list = []
-	with open('movie_data/'+filename,mode='rU') as datafile:
+	with open('data/movie_data/'+filename,mode='rU') as datafile:
 		reader = csv.reader(datafile)
    		data_item = {}
    		headers = reader.next()
@@ -19,7 +19,7 @@ def get_data(filename):
 
 def get_all_filenames():
 	file_names = []
-	for f in os.listdir('movie_data/'):
+	for f in os.listdir('data/movie_data/'):
 		if re.search('csv',f):
 			file_names.append(f)
 	return file_names
@@ -27,10 +27,22 @@ def get_all_filenames():
 def clean_data(data_list):
 	final_data = []
 	for row in data_list:
-		if row['Budget'] == '0' or 'Unknown' in row['Budget']:
+		if re.search('Unknown|N/A',row['Budget']) > 0 or row['Budget']=='0':
 			continue
-		elif row['Revenue'] == '0' or 'Unknown' in row['Revenue']:
+		elif re.search('Unknown',row['Revenue']) > 0 or row['Revenue']=='0':
 			continue
+		if 'billion' in row['Revenue']:
+			row['Revenue'] = str(float(re.sub('[^0-9\.?]','',row['Revenue']))*1000000000)
+		row['Budget'] = re.sub('[^0-9\.?]','',row['Budget'])
+		row['Revenue'] = re.sub('[^0-9\.?]','',row['Revenue'])
+
+		try:
+			if float(row['Budget']) < 1000:
+				row['Budget'] = str(float(row['Budget'])*1000000)
+			if float(row['Revenue']) < 1000:
+				row['Revenue'] = str(float(row['Revenue'])*1000000)
+		except Exception, e:
+			print row
 		final_data.append(row)
 	return final_data
 
