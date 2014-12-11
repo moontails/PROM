@@ -49,10 +49,10 @@ if __name__ == "__main__":
 	print len(all_data)
 	# print all_data[0]
 	final_data = clean_data(all_data)
-	count = 0
-	for row in final_data:
-		if len(row['Contributors']) == 0:
-			count +=1
+	# count = 0
+	# for row in final_data:
+	# 	if len(row['Contributors']) == 0:
+	# 		count +=1
 	print len(final_data)
-	print count
+	# print count
 	write_list_of_hash_to_file(final_data,'final_data')
