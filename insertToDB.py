@@ -3,6 +3,7 @@ import urllib2
 import re
 import csv
 import os
+from connect_db import *
 
 def get_data(filename):
     data_list = []
@@ -54,10 +55,6 @@ def write_list_of_hash_to_file(input_list,filename):
 		for row in input_list:
 			fwriter.writerow(row.values())
 
-#def insert_into_db(data_list):
-
-
-
 if __name__ == "__main__":
     files = get_all_filenames()
     all_data = []
@@ -76,7 +73,28 @@ if __name__ == "__main__":
     for row in final_data:
         contributors.extend(re.sub('\[|\]|\'','',row['Contributors']).split(', '))
     contributor_set = set(contributors)
-    
+
+def insert_into_db(data_list):
+	#Need to get all actors and movies list and insert it.
+	contributors = []
+	for row in final_data:
+		contributors.extend(re.sub('\[|\]|\'','',row['Contributors']).split(', '))
+	contributor_set = set(contributors)
+	cl = connect()
+	for name in contributor_set:
+		cl.command('Create vertex Contributor set name="'+name+'",awards=[], award_count=0')
+
+if __name__ == "__main__":
+	files = get_all_filenames()
+	all_data = []
+	for f in files:
+		all_data.extend(get_data(f))
+	# print len(all_data)
+	final_data = clean_data(all_data)
+	# print len(final_data)
+	write_list_of_hash_to_file(final_data,'final_data')
+	insert_into_db(final_data)
+	awards_data = get_data()
 
 
 
