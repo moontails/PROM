@@ -58,11 +58,12 @@ def write_list_of_hash_to_file(input_list,filename):
 
 def insert_into_db(data_list):
 	#Need to get all actors and movies list and insert it.
+	regex = '"'
 	movie_contributor_hash = {}
 	contributors = []
 	for row in final_data:
 		row['Contributors'] = re.sub('\[|\]|\'','',row['Contributors'])
-		row['Contributors'] = re.sub('\n',',',row['Contributors'])
+		row['Contributors'] = re.sub('\\n',',',row['Contributors'])
 		temp_contributor_list = row['Contributors'].split(', ')
 		movie_contributor_hash[row['Movie_Name']] = temp_contributor_list
 		contributors.extend(temp_contributor_list)
@@ -71,7 +72,7 @@ def insert_into_db(data_list):
 	cl = connect()
 	# Insert all contributors
 	for name in contributor_set:
-		name = re.sub('^"|"$','',name).strip()
+		name = re.sub(regex,'',name).strip()
 		if len(name)>0:
 			print 'Inserting '+name
 			cl.command('Create vertex Contributor set name="'+name+'",awards=[], award_count=0')
@@ -83,10 +84,14 @@ def insert_into_db(data_list):
 			cl.command('Create vertex Movie set year='+movie['year']+',budget='+movie['Budget']+',revenue='+movie['Revenue']+',name="'+movie['Movie_Name']+'",impact_score='+str(float(movie['Revenue'])/float(movie['Budget'])))
 		except Exception, e:
 			weird_movies.append(movie)
-	print weird_movies
-	print len(weird_movies)
-	# for movie in movie_contributor_hash:
-		# 
+
+	for movie in movie_contributor_hash:
+		for actor in movie_contributor_hash[movie]:
+			print 'adding edge from '+re.sub(regex,'',actor).strip()+' to '+movie
+			cmd_str = 'Create edge contributed_to from (select from Contributor where name="'+re.sub(regex,'',actor).strip()+'") to (select from Movie where name="'+movie+'")'
+			# print cmd_str
+			cl.command(cmd_str)
+
 if __name__ == "__main__":
 	files = get_all_filenames()
 	all_data = []
