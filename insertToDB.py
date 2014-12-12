@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from collections import defaultdict
 import urllib2
 import re
 import csv
@@ -85,19 +86,53 @@ def insert_into_db(data_list):
 			weird_movies.append(movie)
 	print weird_movies
 	print len(weird_movies)
-	# for movie in movie_contributor_hash:
-		# 
+
+def create_graph(final_data,award_data):
+    contributor_score = defaultdict(float)
+    award_score = defaultdict(float)
+    for row in final_data:
+        profit_score = float(row['Revenue']) / float(row['Budget'])
+        contributors = re.sub('\[|\]|\'','',row['Contributors']).split(', ')
+        for i in range(len(contributors)):
+            if len(contributors[i].strip()) > 0:
+                if contributors[i] == 'Kevin Bacon':
+                    print row['Revenue'], row['Budget'], row['Movie_Name']
+                contributor_score[contributors[i]] += (profit_score / len(contributors))
+    
+    for row in award_data:
+        award_type = row['award_type']
+        contributor = row['contributor_name']
+        win_type = row['win_type']
+        if win_type == 'winner':
+            award_score[contributor] += 1
+        elif win_type == 'nominee':
+            award_score[contributor] += 0.5
+    print contributor_score['Kevin Bacon'],award_score['Kevin Bacon']
+    
 if __name__ == "__main__":
-	files = get_all_filenames()
-	all_data = []
-	for f in files:
-		all_data.extend(get_data('movie_data/'+f))
-	# print len(all_data)
-	final_data = clean_data(all_data)
-	# print len(final_data)
-	write_list_of_hash_to_file(final_data,'final_data')
-	insert_into_db(final_data)
-	# awards_data = get_data()
+    files = get_all_filenames()
+    all_data = []
+    for f in files:
+        all_data.extend(get_data('movie_data/' + f))
+    print "Movies before cleaning: " + str(len(all_data))
+    final_data = clean_data(all_data)
+    print "Movies after Cleaning: " + str(len(final_data))
+    write_list_of_hash_to_file(final_data,'final_data')
+    print "Writing clean data to file"
+    #insert_into_db(final_data)
+    award_data = get_data('awards.csv')
+    print "Awards data: " + str(len(award_data))
+    '''
+    #Collaboration Network
+    contributors_hash = defaultdict(list)
+    for row in final_data:
+        contributors = re.sub('\[|\]|\'','',row['Contributors']).split(', ')
+        for i in range(len(contributors)):
+            if len(contributors[i].strip()) > 0:
+                contributors_hash[contributors[i]].extend(contributors[:i] + contributors[i+1:])
+    print "Contributors: " + str(len(contributors_hash))
+    '''
+    create_graph(final_data,award_data)
 
 
 
