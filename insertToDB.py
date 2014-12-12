@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from collections import defaultdict
 import urllib2
 import re
 import csv
@@ -59,11 +58,12 @@ def write_list_of_hash_to_file(input_list,filename):
 
 def insert_into_db(data_list):
 	#Need to get all actors and movies list and insert it.
+	regex = '"'
 	movie_contributor_hash = {}
 	contributors = []
 	for row in final_data:
 		row['Contributors'] = re.sub('\[|\]|\'','',row['Contributors'])
-		row['Contributors'] = re.sub('\n',',',row['Contributors'])
+		row['Contributors'] = re.sub('\\n',',',row['Contributors'])
 		temp_contributor_list = row['Contributors'].split(', ')
 		movie_contributor_hash[row['Movie_Name']] = temp_contributor_list
 		contributors.extend(temp_contributor_list)
@@ -72,7 +72,7 @@ def insert_into_db(data_list):
 	cl = connect()
 	# Insert all contributors
 	for name in contributor_set:
-		name = re.sub('^"|"$','',name).strip()
+		name = re.sub(regex,'',name).strip()
 		if len(name)>0:
 			print 'Inserting '+name
 			cl.command('Create vertex Contributor set name="'+name+'",awards=[], award_count=0')
@@ -84,56 +84,22 @@ def insert_into_db(data_list):
 			cl.command('Create vertex Movie set year='+movie['year']+',budget='+movie['Budget']+',revenue='+movie['Revenue']+',name="'+movie['Movie_Name']+'",impact_score='+str(float(movie['Revenue'])/float(movie['Budget'])))
 		except Exception, e:
 			weird_movies.append(movie)
-	print weird_movies
-	print len(weird_movies)
 
-def create_graph(final_data,award_data):
-    contributor_score = defaultdict(float)
-    award_score = defaultdict(float)
-    for row in final_data:
-        profit_score = float(row['Revenue']) / float(row['Budget'])
-        contributors = re.sub('\[|\]|\'','',row['Contributors']).split(', ')
-        for i in range(len(contributors)):
-            if len(contributors[i].strip()) > 0:
-                if contributors[i] == 'Kevin Bacon':
-                    print row['Revenue'], row['Budget'], row['Movie_Name']
-                contributor_score[contributors[i]] += (profit_score / len(contributors))
-    
-    for row in award_data:
-        award_type = row['award_type']
-        contributor = row['contributor_name']
-        win_type = row['win_type']
-        if win_type == 'winner':
-            award_score[contributor] += 1
-        elif win_type == 'nominee':
-            award_score[contributor] += 0.5
-    print contributor_score['Kevin Bacon'],award_score['Kevin Bacon']
-    
+	for movie in movie_contributor_hash:
+		for actor in movie_contributor_hash[movie]:
+			print 'adding edge from '+re.sub(regex,'',actor).strip()+' to '+movie
+			cmd_str = 'Create edge contributed_to from (select from Contributor where name="'+re.sub(regex,'',actor).strip()+'") to (select from Movie where name="'+movie+'")'
+			# print cmd_str
+			cl.command(cmd_str)
+
 if __name__ == "__main__":
-    files = get_all_filenames()
-    all_data = []
-    for f in files:
-        all_data.extend(get_data('movie_data/' + f))
-    print "Movies before cleaning: " + str(len(all_data))
-    final_data = clean_data(all_data)
-    print "Movies after Cleaning: " + str(len(final_data))
-    write_list_of_hash_to_file(final_data,'final_data')
-    print "Writing clean data to file"
-    #insert_into_db(final_data)
-    award_data = get_data('awards.csv')
-    print "Awards data: " + str(len(award_data))
-    '''
-    #Collaboration Network
-    contributors_hash = defaultdict(list)
-    for row in final_data:
-        contributors = re.sub('\[|\]|\'','',row['Contributors']).split(', ')
-        for i in range(len(contributors)):
-            if len(contributors[i].strip()) > 0:
-                contributors_hash[contributors[i]].extend(contributors[:i] + contributors[i+1:])
-    print "Contributors: " + str(len(contributors_hash))
-    '''
-    create_graph(final_data,award_data)
-
-
-
-
+	files = get_all_filenames()
+	all_data = []
+	for f in files:
+		all_data.extend(get_data('movie_data/'+f))
+	# print len(all_data)
+	final_data = clean_data(all_data)
+	# print len(final_data)
+	write_list_of_hash_to_file(final_data,'final_data')
+	insert_into_db(final_data)
+	# awards_data = get_data()
