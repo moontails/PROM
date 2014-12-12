@@ -19,7 +19,7 @@ year,Movie_Name,Budget,Contributors,Revenue
 1990,Almost an Angel,10500000.0,"['John Cornell', 'Paul Hogan', 'Paul Hogan', 'Elias Koteas', 'Linda Kozlowski']",6939946
 1990,"After Dark, My Sweet",6000000.0,"['James Foley', 'Jason Patric', 'Rachel Ward', 'Bruce Dern']",2678414
 1990,Jacob's Ladder,25000000.0,"['Adrian Lyne', 'Tim Robbins', 'Elizabeth Pea', 'Danny Aiello', 'Matt Craven']",26118851
-1990,Total Recall,5060,"['Paul Verhoeven', 'Arnold Schwarzenegger', 'Rachel Ticotin', 'Sharon Stone', 'Michael Ironside', 'Ronny Cox']",261300000.0
+1990,Total Recall,55000000.0,"['Paul Verhoeven', 'Arnold Schwarzenegger', 'Rachel Ticotin', 'Sharon Stone', 'Michael Ironside', 'Ronny Cox']",261300000.0
 1990,Wild at Heart,10000000.0,"['David Lynch', 'Nicolas Cage', 'Laura Dern', 'Willem Dafoe', 'Crispin Glover', 'Diane Ladd', 'Isabella Rossellini', 'Harry Dean Stanton']",14560247
 1990,The Godfather Part III,54000000.0,"['Francis Ford Coppola', 'Mario Puzo', 'Al Pacino', 'Diane Keaton', 'Talia Shire', 'Andy Garca', 'Eli Wallach', 'Joe Mantegna', 'Bridget Fonda', 'George Hamilton', 'Sofia Coppola']",136766062
 1990,Memphis Belle,23000000,"['Michael Caton-Jones', 'Matthew Modine', 'Eric Stoltz', 'Tate Donovan', 'D. B. Sweeney', 'Billy Zane', 'Sean Astin', 'Harry Connick Jr.', 'Reed Diamond', 'Courtney Gains', 'Neil Giuntoli', 'David Strathairn', 'John Lithgow', 'Jane Horrocks', 'Mac McDonald']",27441977
@@ -143,8 +143,8 @@ year,Movie_Name,Budget,Contributors,Revenue
 1991,Mississippi Masala,8000000.0,"['Mira Nair', 'Sooni Taraporevala', 'Denzel Washington', 'Roshan Seth', 'Sarita Choudhury']",7308786
 1991,Deceived,30000000.0,"['Damian Harris', 'Mary Agnes Donoghue', 'Bruce Joel Rubin', 'Goldie Hawn', 'John Heard']",28738096
 1991,Out for Justice,14000000,"['John Flynn', 'Steven Seagal', 'William Forsythe', 'Jerry Orbach', 'Jo Champa']",39673161
-1991,Terminator 2: Judgment Day,94102,"['James Cameron', 'William Wisher', 'Arnold Schwarzenegger', 'Linda Hamilton', 'Robert Patrick', 'Edward Furlong']",519800000.0
-1991,Problem Child 2,1115,"['Brian Levant', 'Scott Alexander\nLarry Karaszewski', 'John Ritter', 'Michael Oliver', 'Jack Warden', 'Laraine Newman', 'Amy Yasbeck', 'Ivyann Schwan']",32704700
+1991,Terminator 2: Judgment Day,98000000.0,"['James Cameron', 'William Wisher', 'Arnold Schwarzenegger', 'Linda Hamilton', 'Robert Patrick', 'Edward Furlong']",519800000.0
+1991,Problem Child 2,13000000.0,"['Brian Levant', 'Scott Alexander\nLarry Karaszewski', 'John Ritter', 'Michael Oliver', 'Jack Warden', 'Laraine Newman', 'Amy Yasbeck', 'Ivyann Schwan']",32704700
 1991,Lionheart,6000000,"['Sheldon Lettich', 'Jean-Claude Van Damme', 'Jean-Claude Van Damme', 'Harrison Page', 'Deborah Rennard', 'Brian Thompson', 'Lisa Pelikan', 'Ashley Johnson', 'Ash Adams', 'Michel Qissi']",24078196
 1992,The Last of the Mohicans,40000000.0,"['Michael Mann', 'Daniel Day-Lewis', 'Madeleine Stowe', 'Jodhi May']",75505856
 1992,Newsies,15000000.0,"['Kenny Ortega', 'Christian Bale', 'Bill Pullman', 'David Moscow', 'Robert Duvall']",2819485
@@ -365,7 +365,7 @@ year,Movie_Name,Budget,Contributors,Revenue
 1994,Reality Bites,11500000.0,"['Ben Stiller', 'Winona Ryder', 'Ethan Hawke', 'Ben Stiller', 'Janeane Garofalo', 'Swoosie Kurtz', 'Joe Don Baker', 'John Mahoney']",33351557
 1994,Blank Check,13000000.0,"['Rupert Wainwright', 'Blake Snyder', 'Brian Bonsall', 'Karen Duffy', 'Miguel Ferrer', 'James Rebhorn', 'Tone Lc', 'Jayne Atkinson', 'Michael Lerner']",30577969
 1994,Greedy,23000000.0,"['Jonathan Lynn', 'Michael J. Fox', 'Kirk Douglas', 'Nancy Travis']",13137484
-1994,True Lies,100120,"['James Cameron', 'Arnold Schwarzenegger', 'Jamie Lee Curtis', 'Tom Arnold', 'Bill Paxton', 'Tia Carrere', 'Art Malik', 'Eliza Dushku', 'Grant Heslov', 'Charlton Heston']",378882411
+1994,True Lies,110000000.0,"['James Cameron', 'Arnold Schwarzenegger', 'Jamie Lee Curtis', 'Tom Arnold', 'Bill Paxton', 'Tia Carrere', 'Art Malik', 'Eliza Dushku', 'Grant Heslov', 'Charlton Heston']",378882411
 1994,The Chase,4500000.0,"['Adam Rifkin', 'Adam Rifkin', 'Charlie Sheen', 'Kristy Swanson', 'Rocky Carroll', 'Henry Rollins', 'Josh Mostel', 'Ray Wise']",7924955
 1994,Airheads,11000000.0,"['Michael Lehmann', 'Rich Wilkes', 'Brendan Fraser', 'Steve Buscemi', 'Adam Sandler', 'Chris Farley', 'Amy Locane', 'Michael Richards', 'Joe Mantegna']",5751882
 1994,Thumbelina,28000000,"['Don Bluth', 'Gary Goldman', 'Jodi Benson', 'Gary Imhoff', 'Barbara Cook', 'Carol Channing', 'Charo', 'Gino Conforti', 'Gilbert Gottfried', 'John Hurt', 'Joe Lynch']",11373501
@@ -832,11 +832,11 @@ year,Movie_Name,Budget,Contributors,Revenue
 1999,Wing Commander,30000000.0,"['Freddie Prinze, Jr.', 'Saffron Burrows', 'Matthew Lillard', 'Tchky Karyo', 'Jrgen Prochnow', 'David Warner']",11578059
 1999,Outside Providence,7000000.0,"['Michael Corrente', 'Shawn Hatosy', 'Amy Smart', 'Alec Baldwin']",7302522
 1999,For Love of the Game,50000000.0,"['Sam Raimi', 'Kevin Costner', 'Kelly Preston']",46112640
-1999,Light It Up,13000000.0,"['Craig Bolotin', 'Usher Raymond', 'Forest Whitaker', 'Judd Nelson', 'Rosario Dawson', ""Robert Ri'chard"", 'Sara Gilbert', 'Clifton Collins, Jr.', 'Fredro Starr', 'Vanessa L. Williams']",5985690 
-1999,Deep Blue Sea,60000000.0,"['Renny Harlin', 'Saffron Burrows', 'Thomas Jane', 'LL Cool J', 'Jacqueline McKenzie', 'Michael Rapaport', 'Stellan Skarsgrd', 'Aida Turturro', 'Samuel L. Jackson']",165048228 
+1999,Light It Up,13000000.0,"['Craig Bolotin', 'Usher Raymond', 'Forest Whitaker', 'Judd Nelson', 'Rosario Dawson', ""Robert Ri'chard"", 'Sara Gilbert', 'Clifton Collins, Jr.', 'Fredro Starr', 'Vanessa L. Williams']",5985690
+1999,Deep Blue Sea,60000000.0,"['Renny Harlin', 'Saffron Burrows', 'Thomas Jane', 'LL Cool J', 'Jacqueline McKenzie', 'Michael Rapaport', 'Stellan Skarsgrd', 'Aida Turturro', 'Samuel L. Jackson']",165048228
 1999,Random Hearts,64000000,"['Sydney Pollack', 'Darryl Ponicsan', 'Harrison Ford', 'Kristin Scott Thomas']",74608570
 1999,Love Stinks,4000000.0,"['Jeff Franklin', 'Jeff Franklin', 'French Stewart', 'Bridgette Wilson', 'Bill Bellamy', 'Tyra Banks', 'Steve Hytner', 'Jason Bateman', 'Tiffani Thiessen']",2924635
-1999,Drop Dead Gorgeous,1015,"['Michael Patrick Jann', 'Lona Williams', 'Kirstie Alley', 'Ellen Barkin', 'Kirsten Dunst', 'Denise Richards', 'Allison Janney', 'Sam McMurray', 'Mindy Sterling', 'Brittany Murphy', 'Amy Adams', 'Will Sasso']",10571408
+1999,Drop Dead Gorgeous,12500000.0,"['Michael Patrick Jann', 'Lona Williams', 'Kirstie Alley', 'Ellen Barkin', 'Kirsten Dunst', 'Denise Richards', 'Allison Janney', 'Sam McMurray', 'Mindy Sterling', 'Brittany Murphy', 'Amy Adams', 'Will Sasso']",10571408
 1999,The Story of Us,50000000.0,"['Rob Reiner', 'Bruce Willis', 'Michelle Pfeiffer', 'Rita Wilson', 'Julie Hagerty', 'Tim Matheson', 'Lucy Webb', 'Bill Kirchenbauer', 'Red Buttons', 'Jayne Meadows', 'Betty White']",58900031
 1999,The World Is Not Enough,135000000.0,"['Michael Apted', 'Pierce Brosnan', 'Sophie Marceau', 'Robert Carlyle', 'Denise Richards', 'Robbie Coltrane', 'Judi Dench']",361832400
 1999,Star Wars Episode I: The Phantom Menace,115000000.0,"['George Lucas', 'Liam Neeson', 'Ewan McGregor', 'Natalie Portman', 'Jake Lloyd', 'Ian McDiarmid', 'Anthony Daniels', 'Kenny Baker', 'Pernilla August', 'Frank Oz']",1027000000.0
@@ -905,7 +905,7 @@ year,Movie_Name,Budget,Contributors,Revenue
 1999,Teaching Mrs. Tingle,13000000,"['Kevin Williamson', 'Katie Holmes', 'Helen Mirren', 'Barry Watson', 'Marisa Coughlan']",8951935
 1999,The Haunting,80000000,"['Jan de Bont', 'Liam Neeson', 'Catherine Zeta-Jones', 'Owen Wilson', 'Lili Taylor']",177311151
 1999,Brokedown Palace,25000000.0,"['Jonathan Kaplan', 'Claire Danes', 'Kate Beckinsale', 'Bill Pullman', 'Lim Kay Tong']",10115013
-1999,EDtv,80000000.0,"['Ron Howard', 'Lowell Ganz', 'Babaloo Mandel', 'Matthew McConaughey', 'Jenna Elfman', 'Woody Harrelson', 'Elizabeth Hurley', 'Dennis Hopper', 'Ellen DeGeneres', 'Rob Reiner', 'Martin Landau', 'Sally Kirkland']",35242897 
+1999,EDtv,80000000.0,"['Ron Howard', 'Lowell Ganz', 'Babaloo Mandel', 'Matthew McConaughey', 'Jenna Elfman', 'Woody Harrelson', 'Elizabeth Hurley', 'Dennis Hopper', 'Ellen DeGeneres', 'Rob Reiner', 'Martin Landau', 'Sally Kirkland']",35242897
 1999,October Sky,25000000.0,"['Joe Johnston', 'Jake Gyllenhaal', 'Chris Cooper', 'Laura Dern']",34675800
 1999,Bowfinger,55000000.0,"['Frank Oz', 'Steve Martin', 'Eddie Murphy', 'Heather Graham', 'Christine Baranski', 'Terence Stamp', 'Robert Downey, Jr.']",98625775
 1999,Goodbye Lover,20000000.0,"['Roland Joff', 'Joel Cohen', 'Alec Sokolow', 'Patricia Arquette', 'Dermot Mulroney', 'Mary-Louise Parker', 'Ellen DeGeneres', 'Don Johnson']",1940889
@@ -916,7 +916,7 @@ year,Movie_Name,Budget,Contributors,Revenue
 1999,"Lock, Stock and Two Smoking Barrels",1350000.0,"['Guy Ritchie', 'Peter Cattaneo', 'Jason Flemyng', 'Dexter Fletcher', 'Nick Moran', 'Jason Statham', 'Steven Mackintosh', 'Vinnie Jones', 'Sting']",28356188
 1999,Idle Hands,25000000.0,"['Rodman Flender', 'Devon Sawa', 'Seth Green', 'Elden Henson', 'Jessica Alba', 'Vivica A. Fox']",4152230
 1999,Toy Story 2,90000000.0,"['John Lasseter', 'Tom Hanks', 'Tim Allen']",485511.4
-1999,The 13th Warrior,85100,"['John McTiernan', 'Antonio Banderas', 'Diane Venora', 'Omar Sharif']",61700000.0
+1999,The 13th Warrior,92500000.0,"['John McTiernan', 'Antonio Banderas', 'Diane Venora', 'Omar Sharif']",61700000.0
 1999,The Mummy,80000000.0,"['Stephen Sommers', 'Brendan Fraser', 'Rachel Weisz', 'John Hannah', 'Arnold Vosloo', 'Jonathan Hyde', ""Kevin J. O'Connor""]",415900000.0
 1999,Sleepy Hollow,100000000.0,"['Tim Burton', 'Johnny Depp', 'Christina Ricci']",206071502
 1999,Rushmore,20000000.0,"['Wes Anderson', 'Owen Wilson', 'Jason Schwartzman', 'Olivia Williams', 'Bill Murray']",17195500
@@ -1120,7 +1120,7 @@ year,Movie_Name,Budget,Contributors,Revenue
 2001,The Shipping News,35000000.0,"['Lasse Hallstrm', 'Kevin Spacey', 'Julianne Moore', 'Judi Dench', 'Cate Blanchett']",24405825
 2001,Shallow Hal,40000000.0,"['Peter Farrelly\nRobert Farrelly', 'Peter Farrelly\nRobert Farrelly', 'Jack Black', 'Gwyneth Paltrow', 'Jason Alexander']",141069860
 2001,Jeepers Creepers,10000000.0,"['Victor Salva', 'Gina Philips', 'Justin Long', 'Jonathan Breck']",59200000.0
-2001,Atlantis: The Lost Empire,90120,"['Gary Trousdale', 'Kirk Wise', 'See Cast']",186100000.0
+2001,Atlantis: The Lost Empire,105000000.0,"['Gary Trousdale', 'Kirk Wise', 'See Cast']",186100000.0
 2001,Saving Silverman,22000000.0,"['Dennis Dugan', 'Jason Biggs', 'Steve Zahn', 'Jack Black', 'Amanda Peet', 'Amanda Detmer', 'R. Lee Ermey', 'Neil Diamond']",26086706
 2001,The Wash,7000000.0,"['DJ Pooh', 'Dr. Dre', 'Snoop Dogg', 'George Wallace', 'Angell Conwell', 'Shawn Fonteno', 'Tom Lister, Jr.', 'Eminem', 'Bruce Bruce']",10229331
 2001,Josie and the Pussycats,39000000.0,"['Harry Elfont', 'Deborah Kaplan', 'Rachael Leigh Cook', 'Tara Reid', 'Rosario Dawson', 'Alan Cumming', 'Parker Posey', 'Gabriel Mann']",14866015
@@ -1615,7 +1615,7 @@ The Cradle of Life",95000000.0,"['Jan de Bont', 'Angelina Jolie', 'Gerard Butler
 2005,Stay,50000000.0,"['Marc Forster', 'David Benioff', 'Ewan McGregor', 'Naomi Watts', 'Ryan Gosling']",8342132
 2005,A Lot Like Love,30000000.0,"['Nigel Cole', 'Ashton Kutcher', 'Amanda Peet']",42886719
 2005,The Skeleton Key,43000000.0,"['Iain Softley', 'Ehren Kruger', 'Kate Hudson', 'Gena Rowlands', 'Peter Sarsgaard', 'John Hurt', 'Joy Bryant']",91974818
-2005,The Hitchhiker's Guide to the Galaxy,4550,"['Garth Jennings', 'Sam Rockwell', 'Mos Def', 'Zooey Deschanel', 'Martin Freeman', 'Bill Nighy', 'Anna Chancellor', 'John Malkovich']",104478416
+2005,The Hitchhiker's Guide to the Galaxy,47500000.0,"['Garth Jennings', 'Sam Rockwell', 'Mos Def', 'Zooey Deschanel', 'Martin Freeman', 'Bill Nighy', 'Anna Chancellor', 'John Malkovich']",104478416
 2005,Supercross,9000000.0,"['Steve Boyum', 'Steve Howey', 'Mike Vogel', 'Sophia Bush', 'Cameron Richardson', 'Channing Tatum']",3344431
 2005,Wolf Creek,1000000.0,"['Greg McLean', 'John Jarratt', 'Nathan Phillips', 'Cassandra Magrath', 'Kestie Morassi']",27762648
 2005,"The Chronicles of Narnia:
@@ -1844,7 +1844,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2007,Saw IV,10000000.0,"['Darren Lynn Bousman', 'Tobin Bell', 'Costas Mandylor', 'Scott Patterson', 'Betsy Russell', 'Lyriq Bent']",139352633
 2007,No Country For Old Men,25000000.0,"['Joel Coen', 'Ethan Coen', 'Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin']",171600000.0
 2007,In the Valley of Elah,23000000.0,"['Paul Haggis', 'Tommy Lee Jones', 'Charlize Theron', 'Susan Sarandon', 'Jason Patric', 'Frances Fisher']",29524289
-2007,Elizabeth: The Golden Age,5060,"['Shekhar Kapur', 'William Nicholson', 'Michael Hirst', 'Cate Blanchett', 'Geoffrey Rush', 'Clive Owen', 'Rhys Ifans', 'Jordi Moll', 'Abbie Cornish', 'Samantha Morton']",74237563
+2007,Elizabeth: The Golden Age,55000000.0,"['Shekhar Kapur', 'William Nicholson', 'Michael Hirst', 'Cate Blanchett', 'Geoffrey Rush', 'Clive Owen', 'Rhys Ifans', 'Jordi Moll', 'Abbie Cornish', 'Samantha Morton']",74237563
 2007,National Treasure: Book of Secrets,130000000.0,"['Jon Turteltaub', 'Nicolas Cage', 'Diane Kruger', 'Justin Bartha', 'Jon Voight', 'Harvey Keitel', 'Ed Harris', 'Bruce Greenwood', 'Helen Mirren']",457400000.0
 2007,This Christmas,13000000.0,"['Preston A. Whitmore II', 'Delroy Lindo', 'Idris Elba', 'Loretta Devine', 'Chris Brown', 'Columbus Short', 'Regina King', 'Sharon Leal', 'Lauren London', 'Jessica Stroup', 'Keith Robinson']",49778552
 2007,Reign Over Me,20000000.0,"['Mike Binder', 'Mike Binder', 'Adam Sandler', 'Don Cheadle', 'Jada Pinkett Smith', 'Liv Tyler', 'Saffron Burrows', 'Donald Sutherland', 'Mike Binder']",22222308
@@ -1871,13 +1871,13 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2007,The Reaping,40000000.0,"['Stephen Hopkins', 'Carey Hayes', 'Chad Hayes', 'Hilary Swank', 'David Morrissey', 'Idris Elba', 'AnnaSophia Robb', 'Stephen Rea']",62771059
 2007,Because I Said So,39000000.0,"['Michael Lehmann', 'Diane Keaton', 'Mandy Moore', 'Gabriel Macht', 'Tom Everett Scott', 'Lauren Graham', 'Colin Ferguson', 'Piper Perabo', 'Stephen Collins']",69485490
 2007,The Hunting Party,40000000.0,"['Richard Shepard', 'Richard Gere', 'Terrence Howard', 'Jesse Eisenberg', 'Ljubomir Kereke', 'Diane Kruger', 'James Brolin', 'Dylan Baker', 'Kristina Krepela', 'Aleksandra Grdi']",7644409
-2007,Zodiac,65000000.0,"['David Fincher', 'Jake Gyllenhaal', 'Mark Ruffalo', 'Robert Downey, Jr.', 'Anthony Edwards', 'Brian Cox', 'Elias Koteas', 'Donal Logue', 'John Carroll Lynch', 'Dermot Mulroney']",84785914 
+2007,Zodiac,65000000.0,"['David Fincher', 'Jake Gyllenhaal', 'Mark Ruffalo', 'Robert Downey, Jr.', 'Anthony Edwards', 'Brian Cox', 'Elias Koteas', 'Donal Logue', 'John Carroll Lynch', 'Dermot Mulroney']",84785914
 2007,1408,25000000.0,"['Mikael Hfstrm', 'John Cusack', 'Samuel L. Jackson', 'Mary McCormack', 'Tony Shalhoub', 'Len Cariou', 'Isiah Whitlock, Jr.', 'Jasmine Jessica Anthony']",131998242
 2007,Rush Hour 3,140000000.0,"['Brett Ratner', 'Jeff Nathanson', 'Jackie Chan', 'Chris Tucker', 'Hiroyuki Sanada', 'Noemie Lenoir', 'Tzi Ma', 'Max von Sydow']",258022233
 2007,The Game Plan,22000000.0,"['Andy Fickman', 'Kathryn Price', 'Audrey Wells', 'Dwayne Johnson', 'Madison Pettis', 'Kyra Sedgwick', 'Roselyn Sanchez', 'Morris Chestnut', 'Hayes MacArthur', 'Brian J. White', 'Paige Turco', 'Jamal Duff']",147900000.0
 2007,Starter for 10,8287000,"['Tom Vaughan', 'David Nicholls', 'James McAvoy', 'Alice Eve', 'Rebecca Hall', 'Dominic Cooper']",1736394
 2007,Kickin' It Old Skool,25700000.0,"['Maria Menounos', 'Michael Rosenbaum', 'Miguel A. Nez Jr.', 'Christopher McDonald', 'Bobby Lee', 'Debra Jo Rupp', 'Vivica A. Fox']",4400000.0
-2007,Martian Child,27000000.0,"['Menno Meyjes', 'David Gerrold', 'John Cusack', 'Bobby Coleman', 'Amanda Peet', 'Sophie Okonedo', 'Oliver Platt', 'Joan Cusack']",9292446 
+2007,Martian Child,27000000.0,"['Menno Meyjes', 'David Gerrold', 'John Cusack', 'Bobby Coleman', 'Amanda Peet', 'Sophie Okonedo', 'Oliver Platt', 'Joan Cusack']",9292446
 2007,Death Sentence,20000000.0,"['James Wan', 'Kevin Bacon', 'Garrett Hedlund', 'Kelly Preston', 'Jordan Garrett', 'Stuart Lafferty', 'Aisha Tyler', 'John Goodman']",16974459
 2007,D-War,32000000.0,"['Shim Hyung-rae', 'Jason Behr', 'Amanda Brooks', 'Robert Forster', 'Chris Mulkey', 'Elizabeth Pena']",75108998
 2007,Dead Silence,20000000.0,"['James Wan', 'Ryan Kwanten', 'Amber Valletta', 'Donnie Wahlberg', 'Michael Fairman', 'Bob Gunton', 'Laura Regan']",22217407
@@ -1916,9 +1916,9 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2007,Superbad,20000000.0,"['Greg Mottola', 'Jonah Hill', 'Michael Cera', 'Christopher Mintz-Plasse', 'Bill Hader']",169900000.0
 2007,Ratatouille,150000000.0,"['Brad Bird', 'Patton Oswalt', 'Ian Holm', 'Lou Romano', 'Brian Dennehy', 'Peter Sohn', ""Peter O'Toole"", 'Brad Garrett', 'Janeane Garofalo']",623700000.0
 2007,Dan in Real Life,25000000.0,"['Peter Hedges', 'Steve Carell', 'Alison Pill', 'Juliette Binoche', 'Dianne Wiest', 'John Mahoney', 'Dane Cook']",68400000.0
-2007,Bridge to Terabithia,2025,"['Gbor Csup', 'Josh Hutcherson', 'AnnaSophia Robb', 'Robert Patrick', 'Bailee Madison', 'Zooey Deschanel']",137587063
+2007,Bridge to Terabithia,22500000.0,"['Gbor Csup', 'Josh Hutcherson', 'AnnaSophia Robb', 'Robert Patrick', 'Bailee Madison', 'Zooey Deschanel']",137587063
 2007,Walk Hard: The Dewey Cox Story,35000000.0,"['Jake Kasdan', 'John C. Reilly', 'Jenna Fischer', 'Raymond J. Barry', 'Margo Martindale', 'Kristen Wiig', 'Tim Meadows', 'Chris Parnell', 'Matt Besser']",20575243
-2007,Charlie Wilson's War,75000000.0,"['Mike Nichols', 'Tom Hanks', 'Julia Roberts', 'Philip Seymour Hoffman']",119000410 
+2007,Charlie Wilson's War,75000000.0,"['Mike Nichols', 'Tom Hanks', 'Julia Roberts', 'Philip Seymour Hoffman']",119000410
 2007,The Simpsons Movie,75000000.0,"['David Silverman', 'Dan Castellaneta', 'Julie Kavner', 'Nancy Cartwright', 'Yeardley Smith', 'Hank Azaria', 'Harry Shearer', 'A. Brooks']",527000000.0
 2007,Waitress,1500000.0,"['Adrienne Shelly', 'Adrienne Shelly', 'Keri Russell', 'Nathan Fillion', 'Cheryl Hines', 'Jeremy Sisto', 'Andy Griffith', 'Adrienne Shelly']",22000000.0
 2007,Shoot 'Em Up,39000000.0,"['Michael Davis', 'Clive Owen', 'Paul Giamatti', 'Monica Bellucci', 'Stephen McHattie', 'Greg Bryk']",26820641
@@ -2307,7 +2307,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2009,The Informers,18000000.0,"['Gregor Jordan', 'Bret Easton Ellis', 'Nicholas Jarecki', 'Billy Bob Thornton', 'Winona Ryder', 'Kim Basinger', 'Mickey Rourke', 'Brad Renfro', 'Amber Heard']",382174
 2009,Adam,3200000,"['Max Mayer', 'Hugh Dancy', 'Rose Byrne', 'Frankie Faison', 'Mark Linn-Baker', 'Amy Irving', 'Peter Gallagher']",2549605
 2010,Knight and Day,125000000.0,"['James Mangold', 'Tom Cruise', 'Cameron Diaz', 'Peter Sarsgaard', 'Maggie Grace', 'Paul Dano', 'Marc Blucas', 'Viola Davis', 'Jordi Moll']",261930436
-2010,Living in Emergency: Stories of Doctors Without Borders,1500000.0,[],3200069000
+2010,Living in Emergency: Stories of Doctors Without Borders,1500000.0,[],45000
 2010,The Girl Who Kicked the Hornet's Nest,5300000.0,"['Daniel Alfredson', 'Noomi Rapace', 'Michael Nyqvist']",43498108
 2010,Vampires Suck,20000000.0,"['Jason Friedberg\nAaron Seltzer', 'Jenn Proske', 'Matt Lanter', 'Christopher N. Riggi', 'Ken Jeong', 'Anneliese van der Pol', 'Arielle Kebbel']",80547866
 2010,Jonah Hex,47000000.0,"['Jimmy Hayward', 'Josh Brolin', 'John Malkovich', 'Megan Fox', 'Michael Fassbender', 'Will Arnett', 'Michael Shannon']",10903112
@@ -2490,7 +2490,6 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2010,The Social Network,40000000.0,"['David Fincher', 'Jesse Eisenberg', 'Andrew Garfield', 'Justin Timberlake', 'Armie Hammer', 'Max Minghella', 'Brenda Song']",224900000.0
 2010,3 Idiots,5700000.0,"['Rajkumar Hirani', 'Aamir Khan', 'Kareena Kapoor', 'R. Madhavan', 'Sharman Joshi', 'Boman Irani', 'Omi Vaidya']",64000000.0
 2010,Leaves of Grass,9000000.0,"['Tim Blake Nelson', 'Edward Norton', 'Keri Russell', 'Tim Blake Nelson', 'Richard Dreyfuss', 'Susan Sarandon']",1018753
-2010,Avatar,9000000.0,"['James Cameron', 'Sam Worthington', 'Zoe Saldana', 'Stephen Lang', 'Michelle Rodriguez', 'Sigourney Weaver']",2787965087
 2010,You Again,20000000.0,"['Andy Fickman', 'Kristen Bell', 'Jamie Lee Curtis', 'Sigourney Weaver', 'Odette Yustman', 'Billy Unger', 'Kristin Chenoweth', 'Victor Garber', 'James Wolk', 'Betty White']",32000000.0
 2010,How to Train Your Dragon,165000000.0,"['Chris Sanders', 'Dean DeBlois', 'Jay Baruchel', 'Gerard Butler', 'Craig Ferguson', 'America Ferrera', 'Jonah Hill', 'Christopher Mintz-Plasse', 'T.J. Miller', 'Kristen Wiig']",494878759
 2010,Defendor,4000000.0,"['Peter Stebbings', 'Woody Harrelson', 'Elias Koteas', 'Michael Kelly', 'Sandra Oh', 'Kat Dennings']",44462
@@ -2500,8 +2499,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2010,The Runaways,10000000.0,"['Floria Sigismondi', 'Dakota Fanning', 'Kristen Stewart', 'Michael Shannon']",4681651
 2010,Raavan,4900000.0,"['Mani Ratnam', 'Vikram', 'Abhishek Bachchan', 'Aishwarya Rai', 'Govinda', 'Priyamani', 'Ravi Kishan', 'Nikhil Dwivedi']",4600000.0
 2010,Creation,15900000,"['Jon Amiel', 'John Collee', 'Paul Bettany', 'Jennifer Connelly']",896298
-2010,Skyline,1020,"['The Brothers Strause', 'Eric Balfour', 'Scottie Thompson', 'Brittany Daniel', 'Crystal Reed', 'David Zayas', 'Donald Faison']",78693371
-2010,The Elite Squad 2,950965,"['Jos Padilha', 'Brulio Mantovani', 'Wagner Moura', 'Irandhir Santos', 'Milhem Cortaz', 'Andr Mattos', 'Maria Ribeiro']",63027681
+2010,Skyline,15000000.0,"['The Brothers Strause', 'Eric Balfour', 'Scottie Thompson', 'Brittany Daniel', 'Crystal Reed', 'David Zayas', 'Donald Faison']",78693371
 2010,Here and There,300000,"['Darko Lungulov', 'David Thornton', 'Branislav Trifunovi', 'Cyndi Lauper', 'Mirjana Karanovi', 'Jelena Mra', 'Antone Pagan']",18000
 2010,Harry Brown,7300000.0,"['Daniel Barber', 'Gary Young', 'Michael Caine', 'Emily Mortimer', 'Ben Drew', 'Charlie Creed-Miles', 'David Bradley', ""Jack O'Connell"", 'Sean Harris']",10309370
 2010,Buried,2000000.0,"['Rodrigo Corts', 'Chris Sparling', 'Ryan Reynolds']",19100000.0
@@ -2520,14 +2518,14 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2011,Immortals,75000000.0,"['Tarsem Singh', 'Henry Cavill', 'Stephen Dorff', 'Luke Evans', 'Isabel Lucas', 'Kellan Lutz', 'Freida Pinto', 'Mickey Rourke']",226904017
 2011,Rise of the Planet of the Apes,93000000.0,"['Rupert Wyatt', 'James Franco', 'Freida Pinto', 'John Lithgow', 'Brian Cox', 'Tom Felton', 'David Oyelowo', 'Andy Serkis']",481801049
 2011,Harry Potter and the Deathly Hallows  Part 2,250000000.0,"['David Yates', 'Daniel Radcliffe', 'Rupert Grint', 'Emma Watson']",1341511219
-2011,Drive Angry,4555,"['Patrick Lussier', 'Todd Farmer', 'Nicolas Cage', 'Amber Heard', 'William Fichtner', 'Billy Burke', 'Charlotte Ross', 'Katy Mixon', 'Tom Atkins']",28931401
+2011,Drive Angry,50000000.0,"['Patrick Lussier', 'Todd Farmer', 'Nicolas Cage', 'Amber Heard', 'William Fichtner', 'Billy Burke', 'Charlotte Ross', 'Katy Mixon', 'Tom Atkins']",28931401
 2011,The Roommate,16000000.0,"['Christian E. Christiansen', 'Leighton Meester', 'Minka Kelly', 'Cam Gigandet', 'Danneel Harris', 'Matt Lanter', 'Aly Michalka', 'Katerina Graham', 'Cherilyn Wilson', 'Billy Zane', 'Frances Fisher', 'Tomas Arana', 'Nina Dobrev']",40492759
 2011,The Darkest Hour,30000000.0,"['Chris Gorak', 'Emile Hirsch', 'Olivia Thirlby', 'Max Minghella', 'Rachael Taylor']",64626786
 2011,Like Crazy,250000,"['Drake Doremus', 'Ben York Jones', 'Anton Yelchin', 'Felicity Jones', 'Jennifer Lawrence', 'Alex Kingston']",3542353
 2011,Final Destination 5,40000000.0,"['Steven Quale', 'Eric Heisserer', ""Nicholas D'Agosto"", 'Emma Bell', 'Miles Fisher', 'Arlen Escarpeta', 'David Koechner', 'Tony Todd']",157887643
 2011,Scream 4,40000000.0,"['Wes Craven', 'Ehren Kruger', 'Scott Derrickson', 'David Arquette', 'Neve Campbell', 'Courteney Cox', 'Emma Roberts', 'Hayden Panettiere']",101314231
 2011,Margaret,14000000,"['Kenneth Lonergan', 'Anna Paquin', 'Matt Damon', 'Mark Ruffalo', 'Kieran Culkin', 'Olivia Thirlby', 'Rosemarie DeWitt', 'J. Smith-Cameron', 'Matthew Broderick', 'Allison Janney', 'Jean Reno']",564864
-2011,X-Men: First Class,140160,"['Matthew Vaughn', 'James McAvoy', 'Michael Fassbender', 'Rose Byrne', 'Jennifer Lawrence', 'January Jones', 'Nicholas Hoult', 'Oliver Platt', 'Jason Flemyng', 'Lucas Till', 'Edi Gathegi', 'Kevin Bacon']",353624124
+2011,X-Men: First Class,150000000.0,"['Matthew Vaughn', 'James McAvoy', 'Michael Fassbender', 'Rose Byrne', 'Jennifer Lawrence', 'January Jones', 'Nicholas Hoult', 'Oliver Platt', 'Jason Flemyng', 'Lucas Till', 'Edi Gathegi', 'Kevin Bacon']",353624124
 2011,We Need to Talk About Kevin,7000000.0,"['Lynne Ramsay', 'Tilda Swinton', 'John C. Reilly', 'Ezra Miller']",7493626
 2011,Anonymous,30000000.0,"['Roland Emmerich', 'John Orloff', 'Rhys Ifans', 'Vanessa Redgrave', 'Joely Richardson', 'David Thewlis', 'Xavier Samuel', 'Sebastian Armesto', 'Rafe Spall', 'Edward Hogg', 'Jamie Campbell Bower', 'Mark Rylance', 'Trystan Gravelle', 'Derek Jacobi']",15395087
 2011,War Horse,66000000.0,"['Steven Spielberg', 'Jeremy Irvine', 'Emily Watson', 'David Thewlis', 'Niels Arestrup', 'Tom Hiddleston', 'Toby Kebbell', 'Peter Mullan', 'Patrick Kennedy']",177600000.0
@@ -2695,7 +2693,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Men in Black 3,215000000.0,"['Barry Sonnenfeld', 'Etan Cohen', 'Will Smith', 'Will Smith', 'Tommy Lee Jones', 'Josh Brolin', 'Jemaine Clement', 'Michael Stuhlbarg', 'Emma Thompson']",624026776
 2012,Snow White and the Huntsman,170000000.0,"['Rupert Sanders', 'Kristen Stewart', 'Charlize Theron', 'Chris Hemsworth']",396592829
 2012,This Is 40,35000000.0,"['Judd Apatow', 'Paul Rudd', 'Leslie Mann', 'John Lithgow', 'Megan Fox', 'Albert Brooks']",88058786
-2012,The Possession,14000000.0,"['Ole Bornedal', '[1]', 'Natasha Calis', 'Jeffrey Dean Morgan', 'Kyra Sedgwick', 'Grant Show', 'Madison Davenport', 'Matisyahu']",78515363 
+2012,The Possession,14000000.0,"['Ole Bornedal', '[1]', 'Natasha Calis', 'Jeffrey Dean Morgan', 'Kyra Sedgwick', 'Grant Show', 'Madison Davenport', 'Matisyahu']",78515363
 2012,Darling Companion,12000000.0,"['Lawrence Kasdan', 'Mark Duplass', 'Richard Jenkins', 'Diane Keaton', 'Kevin Kline', 'Elisabeth Moss', 'Sam Shepard', 'Dianne Wiest', 'Ayelet Zurer']",793815
 2012,Madea's Witness Protection,20000000.0,"['Tyler Perry', 'Eugene Levy', 'Denise Richards', 'Romeo Miller', 'Doris Roberts']",66899242
 2012,The Three Stooges,30000000.0,"['Peter Farrelly\nBobby Farrelly', 'Mike Cerrone', 'Sean Hayes', 'Will Sasso', 'Chris Diamantopoulos', 'Sofia Vergara', 'Craig Bierko', 'Larry David', 'Jane Lynch']",54819301
@@ -2706,7 +2704,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Safety Not Guaranteed,750000,"['Colin Trevorrow', 'Derek Connolly', 'Aubrey Plaza', 'Mark Duplass', 'Jake Johnson']",4424699
 2012,Magic Mike,7000000.0,"['Steven Soderbergh', 'Channing Tatum', 'Alex Pettyfer', 'Cody Horn', 'Matt Bomer', 'Olivia Munn', 'Joe Manganiello', 'Matthew McConaughey']",167221571
 2012,Trouble with the Curve,60000000,"['Robert Lorenz', 'Amy Adams', 'Justin Timberlake', 'Matthew Lillard', 'John Goodman']",48963137
-2012,The Dark Knight Rises,230000000.0,"['Christopher Nolan', 'Christian Bale', 'Michael Caine', 'Gary Oldman', 'Anne Hathaway', 'Tom Hardy', 'Marion Cotillard', 'Joseph Gordon-Levitt', 'Morgan Freeman']",1084439099 
+2012,The Dark Knight Rises,230000000.0,"['Christopher Nolan', 'Christian Bale', 'Michael Caine', 'Gary Oldman', 'Anne Hathaway', 'Tom Hardy', 'Marion Cotillard', 'Joseph Gordon-Levitt', 'Morgan Freeman']",1084439099
 2012,Lockout,20000000.0,"['Guy Pearce', 'Maggie Grace', 'Vincent Regan', 'Joseph Gilgun', 'Lennie James', 'Peter Stormare']",32204030
 2012,Smashed,500000,"['James Ponsoldt', 'Susan Burke', 'Mary Elizabeth Winstead', 'Aaron Paul', 'Octavia Spencer', 'Nick Offerman', 'Megan Mullally']",499725
 2012,Arbitrage,12000000.0,"['Nicholas Jarecki', 'Richard Gere', 'Susan Sarandon', 'Tim Roth', 'Brit Marling', 'Laetitia Casta', 'Nate Parker']",51719574
@@ -2735,16 +2733,16 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Nativity 2: Danger in the Manger,3000000,"['Debbie Isitt', 'David Tennant', 'Jessica Hynes', 'Marc Wootton', 'Pam Ferris', 'Ian McNeice', 'Joanna Page']",10119219
 2012,Total Recall,125000000.0,"['Len Wiseman', 'Colin Farrell', 'Kate Beckinsale', 'Jessica Biel']",198500000.0
 2012,Jab Tak Hai Jaan,9700000.0,"['Yash Chopra', 'Shahrukh Khan', 'Katrina Kaif', 'Anushka Sharma']",34000000.0
-2012,The Amazing Spider-Man,2301,"['Marc Webb', 'Andrew Garfield', 'Emma Stone', 'Rhys Ifans', 'Denis Leary', 'Campbell Scott', 'Irrfan Khan', 'Martin Sheen', 'Sally Field']",757900000.0
+2012,The Amazing Spider-Man,230000000.0,"['Marc Webb', 'Andrew Garfield', 'Emma Stone', 'Rhys Ifans', 'Denis Leary', 'Campbell Scott', 'Irrfan Khan', 'Martin Sheen', 'Sally Field']",757900000.0
 2012,Won't Back Down,19000000.0,"['Daniel Barnz', 'Maggie Gyllenhaal', 'Viola Davis', 'Holly Hunter', 'Oscar Isaac', 'Rosie Perez', 'Ving Rhames', 'Marianne Jean-Baptiste']",5249881
 2012,Les Misrables,61000000.0,"['Tom Hooper', 'Hugh Jackman', 'Russell Crowe', 'Anne Hathaway', 'Amanda Seyfried']",441800000.0
-2012,Safe,33000000.0,"['Boaz Yakin', 'Jason Statham', 'Chris Sarandon', 'Robert John Burke', 'James Hong']",40346186 
+2012,Safe,33000000.0,"['Boaz Yakin', 'Jason Statham', 'Chris Sarandon', 'Robert John Burke', 'James Hong']",40346186
 2012,Lawless,26000000.0,"['John Hillcoat', 'Shia LaBeouf', 'Tom Hardy', 'Gary Oldman', 'Mia Wasikowska', 'Jessica Chastain', 'Jason Clarke', 'Guy Pearce']",53676580
 2012,Good Deeds,14000000,"['Tyler Perry', 'Thandie Newton', 'Brian J. White', 'Rebecca Romijn', 'Jamie Kennedy', 'Phylicia Rashad', 'Gabrielle Union']",35025791
 2012,Red Tails,58000000.0,"['Anthony Hemingway', 'George Lucas', '[1]', 'Terrence Howard', 'Cuba Gooding, Jr.']",50365377
 2012,Chasing Mavericks,20000000.0,"['Curtis Hanson', 'Michael Apted', 'Gerard Butler', 'Jonny Weston', 'Elisabeth Shue', 'Abigail Spencer']",8300000.0
-2012,Here Comes the Boom,42000000.0,"['Frank Coraci', 'Allan Loeb', 'Henry Winkler', '[1]', 'Salma Hayek', 'Bas Rutten']",73100172 
-2012,The Guilt Trip,40000000.0,"['Anne Fletcher', 'Dan Fogelman', 'Barbra Streisand', 'Seth Rogen']",41030582 
+2012,Here Comes the Boom,42000000.0,"['Frank Coraci', 'Allan Loeb', 'Henry Winkler', '[1]', 'Salma Hayek', 'Bas Rutten']",73100172
+2012,The Guilt Trip,40000000.0,"['Anne Fletcher', 'Dan Fogelman', 'Barbra Streisand', 'Seth Rogen']",41030582
 2012,The Devil Inside,1000000.0,"['William Brent Bell', 'Simon Quarterman', 'Suzan Crowley']",101758490
 2012,Marvel's The Avengers,220000000.0,"['Joss Whedon', 'Robert Downey, Jr.', 'Chris Evans', 'Mark Ruffalo', 'Chris Hemsworth', 'Scarlett Johansson', 'Jeremy Renner', 'Tom Hiddleston', 'Clark Gregg', 'Cobie Smulders', 'Stellan Skarsgrd', 'Samuel L. Jackson']",1518000000.0
 2012,This Means War,65000000.0,"['McG', 'Reese Witherspoon', 'Chris Pine', 'Tom Hardy', 'Til Schweiger', 'Chelsea Handler']",156491279
@@ -2754,7 +2752,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Hit and Run,2000000.0,"['Dax Shepard', 'Kristen Bell', 'Kristin Chenoweth', 'Tom Arnold', 'Bradley Cooper']",14453354
 2012,The Man with the Iron Fists,20000000.0,"['RZA', 'Russell Crowe', 'Cung Le', 'Lucy Liu', 'Byron Mann', 'Rick Yune', 'David Bautista', 'Jamie Chung']",20250000.0
 2012,The Master,32000000.0,"['Paul Thomas Anderson', 'Joaquin Phoenix', 'Philip Seymour Hoffman', 'Amy Adams', 'Laura Dern']",28258060
-2012,Anna Karenina,31000000.0,"['Joe Wright', 'Keira Knightley', 'Jude Law', 'Aaron Johnson', 'Kelly Macdonald', 'Matthew Macfadyen', 'Domhnall Gleeson', 'Ruth Wilson', 'Alicia Vikander', 'Olivia Williams', 'Emily Watson']",68929150 
+2012,Anna Karenina,31000000.0,"['Joe Wright', 'Keira Knightley', 'Jude Law', 'Aaron Johnson', 'Kelly Macdonald', 'Matthew Macfadyen', 'Domhnall Gleeson', 'Ruth Wilson', 'Alicia Vikander', 'Olivia Williams', 'Emily Watson']",68929150
 2012,Premium Rush,35000000.0,"['David Koepp', 'Joseph Gordon-Levitt', 'Michael Shannon', 'Dania Ramirez', 'Jamie Chung', 'Wol Parks', 'Aasif Mandvi']",31083599
 2012,Raaz 3D,4100000.0,"['Vikram Bhatt', 'Shagufta Rafique', 'Emraan Hashmi', 'Bipasha Basu', 'Esha Gupta']",16000000.0
 2012,Rise of the Guardians,145000000.0,"['Peter Ramsey', 'Chris Pine', 'Alec Baldwin', 'Hugh Jackman', 'Isla Fisher', 'Jude Law']",306900000.0
@@ -2776,7 +2774,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Killing Them Softly,15000000.0,"['Andrew Dominik', 'Brad Pitt', 'Scoot McNairy', 'Ben Mendelsohn', 'Richard Jenkins', 'James Gandolfini', 'Ray Liotta', 'Sam Shepard']",37930465
 2012,The Woman in Black,15000000.0,"['James Watkins', 'Daniel Radcliffe', 'Ciarn Hinds', 'Janet McTeer', 'Liz White']",127730736
 2012,Cosmopolis,20500000.0,"['David Cronenberg', 'Robert Pattinson', 'Paul Giamatti', 'Samantha Morton', 'Sarah Gadon', 'Mathieu Amalric', 'Juliette Binoche', 'Jay Baruchel', 'Kevin Durand']",6063556
-2012,Skyfall,150200,"['Sam Mendes', 'Daniel Craig', 'Javier Bardem', 'Ralph Fiennes', 'Naomie Harris', 'Brnice Marlohe', 'Albert Finney', 'Judi Dench']",1108.6
+2012,Skyfall,150200,"['Sam Mendes', 'Daniel Craig', 'Javier Bardem', 'Ralph Fiennes', 'Naomie Harris', 'Brnice Marlohe', 'Albert Finney', 'Judi Dench']",1108.60
 2012,Red Dawn,65000000.0,"['Dan Bradley', 'Chris Hemsworth', 'Josh Peck', 'Josh Hutcherson', 'Adrianne Palicki', 'Isabel Lucas', 'Connor Cruise', 'Jeffrey Dean Morgan']",48169726
 2012,American Reunion,50000000.0,"['Jon Hurwitz', 'Hayden Schlossberg', 'Jason Biggs', 'Alyson Hannigan', 'Chris Klein', 'Thomas Ian Nicholas', 'Tara Reid', 'Seann William Scott', 'Mena Suvari', 'Eddie Kaye Thomas', 'Dania Ramirez', 'Eugene Levy']",234989584
 2012,People Like Us,16000000.0,"['Alex Kurtzman', 'Chris Pine', 'Elizabeth Banks', 'Olivia Wilde', 'Michelle Pfeiffer']",12400000.0
@@ -2785,7 +2783,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Sinister,3000000.0,"['Scott Derrickson', 'C. Robert Cargill', 'Ethan Hawke', 'Juliet Rylance', 'Fred Thompson', 'James Ransone', 'Clare Foley']",87727807
 2012,Think Like a Man,12000000.0,"['Tim Story', 'Michael Ealy', 'Jerry Ferrara', 'Meagan Good', 'Regina Hall', 'Kevin Hart', 'Terrence J', 'Taraji P. Henson', 'Romany Malco', 'Gabrielle Union']",96070507
 2012,Ek Tha Tiger,12000000.0,"['Kabir Khan', 'Salman Khan', 'Katrina Kaif', 'Ranvir Shorey', 'Girish Karnad']",50000000.0
-2012,The Hobbit: An Unexpected Journey,200315,"['Peter Jackson', 'Ian McKellen', 'Martin Freeman', 'Richard Armitage', 'James Nesbitt', 'Ken Stott', 'Cate Blanchett', 'Ian Holm', 'Christopher Lee', 'Hugo Weaving', 'Elijah Wood', 'Andy Serkis']",1017000000.0
+2012,The Hobbit: An Unexpected Journey,267500000.0,"['Peter Jackson', 'Ian McKellen', 'Martin Freeman', 'Richard Armitage', 'James Nesbitt', 'Ken Stott', 'Cate Blanchett', 'Ian Holm', 'Christopher Lee', 'Hugo Weaving', 'Elijah Wood', 'Andy Serkis']",1017000000.0
 2012,Big Miracle,30000000.0,"['Ken Kwapis', 'Drew Barrymore', 'John Krasinski']",24719215
 2012,Cirque du Soleil: Worlds Away,25000000.0,"['Andrew Adamson', 'Erica Linz', 'Benedikt Negro']",34153101
 2012,Resident Evil: Retribution,65000000.0,"['Paul W. S. Anderson', 'Milla Jovovich', 'Michelle Rodriguez', 'Kevin Durand', 'Sienna Guillory', 'Shawn Roberts', 'Aryana Engineer', 'Oded Fehr', 'Colin Salmon', 'Johann Urb', 'Boris Kodjoe', 'Li Bingbing']",240159255
@@ -2802,8 +2800,8 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Beasts of the Southern Wild,1800000.0,"['Benh Zeitlin', 'Quvenzhan Wallis', 'Dwight Henry']",21911774
 2012,End of Watch,7500000.0,"['David Ayer', 'Jake Gyllenhaal', 'Michael Pea', 'Anna Kendrick', 'Natalie Martinez', 'America Ferrera', 'Frank Grillo', 'David Harbour']",53000000.0
 2012,LOL,11000000.0,"['Lisa Azuelos', 'Miley Cyrus', 'Demi Moore', 'Douglas Booth', 'Ashley Greene']",18279948
-2012,The Five-Year Engagement,30000000.0,"['Nicholas Stoller', 'Jason Segel', 'Jason Segel', 'Emily Blunt', 'Chris Pratt', 'Alison Brie', 'Jacki Weaver', 'Rhys Ifans', 'Chris Parnell']",53909751 
-2012,Sparkle,14000000.0,"['Mara Brock Akil', 'Jordin Sparks', 'Whitney Houston', 'Derek Luke', 'Mike Epps', 'Tamela Mann', 'Carmen Ejogo', 'Tika Sumpter', 'Omari Hardwick', 'Cee Lo Green']",24637469 
+2012,The Five-Year Engagement,30000000.0,"['Nicholas Stoller', 'Jason Segel', 'Jason Segel', 'Emily Blunt', 'Chris Pratt', 'Alison Brie', 'Jacki Weaver', 'Rhys Ifans', 'Chris Parnell']",53909751
+2012,Sparkle,14000000.0,"['Mara Brock Akil', 'Jordin Sparks', 'Whitney Houston', 'Derek Luke', 'Mike Epps', 'Tamela Mann', 'Carmen Ejogo', 'Tika Sumpter', 'Omari Hardwick', 'Cee Lo Green']",24637469
 2012,Joyful Noise,25000000.0,"['Todd Graff', 'Queen Latifah', 'Dolly Parton', 'Keke Palmer', 'Jeremy Jordan']",31157914
 2012,Madagascar 3: Europe's Most Wanted,145000000.0,"['Eric Darnell', 'Conrad Vernon', '[1]', 'Tom McGrath', '[2]', 'Ben Stiller', 'Chris Rock', 'David Schwimmer', 'Jada Pinkett Smith', 'Sacha Baron Cohen', 'Cedric the Entertainer', 'Andy Richter', 'Jessica Chastain', 'Bryan Cranston', 'Martin Short', 'Frances McDormand']",746921274
 2012,Hope Springs,30000000.0,"['David Frankel', 'Vanessa Taylor', 'Meryl Streep', 'Tommy Lee Jones', 'Steve Carell']",114281051
@@ -2813,7 +2811,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2012,Hotel Transylvania,85000000.0,"['Genndy Tartakovsky', '[1]', 'Adam Sandler', 'Andy Samberg', 'Selena Gomez', 'Kevin James', 'Fran Drescher', 'Steve Buscemi', 'Molly Shannon', 'David Spade', 'CeeLo Green']",358375603
 2012,The Bourne Legacy,125000000.0,"['Tony Gilroy', 'Jeremy Renner', 'Rachel Weisz', 'Edward Norton', 'Albert Finney', 'Joan Allen', 'Stacy Keach', 'Oscar Isaac', 'Scott Glenn']",276144750
 2012,Step Up Revolution,33000000.0,"['Scott Speer', 'Ryan Guzman', 'Kathryn McCormick', 'Misha Gabriel', 'Cleopatra Coleman', 'Stephen ""tWitch"" Boss', 'Tommy Dewey', 'Peter Gallagher', 'RJ Mitte']",140470746
-2012,Prometheus,120130,"['Ridley Scott', 'Jon Spaihts', 'Damon Lindelof', 'Noomi Rapace', 'Michael Fassbender', 'Guy Pearce', 'Idris Elba', 'Logan Marshall-Green', 'Charlize Theron']",403400000.0
+2012,Prometheus,125000000.0,"['Ridley Scott', 'Jon Spaihts', 'Damon Lindelof', 'Noomi Rapace', 'Michael Fassbender', 'Guy Pearce', 'Idris Elba', 'Logan Marshall-Green', 'Charlize Theron']",403400000.0
 2012,Wreck-It Ralph,165000000.0,"['Rich Moore', 'John C. Reilly', 'Sarah Silverman', 'Jack McBrayer', 'Jane Lynch']",471200000.0
 2012,What to Expect When You're Expecting,40000000.0,"['Kirk Jones', 'Cameron Diaz', 'Jennifer Lopez', 'Elizabeth Banks', 'Chace Crawford', 'Brooklyn Decker', 'Anna Kendrick', 'Matthew Morrison', 'Dennis Quaid', 'Chris Rock', 'Rodrigo Santoro']",84384002
 2012,Project X,12000000.0,"['Nima Nourizadeh', 'Thomas Mann', 'Oliver Cooper', 'Jonathan Daniel Brown']",102700000.0
@@ -2856,7 +2854,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2013,The Lone Ranger,225000000.0,"['Gore Verbinski', 'Johnny Depp', 'Armie Hammer', 'Tom Wilkinson', 'William Fichtner', 'Barry Pepper', 'James Badge Dale', 'Helena Bonham Carter']",260500000.0
 2013,The Grand Seduction,12700000.0,"['Don McKellar', 'Ken Scott', 'Michael Dowse', 'Taylor Kitsch', 'Brendan Gleeson', 'Liane Balaban', 'Gordon Pinsent', 'Mark Critch', 'Mary Walsh', 'Cathy Jones', 'Matt Watts']",3878262
 2013,Saving Mr. Banks,35000000.0,"['John Lee Hancock', 'Kelly Marcel', 'Emma Thompson', 'Tom Hanks', 'Paul Giamatti', 'Jason Schwartzman', 'Bradley Whitford', 'Colin Farrell']",112500000.0
-2013,Jack the Giant Slayer,185200,"['Bryan Singer', 'Nicholas Hoult', 'Eleanor Tomlinson', 'Stanley Tucci', 'Ian McShane', 'Bill Nighy', 'Ewan McGregor']",197687603
+2013,Jack the Giant Slayer,192500000.0,"['Bryan Singer', 'Nicholas Hoult', 'Eleanor Tomlinson', 'Stanley Tucci', 'Ian McShane', 'Bill Nighy', 'Ewan McGregor']",197687603
 2013,Under the Skin,13300000.0,"['Jonathan Glazer', 'Scarlett Johansson']",5735963
 2013,American Hustle,40000000.0,"['David O. Russell', 'Eric Warren Singer', 'Christian Bale', 'Bradley Cooper', 'Amy Adams', 'Jeremy Renner', 'Jennifer Lawrence']",251200000.0
 2013,Stoker,12000000.0,"['Park Chan-wook', 'Wentworth Miller', 'Mia Wasikowska', 'Matthew Goode', 'Nicole Kidman', 'Dermot Mulroney', 'Jacki Weaver']",12077441
@@ -2972,7 +2970,7 @@ The Lion, the Witch and the Wardrobe",180000000.0,"['Andrew Adamson', 'Christoph
 2013,2 Guns,61000000.0,"['Baltasar Kormkur', 'Denzel Washington', 'Mark Wahlberg', 'Paula Patton', 'Bill Paxton', 'Fred Ward', 'James Marsden', 'Edward James Olmos']",131940411
 2013,Phantom,18000000,"['Todd Robinson', 'Ed Harris', 'David Duchovny', 'William Fichtner', 'Lance Henriksen', 'Johnathon Schaech', 'Julian Adams']",1177589
 2013,Grace Unplugged,1700000.0,"['AJ Michalka', 'James Denton', 'Kevin Pollak']",2507106
-2013,The Hunger Games: Catching Fire,130140,"['Francis Lawrence', 'Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks', 'Lenny Kravitz', 'Philip Seymour Hoffman', 'Jeffrey Wright', 'Stanley Tucci', 'Donald Sutherland']",864900000.0
+2013,The Hunger Games: Catching Fire,135000000.0,"['Francis Lawrence', 'Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks', 'Lenny Kravitz', 'Philip Seymour Hoffman', 'Jeffrey Wright', 'Stanley Tucci', 'Donald Sutherland']",864900000.0
 2013,Iron Man 3,200000000.0,"['Shane Black', 'Robert Downey, Jr.', 'Gwyneth Paltrow', 'Don Cheadle', 'Guy Pearce', 'Rebecca Hall', 'Stephanie Szostak', 'James Badge Dale', 'Jon Favreau', 'Ben Kingsley']",1200000000.0
 2013,Shootout at Wadala,7800000.0,"['Sanjay Gupta', 'Anil Kapoor', 'John Abraham', 'Kangna Ranaut', 'Sonu Sood', 'Manoj Bajpai', 'Ronit Roy', 'Mahesh Manjrekar', 'Tusshar Kapoor']",12000000.0
 2013,Special 26,6800000.0,"['Neeraj Pandey', 'Neeraj Pandey', 'Akshay Kumar', 'Kajal Aggarwal', 'Manoj Bajpayee', 'Jimmy Shergill', 'Divya Dutta', 'Anupam Kher']",17000000.0
