@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import urllib2
 import re
 import csv
@@ -71,21 +71,21 @@ def insert_into_db(data_list):
 	contributor_set = set(contributors)
 	cl = connect()
 	# Insert all contributors
-	# insert_contributors(contributor_set)
+	insert_contributors(contributor_set)
 
 	# Insert the movies
-	# insert_movies(data_list)
+	insert_movies(data_list)
 
 	# Insert all edges
 	insert_edges(movie_contributor_hash)
 
 	# Insert the awards data
-	awards_hash = {}
-	for row in awards_data:
-		if row['name'] in awards_hash:
-			awards_hash[row['name']] = {'awards_count':0,'awards':[]}
-		awards_hash[row['name']]['awards_count'] += 1 if row['win_type'] == 'winner' else 0.5
-		awards_hash[row['name']]['awards']
+	# awards_hash = {}
+	# for row in awards_data:
+	# 	if row['name'] in awards_hash:
+	# 		awards_hash[row['name']] = {'awards_count':0,'awards':[]}
+	# 	awards_hash[row['name']]['awards_count'] += 1 if row['win_type'] == 'winner' else 0.5
+	# 	awards_hash[row['name']]['awards']
 
 
 def insert_contributors(contributor_set):
@@ -122,7 +122,8 @@ def insert_edges(movie_contributor_hash):
 def insert_awards_count(awards_hash):
 	cl = connect()
 	for actor in awards_hash:
-		cl
+		print "here"
+
 if __name__ == "__main__":
 	files = get_all_filenames()
 	all_data = []
