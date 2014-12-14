@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+import BeautifulSoup
 from collections import defaultdict
 from connect_db import *
 import urllib2
@@ -142,7 +142,12 @@ def save_scores_to_db(final_hub_score, final_auth_score):
 
     for movie in final_auth_score:
         print "Updating for "+movie[0]
-        cl.command('Update Movie set auth_score='+str(final_auth_score[movie])+' where name="'+movie[0]+'" and year='+movie[1])
+        movie_record = cl.command('select from Movie  where name="'+movie[0]+'" and year='+movie[1])[0]
+        try:
+            award_count = cl.command('select sum(award_count) from Contributor where @rid in (select expand(in()) from Movie where @rid='+movie_record.rid+')')[0].sum
+        except Exception, e:
+            award_count = 0
+        cl.command('Update Movie set auth_score='+str(final_auth_score[movie])+',award_count='+str(award_count)+' where @rid='+movie_record.rid)
 
 def sort_dict_by_value(map):
     sorted_map = sorted(map.items(), key=operator.itemgetter(0),reverse=True)
