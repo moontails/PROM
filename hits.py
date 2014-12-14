@@ -8,6 +8,7 @@ import os
 import numpy
 import networkx as nx
 import operator
+from connect_db import *
 def get_data(filename):
     data_list = []
     with open('data/'+filename,mode='rU') as datafile:
@@ -32,8 +33,6 @@ def init_prom(final_data,award_data,alpha=0.5,beta=0.5):
     
     for row in final_data:
         profit_score = float(row['Revenue']) / float(row['Budget'])
-        row['Contributors'] = re.sub('\[|\]|\'','',row['Contributors'])
-        row['Contributors'] = re.sub('\\n',',',row['Contributors'])
         temp_contributor_list = row['Contributors'].split(', ')
         movie_contributor_hash[row['Movie_Name'],row['year']] = temp_contributor_list
         for contributor in temp_contributor_list:
@@ -135,15 +134,23 @@ def what_is_interesting(final_hub_score, final_auth_score):
             break
         count+=1
 
+def save_scores_to_db(final_hub_score, final_auth_score):
+    cl = connect()
+    for name in final_hub_score:
+        print "Updating for "+name
+        cl.command('Update Contributor set hub_score='+str(final_hub_score[name])+' where name=\''+name+'\'')
+
 def sort_dict_by_value(map):
     sorted_map = sorted(map.items(), key=operator.itemgetter(0),reverse=True)
     return sorted_map
+
 if __name__ == "__main__":
     final_data = get_data('final_data.csv')
     awards_data = get_data('awards.csv')
     print "Movie data: " + str(len(final_data))
     print "Awards data: " + str(len(awards_data))
     final_hub_score, final_auth_score  = execute_prom(final_data,awards_data)
+    save_scores_to_db(final_hub_score, final_auth_score)
     what_is_interesting(final_hub_score, final_auth_score)
 
 

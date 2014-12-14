@@ -27,7 +27,10 @@ def process_content(content,award_type):
 				name = href.string
 				name = re.sub('Written| by|Screenplay|Original|Story','',name)
 				name = re.sub('&|;| and',',',name)
-				# name = 
+				name = re.sub('\[[0-9]*\]|\[|\]|\'|novel|see Cast|original screenplay|Adapted for the screen|','',name)
+				name = re.sub(r'\\n',',',name)
+				name = re.sub(',\s*,',',',name)
+				name = re.sub(', Jr.',' Jr.',name)
 		for tag in tr.parent.parent.previous_elements:
 			if tag.name == 'dt':
 				dt = tag

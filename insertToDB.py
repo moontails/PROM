@@ -46,6 +46,10 @@ def clean_data(data_list):
 				row['Revenue'] = str(float(row['Revenue'])*1000000)
 		except Exception, e:
 			print row
+		row['Contributors'] = re.sub('\[[0-9]*\]|\[|\]|\'|novel|see Cast|original screenplay|Adapted for the screen|','',row['Contributors'])
+		row['Contributors'] = re.sub(r'\\n',',',row['Contributors'])
+		row['Contributors'] = re.sub(',\s*,',',',row['Contributors'])
+		row['Contributors'] = re.sub(', Jr.',' Jr.',row['Contributors'])
 		final_data.append(row)
 	return final_data
 
@@ -62,14 +66,24 @@ def insert_into_db(data_list):
 	movie_contributor_hash = {}
 	contributors = []
 	for row in final_data:
-		row['Contributors'] = re.sub('\[|\]|\'','',row['Contributors'])
-		row['Contributors'] = re.sub('\\n',',',row['Contributors'])
-		temp_contributor_list = row['Contributors'].split(', ')
+		temp_contributor_list = row['Contributors'].split(',')
 		movie_contributor_hash[row['Movie_Name'],row['year']] = temp_contributor_list
 		contributors.extend(temp_contributor_list)
-
 	contributor_set = set(contributors)
+
+	awards_hash = {}
+	for row in awards_data:
+		names = row['contributor_name'].split(',')
+		for name in names:
+			t_name = name.strip()
+			if not t_name in awards_hash:
+				awards_hash[t_name] = {'award_count':0,'awards':[]}
+			awards_hash[t_name]['award_count'] += 1 if row['win_type'] == 'winner' else 0.5
+			# awards_hash[row['name']]['awards'] = awards_hash[row['name']]['awards'].append()
+
 	cl = connect()
+	cl.command('delete from E')
+	cl.command('delete from V')
 	# Insert all contributors
 	insert_contributors(contributor_set)
 
@@ -80,22 +94,16 @@ def insert_into_db(data_list):
 	insert_edges(movie_contributor_hash)
 
 	# Insert the awards data
-	# awards_hash = {}
-	# for row in awards_data:
-	# 	if row['name'] in awards_hash:
-	# 		awards_hash[row['name']] = {'awards_count':0,'awards':[]}
-	# 	awards_hash[row['name']]['awards_count'] += 1 if row['win_type'] == 'winner' else 0.5
-	# 	awards_hash[row['name']]['awards']
-
+	insert_awards(awards_hash)
 
 def insert_contributors(contributor_set):
 	regex = '"'
 	cl = connect()
 	for name in contributor_set:
-		name = re.sub(regex,'',name).strip()
+		name = name.strip()
 		if len(name)>0:
 			print 'Inserting '+name
-			cl.command('Create vertex Contributor set name="'+name+'",awards=[], award_count=0')
+			cl.command('Create vertex Contributor set name=\''+name+'\',awards=[], award_count=0')
 
 def insert_movies(data_list):
 	regex = '"'
@@ -114,15 +122,16 @@ def insert_edges(movie_contributor_hash):
 	cl = connect()
 	for movie_tuple in movie_contributor_hash:
 		for actor in movie_contributor_hash[movie_tuple]:
-			print 'adding edge from '+re.sub(regex,'',actor).strip()+' to '+movie_tuple[0]
-			cmd_str = 'Create edge contributed_to from (select from Contributor where name="'+re.sub(regex,'',actor).strip()+'") to (select from Movie where name="'+movie_tuple[0]+'" and year=+'+movie_tuple[1]+')'
+			print 'adding edge from '+actor.strip()+' to '+movie_tuple[0]
+			cmd_str = 'Create edge contributed_to from (select from Contributor where name=\''+actor.strip()+'\') to (select from Movie where name="'+movie_tuple[0]+'" and year=+'+movie_tuple[1]+')'
 			# print cmd_str
 			cl.command(cmd_str)
 
-def insert_awards_count(awards_hash):
+def insert_awards(awards_hash):
 	cl = connect()
-	for actor in awards_hash:
-		print "here"
+	for contributor in awards_hash:
+		print 'Updating '+contributor
+		cl.command('Update Contributor set award_count='+str(awards_hash[contributor]['award_count'])+' where name="'+contributor+'"')
 
 if __name__ == "__main__":
 	files = get_all_filenames()

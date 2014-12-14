@@ -201,7 +201,7 @@ year,award_type,win_type,contributor_name,movie_name
 2005,actors,nominee,David Strathairn,"Good Night, and Good Luck."
 2006,actors,nominee,Leonardo DiCaprio,Blood Diamond
 2006,actors,nominee,Ryan Gosling,Half Nelson
-2006,actors,nominee,Peter O'Toole,Venus
+2006,actors,nominee,Peter OToole,Venus
 2006,actors,nominee,Will Smith,The Pursuit of Happyness
 2006,actors,winner,Forest Whitaker,The Last King of Scotland
 2007,actors,nominee,George Clooney,Michael Clayton
@@ -289,7 +289,7 @@ year,award_type,win_type,contributor_name,movie_name
 1994,writing,nominee,"Frances Walsh, Peter Jackson",Heavenly Creatures
 1994,writing,winner," Quentin Tarantino,  Stories Quentin Tarantino , Roger Avary",Pulp Fiction
 1994,writing,nominee,"Krzysztof Piesiewicz, Krzysztof Kieslowski",Red
-1995,writing,nominee,"William Broyles, Jr., Al Reinert",Apollo 13
+1995,writing,nominee,"William Broyles Jr., Al Reinert",Apollo 13
 1995,writing,nominee,"George Miller, Chris Noonan",Babe
 1995,writing,nominee,Mike Figgis,Leaving Las Vegas
 1995,writing,nominee,"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",The Postman (Il Postino)
@@ -443,7 +443,7 @@ year,award_type,win_type,contributor_name,movie_name
 2010,writing,winner, Aaron Sorkin,The Social Network
 2010,writing,nominee," Michael Arndt,  John Lasseter, Andrew Stanton, Lee Unkrich",Toy Story 3
 2010,writing,nominee," for the screen Joel Coen , Ethan Coen",True Grit
-2010,writing,nominee,"Adapted for the screen Debra Granik , Anne Rosellini",Winter's Bone
+2010,writing,nominee," Debra Granik , Anne Rosellini",Winter's Bone
 2010,writing,nominee, Mike Leigh,Another Year
 2010,writing,nominee," Scott Silver, Paul Tamasy , Eric Johnson,  Keith Dorrington , Paul Tamasy , Eric Johnson",The Fighter
 2010,writing,nominee, Christopher Nolan,Inception
@@ -453,7 +453,7 @@ year,award_type,win_type,contributor_name,movie_name
 2011,writing,nominee, John Logan,Hugo
 2011,writing,nominee," George Clooney , Grant Heslov, Beau Willimon",The Ides of March
 2011,writing,nominee," Steven Zaillian, Aaron Sorkin,  Stan Chervin",Moneyball
-2011,writing,nominee," Bridget O'Connor , Peter Straughan",Tinker Tailor Soldier Spy
+2011,writing,nominee," Bridget OConnor , Peter Straughan",Tinker Tailor Soldier Spy
 2011,writing,nominee, Michel Hazanavicius,The Artist
 2011,writing,nominee," Annie Mumolo , Kristen Wiig",Bridesmaids
 2011,writing,nominee, J.C. Chandor,Margin Call
@@ -626,7 +626,7 @@ year,award_type,win_type,contributor_name,movie_name
 1994,picture,nominee,"Niki Marvin, Producer",The Shawshank Redemption
 1995,picture,nominee,"Brian Grazer, Producer",Apollo 13
 1995,picture,nominee,"George Miller, Doug Mitchell, Bill Miller, Producers",Babe
-1995,picture,winner,"Mel Gibson, Alan Ladd, Jr., Bruce Davey, Producers",Braveheart
+1995,picture,winner,"Mel Gibson, Alan Ladd Jr., Bruce Davey, Producers",Braveheart
 1995,picture,nominee,"Mario Cecchi Gori, Vittorio Cecchi Gori, Gaetano Daniele, Producers",The Postman (Il Postino)
 1995,picture,nominee,"Lindsay Doran, Producer",Sense and Sensibility
 1996,picture,winner,"Saul Zaentz, Producer",The English Patient
@@ -666,7 +666,7 @@ year,award_type,win_type,contributor_name,movie_name
 2002,picture,nominee,"Roman Polanski, Robert Benmussa, Alain Sarde, Producers",The Pianist
 2003,picture,winner,"Barrie M. Osborne, Peter Jackson, Fran Walsh, Producers",The Lord of the Rings: The Return of the King
 2003,picture,nominee,"Ross Katz, Sofia Coppola, Producers",Lost in Translation
-2003,picture,nominee,"Samuel Goldwyn, Jr., Peter Weir, Duncan Henderson, Producers",Master and Commander: The Far Side of the World
+2003,picture,nominee,"Samuel Goldwyn Jr., Peter Weir, Duncan Henderson, Producers",Master and Commander: The Far Side of the World
 2003,picture,nominee,"Robert Lorenz, Judie G. Hoyt, Clint Eastwood, Producers",Mystic River
 2003,picture,nominee,"Kathleen Kennedy, Frank Marshall, Gary Ross, Producers",Seabiscuit
 2004,picture,nominee,"Michael Mann, Graham King, Producers",The Aviator
@@ -771,7 +771,7 @@ year,award_type,win_type,contributor_name,movie_name
 1995,supporting_actor,nominee,Brad Pitt,12 Monkeys
 1995,supporting_actor,nominee,Tim Roth,Rob Roy
 1995,supporting_actor,winner,Kevin Spacey,The Usual Suspects
-1996,supporting_actor,winner,"Cuba Gooding, Jr.",Jerry Maguire
+1996,supporting_actor,winner,Cuba Gooding Jr.,Jerry Maguire
 1996,supporting_actor,nominee,William H. Macy,Fargo
 1996,supporting_actor,nominee,Armin Mueller-Stahl,Shine
 1996,supporting_actor,nominee,Edward Norton,Primal Fear
@@ -960,7 +960,7 @@ year,award_type,win_type,contributor_name,movie_name
 2009,supporting_actress,nominee,Vera Farmiga,Up in the Air
 2009,supporting_actress,nominee,Maggie Gyllenhaal,Crazy Heart
 2009,supporting_actress,nominee,Anna Kendrick,Up in the Air
-2009,supporting_actress,winner,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire
+2009,supporting_actress,winner,MoNique,Precious: Based on the Novel 'Push' by Sapphire
 2010,supporting_actress,nominee,Amy Adams,The Fighter
 2010,supporting_actress,nominee,Helena Bonham Carter,The King's Speech
 2010,supporting_actress,winner,Melissa Leo,The Fighter
@@ -978,6 +978,6 @@ year,award_type,win_type,contributor_name,movie_name
 2012,supporting_actress,nominee,Jacki Weaver,Silver Linings Playbook
 2013,supporting_actress,nominee,Sally Hawkins,Blue Jasmine
 2013,supporting_actress,nominee,Jennifer Lawrence,American Hustle
-2013,supporting_actress,winner,Lupita Nyong'o,12 Years a Slave
+2013,supporting_actress,winner,Lupita Nyongo,12 Years a Slave
 2013,supporting_actress,nominee,Julia Roberts,August: Osage County
 2013,supporting_actress,nominee,June Squibb,Nebraska
