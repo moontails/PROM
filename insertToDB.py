@@ -130,6 +130,13 @@ def insert_edges(movie_contributor_hash):
 			# print cmd_str
 			cl.command(cmd_str)
 
+def prune_data(data,start_year,end_year):
+	pruned_data = []
+	for row in data:
+		if int(row['year']) >= start_year and int(row['year']) <= end_year:
+			pruned_data.append(row)
+	return pruned_data
+
 def insert_awards(awards_hash):
 	cl = connect()
 	for contributor in awards_hash:
@@ -145,5 +152,6 @@ if __name__ == "__main__":
 	final_data = clean_data(all_data)
 	# print len(final_data)
 	write_list_of_hash_to_file(final_data,'final_data')
-	insert_into_db(final_data)
-	# awards_data = get_data()
+	training_data = prune_data(final_data,1990,2010)
+	write_list_of_hash_to_file(training_data,'training_data')
+	insert_into_db(training_data)
