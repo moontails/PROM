@@ -137,11 +137,11 @@ def what_is_interesting(final_hub_score, final_auth_score):
 def save_scores_to_db(final_hub_score, final_auth_score):
     cl = connect()
     for name in final_hub_score:
-        print "Updating for "+name
+        print "Updating hub score "+name
         cl.command('Update Contributor set hub_score='+str(final_hub_score[name])+' where name=\''+name+'\'')
 
     for movie in final_auth_score:
-        print "Updating for "+movie[0]
+        print "Updating auth score "+movie[0]
         movie_record = cl.command('select from Movie  where name="'+movie[0]+'" and year='+movie[1])[0]
         try:
             award_count = cl.command('select sum(award_count) from Contributor where @rid in (select expand(in()) from Movie where @rid='+movie_record.rid+')')[0].sum
@@ -154,7 +154,7 @@ def sort_dict_by_value(map):
     return sorted_map
 
 if __name__ == "__main__":
-    final_data = get_data('final_data.csv')
+    final_data = get_data('training_data.csv')
     awards_data = get_data('awards.csv')
     print "Movie data: " + str(len(final_data))
     print "Awards data: " + str(len(awards_data))

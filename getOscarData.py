@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib2
 import re
 import csv
+from insertToDB import prune_data
 
 def get_content(url):
 	content = open(url,'r').read()
@@ -49,6 +50,12 @@ def process_content(content,award_type):
 		acadamy_awards.append(temp_row)
 	return acadamy_awards
 
+def write_awards_data_to_csv(awards_data,filename):
+	with open('data/'+filename+'.csv', 'wb') as csvfile:
+		award_writer = csv.writer(csvfile, delimiter=',',quotechar='"', quoting=csv.QUOTE_MINIMAL)
+		award_writer.writerow(['year','award_type','win_type','contributor_name','movie_name'])
+		for temp_hash in awards_data:
+			award_writer.writerow([temp_hash['year'],temp_hash['award_type'],temp_hash['win_type'],temp_hash['name'],temp_hash['movie']])
 
 if __name__ == "__main__":
 	urls = ['actress', 'actors','writing','directing','picture','supporting_actor','supporting_actress']
@@ -58,11 +65,10 @@ if __name__ == "__main__":
 		temp_list = process_content(content,url)
 		print temp_list[0]
 		awards_list.extend(temp_list)
-	with open('data/awards.csv', 'wb') as csvfile:
-		award_writer = csv.writer(csvfile, delimiter=',',quotechar='"', quoting=csv.QUOTE_MINIMAL)
-		award_writer.writerow(['year','award_type','win_type','contributor_name','movie_name'])
-		for temp_hash in awards_list:
-			award_writer.writerow([temp_hash['year'],temp_hash['award_type'],temp_hash['win_type'],temp_hash['name'],temp_hash['movie']])
+	write_awards_data_to_csv(awards_list,'awards')
+	training_list = prune_data(awards_list,1990,2010)
+	write_awards_data_to_csv(awards_list,'training_awards')
+
 
 
 	

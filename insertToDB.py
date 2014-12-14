@@ -140,7 +140,7 @@ def prune_data(data,start_year,end_year):
 def insert_awards(awards_hash):
 	cl = connect()
 	for contributor in awards_hash:
-		print 'Updating '+contributor
+		print 'Updating award count for '+contributor
 		cl.command('Update Contributor set award_count='+str(awards_hash[contributor]['award_count'])+' where name="'+contributor+'"')
 
 if __name__ == "__main__":
