@@ -140,6 +140,10 @@ def save_scores_to_db(final_hub_score, final_auth_score):
         print "Updating for "+name
         cl.command('Update Contributor set hub_score='+str(final_hub_score[name])+' where name=\''+name+'\'')
 
+    for movie in final_auth_score:
+        print "Updating for "+movie[0]
+        cl.command('Update Movie set auth_score='+str(final_auth_score[movie])+' where name="'+movie[0]+'" and year='+movie[1])
+
 def sort_dict_by_value(map):
     sorted_map = sorted(map.items(), key=operator.itemgetter(0),reverse=True)
     return sorted_map

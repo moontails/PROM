@@ -66,7 +66,10 @@ def insert_into_db(data_list):
 	movie_contributor_hash = {}
 	contributors = []
 	for row in final_data:
-		temp_contributor_list = row['Contributors'].split(',')
+		t_list = row['Contributors'].split(',')
+		temp_contributor_list = []
+		for t in t_list:
+			temp_contributor_list.append(t.strip())
 		movie_contributor_hash[row['Movie_Name'],row['year']] = temp_contributor_list
 		contributors.extend(temp_contributor_list)
 	contributor_set = set(contributors)
