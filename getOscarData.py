@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import urllib2
 import re
 import csv
@@ -68,8 +68,4 @@ if __name__ == "__main__":
 	write_awards_data_to_csv(awards_list,'awards')
 	training_list = prune_data(awards_list,1990,2010)
 	write_awards_data_to_csv(awards_list,'training_awards')
-
-
-
-	
 

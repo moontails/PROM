@@ -48,7 +48,7 @@ def clean_data(data_list):
 			print row
 		row['Contributors'] = re.sub('\[[0-9]*\]|\[|\]|\'|novel|see Cast|original screenplay|Adapted for the screen|','',row['Contributors'])
 		row['Contributors'] = re.sub(r'\\n',',',row['Contributors'])
-		row['Contributors'] = re.sub(',\s*,',',',row['Contributors'])
+		row['Contributors'] = re.sub(',\s*,|and',',',row['Contributors'])
 		row['Contributors'] = re.sub(', Jr.',' Jr.',row['Contributors'])
 		final_data.append(row)
 	return final_data
@@ -60,9 +60,8 @@ def write_list_of_hash_to_file(input_list,filename):
 		for row in input_list:
 			fwriter.writerow(row.values())
 
-def insert_into_db(data_list):
+def insert_into_db(data_list,awards_data):
 	#Need to get all actors and movies list and insert it.
-	awards_data = get_data('awards.csv')
 	movie_contributor_hash = {}
 	contributors = []
 	for row in final_data:
@@ -94,7 +93,7 @@ def insert_into_db(data_list):
 	insert_movies(data_list)
 
 	# Insert all edges
-	insert_edges(movie_contributor_hash)
+	# insert_edges(movie_contributor_hash)
 
 	# Insert the awards data
 	insert_awards(awards_hash)
@@ -153,5 +152,9 @@ if __name__ == "__main__":
 	# print len(final_data)
 	write_list_of_hash_to_file(final_data,'final_data')
 	training_data = prune_data(final_data,1990,2010)
+	testing_data = prune_data(final_data,2011,2013)
 	write_list_of_hash_to_file(training_data,'training_data')
-	insert_into_db(training_data)
+	write_list_of_hash_to_file(testing_data,'testing_data')
+	awards = get_data('awards.csv')
+	training_awards = get_data('training_awards.csv')
+	insert_into_db(final_data,awards)

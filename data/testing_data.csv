@@ -1,0 +1,516 @@
+year,Movie_Name,Budget,Contributors,Revenue
+2011,The Tree of Life,32000000.0,"Terrence Malick, Brad Pitt, Sean Penn, Jessica Chastain",54303319
+2011,Killer Elite,70000000.0,"Gary McKendry, Clive Owen, Jason Statham, Robert De Niro",56383756
+2011,The Three Musketeers,75000000.0,"Paul W. S. Anderson, Andrew Davies, Matthew Macfadyen, Logan Lerman, Ray Stevenson, Luke Evans, Milla Jovovich, Orl,o Bloom, Christoph Waltz",132274484
+2011,Unknown,30000000.0,"Jaume Collet-Serra, Liam Neeson, Diane Kruger, January Jones, Aidan Quinn, Frank Langella",136123083
+2011,The Devil's Double,19100000.0,"Lee Tamahori, Dominic Cooper, Philip Quast, Ludivine Sagnier",4807493
+2011,50/50,8000000.0,"Jonathan Levine, Will Reiser, Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick, Bryce Dallas Howard, Anjelica Huston",39187783
+2011,Battle: Los Angeles,70000000.0,"Jonathan Liebesman, Chris Bertolini, Aaron Eckhart, Michelle Rodriguez, Ramon Rodriguez, Bridget Moynahan, Ne-Yo, Michael Pea",211819354
+2011,Immortals,75000000.0,"Tarsem Singh, Henry Cavill, Stephen Dorff, Luke Evans, Isabel Lucas, Kellan Lutz, Freida Pinto, Mickey Rourke",226904017
+2011,Rise of the Planet of the Apes,93000000.0,"Rupert Wyatt, James Franco, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Andy Serkis",481801049
+2011,Harry Potter and the Deathly Hallows  Part 2,250000000.0,"David Yates, Daniel Radcliffe, Rupert Grint, Emma Watson",1341511219
+2011,Drive Angry,50000000.0,"Patrick Lussier, Todd Farmer, Nicolas Cage, Amber Heard, William Fichtner, Billy Burke, Charlotte Ross, Katy Mixon, Tom Atkins",28931401
+2011,The Roommate,16000000.0,"Christian E. Christiansen, Leighton Meester, Minka Kelly, Cam Gig,et, Danneel Harris, Matt Lanter, Aly Michalka, Katerina Graham, Cherilyn Wilson, Billy Zane, Frances Fisher, Tomas Arana, Nina Dobrev",40492759
+2011,The Darkest Hour,30000000.0,"Chris Gorak, Emile Hirsch, Olivia Thirlby, Max Minghella, Rachael Taylor",64626786
+2011,Like Crazy,250000,"Drake Doremus, Ben York Jones, Anton Yelchin, Felicity Jones, Jennifer Lawrence, Alex Kingston",3542353
+2011,Final Destination 5,40000000.0,"Steven Quale, Eric Heisserer, ""Nicholas DAgosto"", Emma Bell, Miles Fisher, Arlen Escarpeta, David Koechner, Tony Todd",157887643
+2011,Scream 4,40000000.0,"Wes Craven, Ehren Kruger, Scott Derrickson, David Arquette, Neve Campbell, Courteney Cox, Emma Roberts, Hayden Panettiere",101314231
+2011,Margaret,14000000,"Kenneth Lonergan, Anna Paquin, Matt Damon, Mark Ruffalo, Kieran Culkin, Olivia Thirlby, Rosemarie DeWitt, J. Smith-Cameron, Matthew Broderick, Allison Janney, Jean Reno",564864
+2011,X-Men: First Class,150000000.0,"Matthew Vaughn, James McAvoy, Michael Fassbender, Rose Byrne, Jennifer Lawrence, January Jones, Nicholas Hoult, Oliver Platt, Jason Flemyng, Lucas Till, Edi Gathegi, Kevin Bacon",353624124
+2011,We Need to Talk About Kevin,7000000.0,"Lynne Ramsay, Tilda Swinton, John C. Reilly, Ezra Miller",7493626
+2011,Anonymous,30000000.0,"Rol, Emmerich, John Orloff, Rhys Ifans, Vanessa Redgrave, Joely Richardson, David Thewlis, Xavier Samuel, Sebastian Armesto, Rafe Spall, Edward Hogg, Jamie Campbell Bower, Mark Rylance, Trystan Gravelle, Derek Jacobi",15395087
+2011,War Horse,66000000.0,"Steven Spielberg, Jeremy Irvine, Emily Watson, David Thewlis, Niels Arestrup, Tom Hiddleston, Toby Kebbell, Peter Mullan, Patrick Kennedy",177600000.0
+2011,In the Land of Blood and Honey,13000000.0,"Angelina Jolie, Goran Kosti, Zana Marjanovi, Rade erbedija",1203699
+2011,Carnage,25000000.0,"Roman Polanski, Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly",27603069
+2011,New Year's Eve,56000000.0,"Garry Marshall, Katherine Fugate, Halle Berry, Jessica Biel, Jon Bon Jovi, Abigail Breslin, Chris ""Ludacris"" Bridges, Robert De Niro, Josh Duhamel, Zac Efron, Hector Elizondo, Katherine Heigl, Ashton Kutcher, Seth Meyers, Lea Michele, Sarah Jessica Parker, Michelle Pfeiffer, Til Schweiger, Hilary Swank, Sofa Vergara",142044638
+2011,October Baby,1000000,"Andrew Erwin, Jon Erwin, Jason Burkey, John Schneider, Jasmine Guy",5357328
+2011,Dream House,50000000.0,"Jim Sheridan, Daniel Craig, Rachel Weisz, Naomi Watts, Marton Csokas",38502340
+2011,Dolphin Tale,37000000.0,"Charles Martin Smith, Harry Connick Jr. Ashley Judd, Nathan Gamble, Kris Kristofferson, Cozi Zuehlsdorff, Morgan Freeman",95400000.0
+2011,The Hangover Part II,80000000.0,"Todd Phillips, Scot Armstrong, Craig Mazin, Bradley Cooper, Ed Helms, Zach Galifianakis, Ken Jeong, Jeffrey Tambor, Justin Bartha, Paul Giamatti",586800000.0
+2011,Thor,150000000.0,"Kenneth Branagh, Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgrd, Colm Feore, Ray Stevenson, Idris Elba, Kat Dennings, Rene Russo, Anthony Hopkins",449300000.0
+2011,The Skin I Live In,13516393,"Pedro Almodvar, Antonio B,eras, Elena Anaya, Marisa Paredes, Jan Cornet, Roberto lamo",30842353
+2011,Beneath the Darkness,7000000.0,"Dennis Quaid, Tony Oller, Aimee Teegarden",9600
+2011,Killer Joe,10000000.0,"William Friedkin, Matthew McConaughey, Emile Hirsch, Juno Temple, Gina Gershon, Thomas Haden Church",3665069
+2011,Higher Ground,2000000.0,"Vera Farmiga, Vera Farmiga, Joshua Leonard, Norbert Leo Butz, Dagmara Dominczyk, John Hawkes, Bill Irwin, Ebon Moss-Bachrach, Donna Murphy",841733
+2011,Paranormal Activity 3,5000000.0,"Henry Joost, Ariel Schulman, Christopher B. L,on, Lauren Bittner, Chris Smith, Chloe Csengery",207039844
+2011,Damsels in Distress,3000000.0,"Whit Stillman, Whit Stillman, Greta Gerwig, Adam Brody, Analeigh Tipton, Megalyn Echikunwoke, Carrie MacLemore, Hugo Becker, Ryan Metcalf",1220699
+2011,The Best Exotic Marigold Hotel,10000000.0,"John Madden, Judi Dench, Bill Nighy, Penelope Wilton, Dev Patel, Celia Imrie, Ronald Pickup, Tom Wilkinson, Maggie Smith",136836156
+2011,The Muppets,45000000.0,"James Bobin, Jason Segel, Nicholas Stoller, Amy Adams, Chris Cooper, Rashida Jones",165200000.0
+2011,Something Borrowed,35000000.0,"Luke Greenfield, Ginnifer Goodwin, Kate Hudson, John Krasinski, Colin Egglesfield, Steve Howey, Ashley Williams",60183821
+2011,Soul Surfer,18000000.0,"Sean McNamara, AnnaSophia Robb, Helen Hunt, Lorraine Nicholson, Carrie Underwood, Dennis Quaid",47088990
+2011,Sucker Punch,82000000.0,"Zack Snyder, Emily Browning, Abbie Cornish, Jena Malone, Vanessa Hudgens, Jamie Chung, Carla Gugino, Oscar Isaac, Jon Hamm, Scott Glenn",89792502
+2011,Rio,90000000.0,"Carlos Saldanha, Jesse Eisenberg, Anne Hathaway, Leslie Mann, Jemaine Clement, George Lopez, will.i.am, Jamie Foxx, Jake T. Austin, Tracy Morgan, Rodrigo Santoro",484635760
+2011,A Better Life,10000000.0,"Chris Weitz, Demian Bichir",1759252
+2011,The Grey,25000000.0,"Joe Carnahan, Liam Neeson, Frank Grillo, Dermot Mulroney, Dallas Roberts, Joe Anderson, Nonso Anozie, James Badge Dale",77300000.0
+2011,Friends with Benefits,35000000.0,"Will Gluck, Justin Timberlake, Mila Kunis",149542245
+2011,Gnomeo & Juliet,36000000.0,"Kelly Asbury, James McAvoy, Emily Blunt, Michael Caine, Maggie Smith, Jason Statham, Jim Cummings, Patrick Stewart, Ashley Jensen, Stephen Merchant, Matt Lucas, Ozzy Osbourne",194000000.0
+2011,Paul,40000000.0,"Greg Mottola, Simon Pegg, Nick Frost, Simon Pegg, Nick Frost, Seth Rogen",98000000.0
+2011,Zookeeper,80000000.0,"Frank Coraci, Rosario Dawson, Leslie Bibb",169852759
+2011,Monte Carlo,20000000.0,"Thomas Bezucha, Selena Gomez, Leighton Meester, Katie Cassidy, Cory Monteith, Andie MacDowell",39667665
+2011,Haywire,23000000.0,"Steven Soderbergh, Lem Dobbs, Gina Carano, Michael Fassbender, Ewan McGregor, Bill Paxton, Channing Tatum, Antonio B,eras, Michael Douglas",33372606
+2011,Source Code,32000000.0,"Duncan Jones, Ben Ripley, Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright",147332697
+2011,A Dangerous Method,18000000.0,"David Cronenberg, Keira Knightley, Viggo Mortensen, Michael Fassbender, Vincent Cassel",27462041
+2011,Bellflower,17000,Evan Glodell,168226
+2011,30 Minutes or Less,28000000.0,"Ruben Fleischer, Jesse Eisenberg, Danny McBride, Aziz Ansari, Nick Swardson, Fred Ward",40547440
+2011,Moneyball,50000000.0,"Bennett Miller, Jonah Hill, Philip Seymour Hoffman",110200000.0
+2011,Footloose,24000000.0,"Craig Brewer, Kenny Wormald, Julianne Hough, Andie MacDowell, Dennis Quaid",62701289
+2011,Your Sister's Sister,125000,"Lynn Shelton, Emily Blunt, Rosemarie DeWitt, Mark Duplass",3242802
+2011,Warrior,25000000.0,"""Gavin OConnor"", Joel Edgerton, Tom Hardy, Jennifer Morrison, Frank Grillo, Nick Nolte",23060000.0
+2011,Shark Night,25000000.0,"David R. Ellis, Will Hayes, Sara Paxton, Dustin Milligan, Chris Carmack, Katharine McPhee, Donal Logue, Joshua Leonard, Joel David Moore",40136479
+2011,Shame,4200000.0,"Steve McQueen, Abi Morgan, Michael Fassbender, Carey Mulligan, James Badge Dale, Nicole Beharie",11100000.0
+2011,Season of the Witch,40000000.0,"Dominic Sena, Brett Ratner, Bragi F. Schut, Nicolas Cage, Ron Perlman, Stephen Campbell Moore, Claire Foy, Stephen Graham, Ulrich Thomsen, Robert Sheehan, Christopher Lee",91600000.0
+2011,Limitless,27000000.0,"Neil Burger, Bradley Cooper, Abbie Cornish, Robert De Niro",161849455
+2011,Hobo with a Shotgun,3000000.0,"Jason Eisener, Rutger Hauer, Molly Dunsworth, Brian Downey, Gregory Smith",748453
+2011,I Am Number Four,50000000.0,"D. J. Caruso, Alex Pettyfer, Timothy Olyphant, Teresa Palmer, Dianna Agron, Callan McAuliffe, Kevin Dur,",149900000.0
+2011,Attack the Block,8000000.0,"Joe Cornish, Jodie Whittaker, John Boyega, Alex Esmail, Franz Drameh, Leeon Jones, Luke Treadaway, Nick Frost",5824175
+2011,Jack and Jill,79000000.0,"Dennis Dugan, Adam S,ler, Al Pacino, Katie Holmes",149673788
+2011,Friends with Kids,10000000.0,"Jennifer Westfeldt, Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, ""Chris ODowd"", Megan Fox, Edward Burns",12186625
+2011,The Guard,6000000.0,"John Michael McDonagh, Brendan Gleeson, Don Cheadle, Mark Strong, Liam Cunningham, Fionnula Flanagan",19560274
+2011,The Iron Lady,8200000.0,"Phyllida Lloyd, Abi Morgan, Meryl Streep, Jim Broadbent, Anthony Head, Richard E. Grant, Iain Glen, Olivia Colman",115000000.0
+2011,The Twilight Saga: Breaking Dawn  Part 1,110000000.0,"Bill Condon, Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Peter Facinelli, Elizabeth Reaser, Kellan Lutz, Nikki Reed, Jackson Rathbone, Ashley Greene",712171856
+2011,The Divide,3000000,"Xavier Gens, Lauren German, Michael Biehn, Milo Ventimiglia, Courtney B. Vance, Michael Eklund, Abbey Thickson, Ashton Holmes, Rosanna Arquette",130839
+2011,Your Highness,50000000.0,"David Gordon Green, Danny McBride, Ben Best, James Franco, Natalie Portman, Zooey Deschanel, Justin Theroux, Toby Jones, Damian Lewis",24900000.0
+2011,Sound of My Voice,135000,"Zal Batmanglij, Christopher Denham",408015
+2011,Arthur,40000000.0,"Jason Winer, Russell Br,, Helen Mirren, Jennifer Garner, Luis Guzmn, Greta Gerwig, Nick Nolte",45735397
+2011,Real Steel,110000000.0,"Shawn Levy, Hugh Jackman, Dakota Goyo, Evangeline Lilly, Anthony Mackie, Kevin Dur,",299300000.0
+2011,Rango,135000000.0,"Gore Verbinski, Johnny Depp, Isla Fisher, Abigail Breslin, Ned Beatty, Alfred Molina, Bill Nighy, Stephen Root, Harry Dean Stanton, Ray Winstone, Timothy Olyphant",245724603
+2011,Conan the Barbarian,90000000.0,"Marcus Nispel, Thomas Dean Donnelly,Joshua Oppenheimer, Sean Hood, Jason Momoa, Rachel Nichols, Stephen Lang, Rose McGowan, Sad Taghmaoui, Leo Howard, Bob Sapp, Ron Perlman",48795021
+2011,Fright Night,30000000.0,"Craig Gillespie, Anton Yelchin, Colin Farrell, Christopher Mintz-Plasse, David Tennant, Imogen Poots, Toni Collette",41002607
+2011,A Separation,500000,"Asghar Farhadi, Leila Hatami, Peyman Moaadi, Shahab Hosseini, Sareh Bayat, Sarina Farhadi, Merila Zarei",22926616
+2011,The Artist,15000000.0,"Michel Hazanavicius, Jean Dujardin, Brnice Bejo",133400000.0
+2011,Tinker Tailor Soldier Spy,21000000.0,"Tomas Alfredson, Gary Oldman, Colin Firth, Tom Hardy, John Hurt, Toby Jones, Mark Strong, Benedict Cumberbatch, Ciarn Hinds",80630608
+2011,Green Lantern,200000000.0,"Martin Campbell, Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong, Angela Bassett, Tim Robbins, Temuera Morrison, Geoffrey Rush, Michael Clarke Duncan",219851172
+2011,Apollo 18,5000000.0,"Gonzalo Lpez-Gallego, Warren Christie, Lloyd Owen, Ryan Robbins",25562924
+2011,Sherlock Holmes: A Game of Shadows,125000000.0,"Guy Ritchie, Kieran Mulroney, Robert Downey Jr., Jude Law, Noomi Rapace, Jared Harris, Rachel McAdams, Eddie Marsan",545448418
+2011,Take Shelter,5000000.0,"Jeff Nichols, Michael Shannon, Jessica Chastain, Shea Whigham, Katy Mixon, Kathy Baker",3077604
+2011,Horrible Bosses,37000000.0,"Seth Gordon, Jason Bateman, Charlie Day, Jason Sudeikis, Jennifer Aniston, Colin Farrell, Kevin Spacey, Donald Sutherl,, Jamie Foxx",209600000.0
+2011,Midnight in Paris,17000000.0,"Woody Allen, Kathy Bates, Adrien Brody, Carla Bruni, Marion Cotillard, Rachel McAdams, Michael Sheen, Owen Wilson",151119219
+2011,The Raid: Redemption,1100000.0,"Gareth Evans, Iko Uwais, Joe Taslim, Donny Alamsyah",14100000.0
+2011,Headhunters,30000000.0,"Morten Tyldum, Aksel Hennie, Synnve Macody Lund, Nikolaj Coster-Waldau, Julie lgaard",15391296
+2011,Captain America: The First Avenger,140000000.0,"Joe Johnston, Chris Evans, Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper, Neal McDonough, Derek Luke, Stanley Tucci",370600000.0
+2011,Puss in Boots,130000000.0,"Chris Miller, Tom Wheeler, Will Davies, Brian Lynch, Antonio B,eras, Zach Galifianakis, Salma Hayek, Billy Bob Thornton, Amy Sedaris",554987477
+2011,Young Adult,12000000.0,"Jason Reitman, Charlize Theron, Patton Oswalt, Patrick Wilson, Elizabeth Reaser, Collette Wolfe",22654650
+2011,The Rum Diary,45000000.0,"Bruce Robinson, Aaron Eckhart, Michael Rispoli, Amber Heard, Richard Jenkins, Giovanni Ribisi",23900000.0
+2011,A Very Harold & Kumar 3D Christmas,19000000.0,"Jon Hurwitz, Hayden Schlossberg, John Cho, Kal Penn, Neil Patrick Harris, Danneel Harris, Paula Garcs, Danny Trejo, Amir Blumenfeld",35387212
+2011,Mr. Popper's Penguins,55000000.0,"Mark Waters, Jim Carrey, Carla Gugino, Madeline Carroll, Clark Gregg, Angela Lansbury",187361754
+2011,Bad Teacher,20000000.0,"Jake Kasdan, Lee Eisenberg, Gene Stupnitsky, Cameron Diaz, Justin Timberlake, Lucy Punch, John Michael Higgins, Phyllis Smith, Jason Segel",216197492
+2011,The Smurfs,110000000.0,"Raja Gosnell, Hank Azaria, Neil Patrick Harris, Jayma Mays, Sofia Vergara, Tim Gunn, Jonathan Winters, Katy Perry, Fred Armisen, Alan Cumming, Anton Yelchin, George Lopez",563749323
+2011,What's Your Number?,20000000.0,"Mark Mylod, Anna Faris, Chris Evans, Ari Graynor, Dave Annable, Joel McHale, Ed Begley Jr., Blythe Danner, Heather Burns, Eliza Coupe, Tika Sumpter, Oliver Jackson-Cohen",30426096
+2011,You're Next,1000000.0,"Adam Wingard, Sharni Vinson, Wendy Glenn, A. J. Bowen, Joe Swanberg",25006212
+2011,Prom,8000000.0,"Joe Nussbaum, Aimee Teegarden, Thomas McDonell, Cameron Monaghan, Yin Chang, Nicholas Braun, Dean Norris, Danielle Campbell, Nolan Sotillo, Christine Elise, Raini Rodriguez",10100000.0
+2011,We Bought a Zoo,50000000.0,"Cameron Crowe, Matt Damon, Scarlett Johansson, Thomas Haden Church, Patrick Fugit, Elle Fanning, Colin Ford, John Michael Higgins",120081841
+2011,POM Wonderful Presents: The Greatest Movie Ever Sold,1500000.0,"Morgan Spurlock, J.J. Abrams, Jimmy Kimmel",700000
+2011,I Don't Know How She Does It,24000000.0,"Douglas McGrath, Sarah Jessica Parker, Pierce Brosnan, Greg Kinnear, Christina Hendricks, Olivia Munn, Busy Phillips",30551495
+2011,Bridesmaids,32500000.0,"Paul Feig, Annie Mumolo, Kristen Wiig, Maya Rudolph, Rose Byrne, ""Chris ODowd"", Melissa McCarthy, Wendi McLendon-Covey, Ellie Kemper, Jill Clayburgh, Matt Lucas, Rebel Wilson, Michael Hitchcock",288383523
+2011,Winnie the Pooh,30000000.0,"Stephen J. Anderson, Jim Cummings, Travis Oates, Tom Kenny, Craig Ferguson, Bud Luckey, Kristen Anderson-Lopez",44700000.0
+2011,The Adventures of Tintin: Secret of the Unicorn,135000000.0,"Steven Spielberg, Steven Moffat, Edgar Wright, Joe Cornish, Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Mackenzie Crook, Toby Jones, Gad Elmaleh",374000000.0
+2011,The Girl with the Dragon Tattoo,90000000.0,"David Fincher, Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgrd, Steven Berkoff, Robin Wright, Yorick van Wageningen, Joely Richardson",232617430
+2011,Take Me Home Tonight,19000000.0,"Michael Dowse, Topher Grace, Anna Faris, Dan Fogler, Teresa Palmer",6923891
+2011,Beastly,17000000.0,"Daniel Barnz, Vanessa Hudgens, Alex Pettyfer, Mary-Kate Olsen, Peter Krause, Lisa Gay Hamilton, Neil Patrick Harris",43165571
+2011,Restless,8000000.0,"Gus Van Sant, Henry Hopper, Mia Wasikowska",2510117
+2011,No Strings Attached,25000000.0,"Ivan Reitman, Natalie Portman, Ashton Kutcher, Cary Elwes, Kevin Kline",149228077
+2011,The Big Year,41000000.0,"David Frankel, Howard Franklin, Steve Martin, Jack Black, Owen Wilson, Rosamund Pike, JoBeth Williams, Rashida Jones",7448385
+2011,Abduction,35000000.0,"John Singleton, Shawn Christensen, Taylor Lautner, Lily Collins, Alfred Molina, Jason Isaacs, Maria Bello, Sigourney Weaver, Michael Nyqvist, Dermot Mulroney",82087155
+2011,Another Earth,100000,"Mike Cahill, Brit Marling, William Mapother",1776935
+2011,Madea's Big Happy Family,25000000.0,"Tyler Perry, Tyler Perry, Loretta Devine, Shad ""Bow Wow"" Moss, David Mann, Cassi Davis, Tamela Mann, Lauren London, Isaiah Mustafa, Rodney Perry, Shannon Kane, Teyana Taylor",54161287
+2011,Cowboys & Aliens,163000000.0,"Jon Favreau, Daniel Craig, Harrison Ford, Olivia Wilde",174822325
+2011,Violet & Daisy,8000000.0,"Geoffrey S. Fletcher, Saoirse Ronan, Alexis Bledel, Marianne Jean-Baptiste, Danny Trejo, James G,olfini",17186
+2011,"Crazy, Stupid, Love.",50000000.0,"Glenn Ficarra, John Requa, Dan Fogelman, Ryan Gosling, Julianne Moore, Emma Stone, John Carroll Lynch, Marisa Tomei, Analeigh Tipton, Kevin Bacon",142851197
+2011,Sanctum,30000000.0,"Alister Grierson, Richard Roxburgh, Rhys Wakefield, Daniel Wyllie, Ioan Gruffudd",108609310
+2011,Tower Heist,85000000.0,"Brett Ratner, Ben Stiller, Casey Affleck, Alan Alda, Matthew Broderick, Ta Leoni, Michael Pea, Gabourey Sidibe",152900000.0
+2011,The Thing,38000000.0,"Matthijs van Heijningen Jr., Eric Heisserer, Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen, Adewale Akinnuoye-Agbaje, Eric Christian Olsen",27428670
+2011,Arthur Christmas,100000000.0,"Sarah Smith, Peter Baynham, James McAvoy, Hugh Laurie, Bill Nighy, Jim Broadbent, Imelda Staunton, Ashley Jensen, Marc Wootton, Laura Linney, Eva Longoria, Ramona Marquez, Michael Palin",147419472
+2011,Justin Bieber: Never Say Never,13000000.0,Jon M. Chu,99036827
+2011,Salmon Fishing in the Yemen,14500000,"Lasse Hallstrm, Ewan McGregor, Emily Blunt, Kristin Scott Thomas, Amr Waked",34564651
+2011,The Descendants,20000000.0,"Alex,er Payne, George Clooney, Shailene Woodley, Beau Bridges, Judy Greer, Matthew Lillard, Robert Forster",177243185
+2011,The Change-Up,52000000.0,"David Dobkin, Jon Lucas, Scott Moore, Ryan Reynolds, Jason Bateman",75500000.0
+2011,"Jeff, Who Lives at Home",7500000.0,"Jay Duplass, Mark Duplass, Jason Segel, Ed Helms, Judy Greer, Susan Sar,on",4704757
+2011,Margin Call,3500000.0,"J.C. Ch,or, Kevin Spacey, Paul Bettany, Jeremy Irons, Zachary Quinto, Penn Badgley, Simon Baker, Mary McDonnell, Demi Moore, Stanley Tucci",19504039
+2011,Albert Nobbs,7500000.0,"Rodrigo Garca, Mia Wasikowska, Aaron Johnson, Janet McTeer, Pauline Collins, Jonathan Rhys Meyers, Brendan Gleeson, Maria Doyle Kennedy",5634828
+2011,Mars Needs Moms,150000000.0,"Simon Wells, Seth Green, Dan Fogler, Elisabeth Harnois, Mindy Sterling, Joan Cusack",39000000.0
+2011,The Sitter,25000000.0,"David Gordon Green, Jonah Hill, Max Records, Ari Graynor, J. B. Smoove, Sam Rockwell",34590770
+2011,Happy Feet Two,135000000.0,"George Miller, Gary Eck, Paul Livingston, Elijah Wood, Robin Williams, Hank Azaria, Brad Pitt, Matt Damon, Pink, Sofa Vergara, Common, Hugo Weaving, Richard Carter, Magda Szubanski, Anthony LaPaglia",150406466
+2011,The Ides of March,12500000.0,"George Clooney, Ryan Gosling, Philip Seymour Hoffman, Paul Giamatti, Evan Rachel Wood, Marisa Tomei, Jeffrey Wright",75993061
+2011,Spy Kids: All the Time in the World,27000000.0,"Robert Rodriguez, Jessica Alba, Joel McHale, Alexa Vega, Daryl Sabara, Rowan Blanchard, Mason Cook, Ricky Gervais, Jeremy Piven",85564310
+2011,Hoodwinked Too! Hood vs. Evil,30000000.0,"Mike Disa, Cory Edwards, Todd Edwards, Tony Leech, Glenn Close, Cheech Marin, Tommy Chong, Hayden Panettiere, Amy Poehler, Martin Short, Patrick Warburton",16960968
+2011,My Week with Marilyn,10000000.0,"Simon Curtis, Michelle Williams, Kenneth Branagh, Eddie Redmayne, Emma Watson, Judi Dench",34556085
+2011,Atlas Shrugged: Part I,20000000.0,"Paul Johansson, Taylor Schilling, Grant Bowler",4627375
+2011,Cars 2,200000000.0,"John Lasseter, Owen Wilson, Larry the Cable Guy, Michael Caine, Emily Mortimer, John Turturro, Eddie Izzard",559900000.0
+2011,Hall Pass,36000000.0,"Bobby, Peter Farrelly, Owen Wilson, Jason Sudeikis, Jenna Fischer, Christina Applegate, Stephen Merchant, Joy Behar, Alex,ra Daddario, Nicky Whelan",83160734
+2011,Kung Fu Panda 2,150000000.0,"Jennifer Yuh Nelson, Jonathan Aibel, Glenn Berger, Charlie Kaufman, Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman, Jackie Chan, Seth Rogen, Lucy Liu, David Cross, James Hong, Michelle Yeoh, Danny McBride, Dennis Haysbert, Jean-Claude Van Damme, Victor Garber",665700000.0
+2011,Fast Five,125000000.0,"Justin Lin, Chris Morgan, Paul Walker, Jordana Brewster, Tyrese Gibson, Chris ""Ludacris"" Bridges, Matt Schulze, Sung Kang, Dwayne Johnson, Joaquim de Almeida",626100000.0
+2011,Pirates of the Caribbean: On Stranger Tides,32100000.0,"Rob Marshall, Johnny Depp, Penlope Cruz, Ian McShane, Kevin R. McNally, Geoffrey Rush",1046000000.0
+2011,Johnny English Reborn,45000000.0,"Oliver Parker, Rowan Atkinson, Rosamund Pike, Gillian Anderson, Dominic West, Daniel Kaluuya, Richard Schiff, Tim McInnerny",160078586
+2011,Hop,63000000.0,"Tim Hill, Russell Br,, James Marsden, Kaley Cuoco, Hank Azaria, Gary Cole, Elizabeth Perkins, Hugh Laurie",183953723
+2011,Red Riding Hood,42000000.0,"Catherine Hardwicke, David Leslie Johnson, Am,a Seyfried, Gary Oldman, Billy Burke, Shiloh Fern,ez, Max Irons, Virginia Madsen, Lukas Haas, Julie Christie",89162162
+2011,Super 8,50000000.0,"J. J. Abrams, Joel Courtney, Elle Fanning, Kyle Ch,ler, Riley Griffiths, Ryan Lee, Ron Eldard",260095986
+2011,Coriolanus,7700000.0,"Ralph Fiennes, Gerard Butler, Vanessa Redgrave, Brian Cox, Jessica Chastain, John Kani, James Nesbitt, Paul Jesson, Lubna Azabal, Ashraf Barhom",1072602
+2011,Glee: The 3D Concert Movie,9000000.0,"Kevin Tancharoen, Dianna Agron, Chris Colfer, Darren Criss, Kevin McHale, Lea Michele, Cory Monteith, Heather Morris, Amber Riley, Naya Rivera, Mark Salling, Jenna Ushkowitz, Harry Shum Jr., Chord Overstreet, Ashley Fink",18663238
+2011,The Adjustment Bureau,50200000.0,"George Nolfi, Matt Damon, Emily Blunt",127869379
+2011,Judy Moody and the Not Bummer Summer,20000000.0,"John Schultz, Megan McDonald, Jordana Beatty, Heather Graham, Preston Bailey, Taylar Hender, Jaleel White",15551111
+2011,One Day,15000000.0,"Lone Scherfig, David Nicholls, Anne Hathaway, Jim Sturgess, Tom Mison, Jodie Whittaker, Rafe Spall, Josphine de La Baume, Patricia Clarkson",56706628
+2011,Alvin and the Chipmunks: Chipwrecked,80000000.0,"Mike Mitchell, Jonathan Aibel, Glenn Berger, Jason Lee, David Cross, Jenny Slate, Justin Long, Matthew Gray Gubler, Jesse McCartney, Amy Poehler, Anna Faris, Christina Applegate",342695435
+2011,The Help,25000000.0,"Tate Taylor, Emma Stone, Viola Davis, Octavia Spencer, Jessica Chastain, Bryce Dallas Howard, Allison Janney",216600000.0
+2011,Melancholia,9400000.0,"Lars von Trier, Kirsten Dunst, Charlotte Gainsbourg, Alex,er Skarsgrd, Brady Corbet, Charlotte Rampling, Jesper Christensen, John Hurt, Stellan Skarsgrd, Udo Kier, Kiefer Sutherl,",15946321
+2011,Transformers: Dark of the Moon,195000000.0,"Michael Bay, Shia LaBeouf, Josh Duhamel, John Turturro, Tyrese Gibson, Rosie Huntington-Whiteley, Patrick Dempsey, Kevin Dunn, Julie White, John Malkovich, Frances McDorm,",1123794079
+2011,Hanna,30000000.0,"Joe Wright, Saoirse Ronan, Eric Bana, Tom Holl,er, Olivia Williams, Jason Flemyng, Cate Blanchett",63782078
+2011,The Eagle,25000000.0,"Kevin Macdonald, Channing Tatum, Jamie Bell, Donald Sutherl,, Mark Strong",35467108
+2011,Silent House,2000000.0,"Chris Kentis, Elizabeth Olsen, Eric Sheffer Stevens",13101672
+2011,Drive,15000000.0,"Nicolas Winding Refn, Ryan Gosling, Carey Mulligan, Bryan Cranston, Christina Hendricks, Ron Perlman, Oscar Isaac, Albert Brooks",76175166
+2011,The Green Hornet,120000000.0,"Michel Gondry, Seth Rogen, Evan Goldberg, Seth Rogen, Jay Chou, Christoph Waltz, Cameron Diaz, Edward James Olmos, David Harbour, Tom Wilkinson",227817248
+2011,Priest,60000000.0,"Scott Stewart, Paul Bettany, Karl Urban, Lily Collins, Cam Gig,et, Maggie Q",78309131
+2011,Extremely Loud and Incredibly Close,40000000.0,"Stephen Daldry, Tom Hanks, S,ra Bullock, Thomas Horn, Max von Sydow, Viola Davis, John Goodman, Jeffrey Wright",55247881
+2011,"Big Mommas: Like Father, Like Son",32000000.0,"John Whitesell, Martin Lawrence, Br,on T. Jackson",83915414
+2011,Courageous,2000000.0,"Alex Kendrick, Ken Bevel, Kevin Downes",34522221
+2011,Mission: Impossible  Ghost Protocol,145000000.0,"Brad Bird, Jeremy Renner, Simon Pegg, Paula Patton, Anil Kapoor",694713380
+2011,The Rite,37000000.0,"Mikael Hfstrm, Michael Petroni, Anthony Hopkins, ""Colin ODonoghue"", Alice Braga, Ciarn Hinds, Rutger Hauer",96047633
+2011,W.E.,29030000.0,"Madonna, Alek Keshishian, Abbie Cornish, ""James DArcy"", Andrea Riseborough, Oscar Isaac",920000.0
+2011,Bucky Larson: Born to Be a Star,9000000.0,"Tom Brady, Nick Swardson, Christina Ricci, Stephen Dorff, Don Johnson",2529395
+2011,The Lincoln Lawyer,40000000.0,"Brad Furman, Matthew McConaughey, Marisa Tomei, Ryan Phillippe, Josh Lucas, John Leguizamo, Michael Pea, Bob Gunton, Bryan Cranston, William H. Macy",85507593
+2011,Contagion,60000000.0,"Steven Soderbergh, Scott Z. Burns, Marion Cotillard, Matt Damon, Laurence Fishburne, Jude Law, Gwyneth Paltrow, Kate Winslet",135458097
+2011,The Dilemma,70000000.0,"Ron Howard, Allan Loeb, Kevin James, Jennifer Connelly, Winona Ryder, Channing Tatum, Queen Latifah",70525502
+2011,3D Sex and Zen: Extreme Ecstasy,3500000.0,"Hayama Hiro, Saori Hara",6369363
+2011,The Beaver,21000000.0,"Jodie Foster, Kyle Killen, Mel Gibson, Anton Yelchin, Jennifer Lawrence",6370816
+2011,In Time,40000000.0,"Andrew Niccol, Am,a Seyfried, Justin Timberlake, Alex Pettyfer, Cillian Murphy",173930596
+2011,Straw Dogs,25000000.0,"Rod Lurie, James Marsden, Kate Bosworth, Alex,er Skarsgrd, Dominic Purcell, Rhys Coiro, Willa Holl,, James Woods",11168712
+2011,Colombiana,40000000.0,"Olivier Megaton, Zoe Saldana, Michael Vartan, Cliff Curtis, Lennie James, Callum Blue, Jordi Moll",60965854
+2011,The Oranges,7000000.0,"Julian Farino, Hugh Laurie, Catherine Keener, Oliver Platt, Allison Janney, Alia Shawkat, Adam Brody, Leighton Meester",366377
+2012,Wanderlust,35000000.0,"David Wain, Paul Rudd, Jennifer Aniston, Justin Theroux, Joe Lo Truglio, Kathryn Hahn, Lauren Ambrose, Alan Alda, Malin kerman",4650615
+2012,Ice Age: Continental Drift,95000000.0,"Steve Martino, Mike Thurmeier, Ray Romano, John Leguizamo, Denis Leary, Nicki Minaj, Drake, Jennifer Lopez, Queen Latifah",877244782
+2012,Playing for Keeps,35000000.0,"Gabriele Muccino, Gerard Butler, Jessica Biel, Catherine Zeta-Jones, Dennis Quaid, Uma Thurman, Judy Greer",24086455
+2012,Ghost Rider: Spirit of Vengeance,57000000.0,"Neveldine/Taylor, Nicolas Cage, Ciarn Hinds, Violante Placido, Johnny Whitworth, Christopher Lambert, Idris Elba",132563930
+2012,Moonrise Kingdom,16000000.0,"Wes Anderson, Roman Coppola, Bruce Willis, Edward Norton, Bill Murray, Frances McDorm,, Tilda Swinton, Jason Schwartzman, Bob Balaban",68263166
+2012,Life of Pi,120000000.0,"Ang Lee, Suraj Sharma, Irrfan Khan, Rafe Spall, Tabu, Adil Hussain, Grard Depardieu",609016565
+2012,Men in Black 3,215000000.0,"Barry Sonnenfeld, Etan Cohen, Will Smith, Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Michael Stuhlbarg, Emma Thompson",624026776
+2012,Snow White and the Huntsman,170000000.0,"Rupert S,ers, Kristen Stewart, Charlize Theron, Chris Hemsworth",396592829
+2012,This Is 40,35000000.0,"Judd Apatow, Paul Rudd, Leslie Mann, John Lithgow, Megan Fox, Albert Brooks",88058786
+2012,The Possession,14000000.0,"Ole Bornedal, Natasha Calis, Jeffrey Dean Morgan, Kyra Sedgwick, Grant Show, Madison Davenport, Matisyahu",78515363
+2012,Darling Companion,12000000.0,"Lawrence Kasdan, Mark Duplass, Richard Jenkins, Diane Keaton, Kevin Kline, Elisabeth Moss, Sam Shepard, Dianne Wiest, Ayelet Zurer",793815
+2012,Madea's Witness Protection,20000000.0,"Tyler Perry, Eugene Levy, Denise Richards, Romeo Miller, Doris Roberts",66899242
+2012,The Three Stooges,30000000.0,"Peter Farrelly,Bobby Farrelly, Mike Cerrone, Sean Hayes, Will Sasso, Chris Diamantopoulos, Sofia Vergara, Craig Bierko, Larry David, Jane Lynch",54819301
+2012,Argo,44500000.0,"Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman",232325503
+2012,Man on a Ledge,42000000.0,"Pablo Fenjves, Sam Worthington, Elizabeth Banks, Jamie Bell, Edward Burns, Anthony Mackie, Gnesis Rodrguez, Titus Welliver, Kyra Sedgwick, William Sadler, Ed Harris",46221189
+2012,The Watch,68000000.0,"Akiva Schaffer, Seth Rogen, Evan Goldberg, Ben Stiller, Vince Vaughn, Jonah Hill, Richard Ayoade, Rosemarie DeWitt",68300000.0
+2012,Hello Herman,2000000.0,"Michelle Danner, John Buffalo Mailer, Norman Reedus, Garrett Backstrom, Martha Higareda",8437
+2012,Safety Not Guaranteed,750000,"Colin Trevorrow, Derek Connolly, Aubrey Plaza, Mark Duplass, Jake Johnson",4424699
+2012,Magic Mike,7000000.0,"Steven Soderbergh, Channing Tatum, Alex Pettyfer, Cody Horn, Matt Bomer, Olivia Munn, Joe Manganiello, Matthew McConaughey",167221571
+2012,Trouble with the Curve,60000000,"Robert Lorenz, Amy Adams, Justin Timberlake, Matthew Lillard, John Goodman",48963137
+2012,The Dark Knight Rises,230000000.0,"Christopher Nolan, Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy, Marion Cotillard, Joseph Gordon-Levitt, Morgan Freeman",1084439099
+2012,Lockout,20000000.0,"Guy Pearce, Maggie Grace, Vincent Regan, Joseph Gilgun, Lennie James, Peter Stormare",32204030
+2012,Smashed,500000,"James Ponsoldt, Susan Burke, Mary Elizabeth Winstead, Aaron Paul, Octavia Spencer, Nick Offerman, Megan Mullally",499725
+2012,Arbitrage,12000000.0,"Nicholas Jarecki, Richard Gere, Susan Sar,on, Tim Roth, Brit Marling, Laetitia Casta, Nate Parker",51719574
+2012,Paranormal Activity 4,5000000.0,"Henry Joost, Ariel Schulman, Kathryn Newton, Matt Shively, Stephen Dunham, Alexondra Lee, Katie Featherston",140706358
+2012,Seven Psychopaths,15000000.0,"Martin McDonagh, Colin Farrell, Sam Rockwell, Woody Harrelson, Christopher Walken",23400000.0
+2012,Brave,185000000.0,"Mark Andrews, Brenda Chapman, Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters, Robbie Coltrane, Kevin McKidd, Craig Ferguson",539000000.0
+2012,Parental Guidance,25000000.0,"Andy Fickman, Billy Crystal, Bette Midler, Marisa Tomei, Tom Everett Scott, Bailee Madison, Kyle Harrison Breitkopf, Joshua Rush",119772232
+2012,The Hunger Games,78000000.0,"Gary Ross, Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Stanley Tucci, Donald Sutherl,",691247768
+2012,The Lorax,70000000.0,"Chris Renaud, Danny DeVito, Ed Helms, Zac Efron, Taylor Swift, Betty White, Rob Riggle, Jenny Slate",348840316
+2012,The Expendables 2,100000000.0,"Simon West, Jason Statham, Jet Li, Dolph Lundgren, Chuck Norris, Terry Crews, R,y Couture, Liam Hemsworth, Jean-Claude Van Damme, Bruce Willis, Arnold Schwarzenegger",311900000.0
+2012,Battleship,209000000.0,"Peter Berg, Taylor Kitsch, Alex,er Skarsgrd, Rihanna, Brooklyn Decker, Tadanobu Asano, Liam Neeson",303025485
+2012,Rust and Bone,20000000.0,"Jacques Audiard, Marion Cotillard, Matthias Schoenaerts",25807712
+2012,Robot & Frank,2500000,"Jake Schreier, Frank Langella, Susan Sar,on, Peter Sarsgaard, James Marsden, Liv Tyler",3325038
+2012,The Cabin in the Woods,30000000.0,"Drew Goddard, Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz, Jesse Williams, Richard Jenkins, Bradley Whitford",66486080
+2012,The Sessions,1000000.0,"Ben Lewin, John Hawkes, Helen Hunt, William H. Macy, Moon Bloodgood",9138338
+2012,Antiviral,3300000.0,"Br,on Cronenberg, Caleb L,ry Jones",61808
+2012,Silver Linings Playbook,21000000.0,"David O. Russell, Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker, Anupam Kher",236412453
+2012,John Carter,263700000.0,"Andrew Stanton, Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciarn Hinds, Dominic West, James Purefoy, Willem Dafoe",284100000.0
+2012,Talaash: The Answer Lies Within,6500000.0,"Reema Kagti, Farhan Akhtar, Anurag Kashyap, Aamir Khan, Rani Mukerji, Kareena Kapoor Khan, Nawazuddin Siddiqui, Shernaz Patel, Rajkummar Rao, Vivan Bhatena, Sheeba Chaddha, Gulfam Khan",28000000.0
+2012,Piranha 3DD,5000000.0,"John Gulager, Danielle Panabaker, Matt Bush, David Koechner, Chris Zylka, Katrina Bowden, Gary Busey, Christopher Lloyd, David Hasselhoff",8493728
+2012,Dredd,45000000.0,"Pete Travis, Karl Urban, Olivia Thirlby, Wood Harris, Lena Headey",41000000.0
+2012,The Vow,30000000.0,"Michael Sucsy, Channing Tatum, Rachel McAdams, Sam Neill, Scott Speedman, Jessica McNamee, Wendy Crewson, Jessica Lange",196114570
+2012,The Pirates! In an Adventure with Scientists,55000000.0,"Peter Lord, Gideon Defoe, Hugh Grant, Martin Freeman, Imelda Staunton, David Tennant, Jeremy Piven, Salma Hayek, Lenny Henry, Brian Blessed",123054041
+2012,Holy Motors,4000000,"Leos Carax, Denis Lavant, dith Scob",1912860
+2012,Act of Valor,12000000.0,"Mike McCoy, Scott Waugh, Roselyn Snchez, Nestor Serrano, Emilio Rivera",81272766
+2012,Nativity 2: Danger in the Manger,3000000,"Debbie Isitt, David Tennant, Jessica Hynes, Marc Wootton, Pam Ferris, Ian McNeice, Joanna Page",10119219
+2012,Total Recall,125000000.0,"Len Wiseman, Colin Farrell, Kate Beckinsale, Jessica Biel",198500000.0
+2012,Jab Tak Hai Jaan,9700000.0,"Yash Chopra, Shahrukh Khan, Katrina Kaif, Anushka Sharma",34000000.0
+2012,The Amazing Spider-Man,230000000.0,"Marc Webb, Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field",757900000.0
+2012,Won't Back Down,19000000.0,"Daniel Barnz, Maggie Gyllenhaal, Viola Davis, Holly Hunter, Oscar Isaac, Rosie Perez, Ving Rhames, Marianne Jean-Baptiste",5249881
+2012,Les Misrables,61000000.0,"Tom Hooper, Hugh Jackman, Russell Crowe, Anne Hathaway, Am,a Seyfried",441800000.0
+2012,Safe,33000000.0,"Boaz Yakin, Jason Statham, Chris Sar,on, Robert John Burke, James Hong",40346186
+2012,Lawless,26000000.0,"John Hillcoat, Shia LaBeouf, Tom Hardy, Gary Oldman, Mia Wasikowska, Jessica Chastain, Jason Clarke, Guy Pearce",53676580
+2012,Good Deeds,14000000,"Tyler Perry, Th,ie Newton, Brian J. White, Rebecca Romijn, Jamie Kennedy, Phylicia Rashad, Gabrielle Union",35025791
+2012,Red Tails,58000000.0,"Anthony Hemingway, George Lucas, Terrence Howard, Cuba Gooding Jr.",50365377
+2012,Chasing Mavericks,20000000.0,"Curtis Hanson, Michael Apted, Gerard Butler, Jonny Weston, Elisabeth Shue, Abigail Spencer",8300000.0
+2012,Here Comes the Boom,42000000.0,"Frank Coraci, Allan Loeb, Henry Winkler, Salma Hayek, Bas Rutten",73100172
+2012,The Guilt Trip,40000000.0,"Anne Fletcher, Dan Fogelman, Barbra Streis,, Seth Rogen",41030582
+2012,The Devil Inside,1000000.0,"William Brent Bell, Simon Quarterman, Suzan Crowley",101758490
+2012,Marvel's The Avengers,220000000.0,"Joss Whedon, Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgrd, Samuel L. Jackson",1518000000.0
+2012,This Means War,65000000.0,"McG, Reese Witherspoon, Chris Pine, Tom Hardy, Til Schweiger, Chelsea H,ler",156491279
+2012,Not Fade Away,20000000.0,"David Chase, John Magaro, Jack Huston, Bella Heathcote",610792
+2012,The Twilight Saga: Breaking Dawn  Part 2,120000000.0,"Bill Condon, Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Peter Facinelli, Elizabeth Reaser, Kellan Lutz, Nikki Reed, Jackson Rathbone, Ashley Greene, Michael Sheen, Dakota Fanning",829685377
+2012,Taken 2,45000000.0,"Olivier Megaton, Robert Mark Kamen, Liam Neeson, Maggie Grace, Famke Janssen, Lel, Orser, Jon Gries, D.B. Sweeney, Luke Grimes, Rade erbedija",376141306
+2012,Hit and Run,2000000.0,"Dax Shepard, Kristen Bell, Kristin Chenoweth, Tom Arnold, Bradley Cooper",14453354
+2012,The Man with the Iron Fists,20000000.0,"RZA, Russell Crowe, Cung Le, Lucy Liu, Byron Mann, Rick Yune, David Bautista, Jamie Chung",20250000.0
+2012,The Master,32000000.0,"Paul Thomas Anderson, Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams, Laura Dern",28258060
+2012,Anna Karenina,31000000.0,"Joe Wright, Keira Knightley, Jude Law, Aaron Johnson, Kelly Macdonald, Matthew Macfadyen, Domhnall Gleeson, Ruth Wilson, Alicia Vik,er, Olivia Williams, Emily Watson",68929150
+2012,Premium Rush,35000000.0,"David Koepp, Joseph Gordon-Levitt, Michael Shannon, Dania Ramirez, Jamie Chung, Wol Parks, Aasif M,vi",31083599
+2012,Raaz 3D,4100000.0,"Vikram Bhatt, Shagufta Rafique, Emraan Hashmi, Bipasha Basu, Esha Gupta",16000000.0
+2012,Rise of the Guardians,145000000.0,"Peter Ramsey, Chris Pine, Alec Baldwin, Hugh Jackman, Isla Fisher, Jude Law",306900000.0
+2012,"Farewell, My Queen",7500000,"Benot Jacquot, Diane Kruger, La Seydoux, Virginie Ledoyen",8829912
+2012,Diary of a Wimpy Kid: Dog Days,22000000.0,"David Bowers, Zachary Gordon, Devon Bostick, Steve Zahn, Peyton List, Robert Capron",77112176
+2012,Frankenweenie,39000000.0,"Tim Burton, ""Catherine OHara"", Martin Short, Martin L,au, Charlie Tahan, Atticus Shaffer, Winona Ryder",81500000.0
+2012,Celeste and Jesse Forever,840000,"Lee Tol, Krieger, Rashida Jones, Will McCormack, Rashida Jones, Andy Samberg, Ari Graynor, Eric Christian Olsen, Elijah Wood, Emma Roberts",3094813
+2012,John Dies at the End,1000000.0,"Don Coscarelli, Chase Williamson, Rob Mayes, Paul Giamatti, Clancy Brown, Glynn Turman, Doug Jones, Daniel Roebuck",141951
+2012,One for the Money,40000000.0,"Julie Anne Robinson, Katherine Heigl, ""Jason OMara"", Daniel Sunjata, John Leguizamo, Sherri Shepherd, Debbie Reynolds",36893721
+2012,The Odd Life of Timothy Green,40000000.0,"Peter Hedges, Jennifer Garner, Joel Edgerton, Odeya Rush, Dianne Wiest, CJ Adams, Rosemarie DeWitt, Ron Livingston, David Morse, Common",55300000.0
+2012,Cloud Atlas,102000000.0,"The Wachowskis, Tom Tykwer, Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving, Jim Sturgess, Doona Bae, Ben Whishaw, ""James DArcy"", Zhou Xun, Keith David, David Gyasi, Susan Sar,on, Hugh Grant",130482868
+2012,House at the End of the Street,6900000.0,"Mark Tonderai, Jonathan Mostow, Jennifer Lawrence, Max Thieriot, Gil Bellows, Elisabeth Shue, Nolan Gerard Funk, Allie MacDonald",42781908
+2012,ParaNorman,60000000.0,"Sam Fell, Kodi Smit-McPhee, Tucker Albrizzi, Anna Kendrick, Casey Affleck, Christopher Mintz-Plasse, Leslie Mann, Jeff Garlin, Elaine Stritch, Bernard Hill, Jodelle Ferl,, Tempestt Bledsoe, Alex Borstein, John Goodman",107139399
+2012,Bullet to the Head,55000000.0,"Walter Hill, Sylvester Stallone, Sung Kang, Sarah Shahi, Adewale Akinnuoye-Agbaje, Christian Slater, Jason Momoa",13561515
+2012,Safe House,85000000.0,"Daniel Espinosa, Denzel Washington, Ryan Reynolds",208076205
+2012,Django Unchained,100000000.0,"Quentin Tarantino, Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson",425368238
+2012,The Oogieloves in the Big Balloon Adventure,40000000.0,"Matthew Diamond, Chazz Palminteri, Cloris Leachman, Jaime Pressly, Christopher Lloyd, Cary Elwes, Toni Braxton",1065907
+2012,Alex Cross,35000000.0,"Rob Cohen, Tyler Perry, Matthew Fox",34618867
+2012,Killing Them Softly,15000000.0,"Andrew Dominik, Brad Pitt, Scoot McNairy, Ben Mendelsohn, Richard Jenkins, James G,olfini, Ray Liotta, Sam Shepard",37930465
+2012,The Woman in Black,15000000.0,"James Watkins, Daniel Radcliffe, Ciarn Hinds, Janet McTeer, Liz White",127730736
+2012,Cosmopolis,20500000.0,"David Cronenberg, Robert Pattinson, Paul Giamatti, Samantha Morton, Sarah Gadon, Mathieu Amalric, Juliette Binoche, Jay Baruchel, Kevin Dur,",6063556
+2012,Skyfall,150200,"Sam Mendes, Daniel Craig, Javier Bardem, Ralph Fiennes, Naomie Harris, Brnice Marlohe, Albert Finney, Judi Dench",1108600000.0
+2012,Red Dawn,65000000.0,"Dan Bradley, Chris Hemsworth, Josh Peck, Josh Hutcherson, Adrianne Palicki, Isabel Lucas, Connor Cruise, Jeffrey Dean Morgan",48169726
+2012,American Reunion,50000000.0,"Jon Hurwitz, Hayden Schlossberg, Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Mena Suvari, Eddie Kaye Thomas, Dania Ramirez, Eugene Levy",234989584
+2012,People Like Us,16000000.0,"Alex Kurtzman, Chris Pine, Elizabeth Banks, Olivia Wilde, Michelle Pfeiffer",12400000.0
+2012,Lincoln,65000000.0,"Steven Spielberg, Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook, Tommy Lee Jones",275300000.0
+2012,Bachelorette,3000000.0,"Leslye Headl,, Kirsten Dunst, Isla Fisher, Lizzy Caplan, James Marsden, Kyle Bornheimer, Rebel Wilson, Adam Scott",11947954
+2012,Sinister,3000000.0,"Scott Derrickson, C. Robert Cargill, Ethan Hawke, Juliet Rylance, Fred Thompson, James Ransone, Clare Foley",87727807
+2012,Think Like a Man,12000000.0,"Tim Story, Michael Ealy, Jerry Ferrara, Meagan Good, Regina Hall, Kevin Hart, Terrence J, Taraji P. Henson, Romany Malco, Gabrielle Union",96070507
+2012,Ek Tha Tiger,12000000.0,"Kabir Khan, Salman Khan, Katrina Kaif, Ranvir Shorey, Girish Karnad",50000000.0
+2012,The Hobbit: An Unexpected Journey,267500000.0,"Peter Jackson, Ian McKellen, Martin Freeman, Richard Armitage, James Nesbitt, Ken Stott, Cate Blanchett, Ian Holm, Christopher Lee, Hugo Weaving, Elijah Wood, Andy Serkis",1017000000.0
+2012,Big Miracle,30000000.0,"Ken Kwapis, Drew Barrymore, John Krasinski",24719215
+2012,Cirque du Soleil: Worlds Away,25000000.0,"Andrew Adamson, Erica Linz, Benedikt Negro",34153101
+2012,Resident Evil: Retribution,65000000.0,"Paul W. S. Anderson, Milla Jovovich, Michelle Rodriguez, Kevin Dur,, Sienna Guillory, Shawn Roberts, Aryana Engineer, Oded Fehr, Colin Salmon, Johann Urb, Boris Kodjoe, Li Bingbing",240159255
+2012,Silent Hill: Revelation,20000000.0,"Michael J. Bassett, Adelaide Clemens, Kit Harington, Deborah Kara Unger, Martin Donovan, Malcolm McDowell, Carrie-Anne Moss, Sean Bean",52300000.0
+2012,The Lords of Salem,1500000.0,"Rob Zombie, Sheri Moon Zombie, Bruce Davison, Jeff Daniel Phillips, Ken Foree, Patricia Quinn, Dee Wallace, Mara Conchita Alonso, Judy Geeson, Meg Foster",1165882
+2012,Journey 2: The Mysterious Island,79000000.0,"Brad Peyton, Dwayne Johnson, Michael Caine, Josh Hutcherson, Vanessa Hudgens, Luis Guzmn",355692760
+2012,Looper,30000000.0,"Rian Johnson, Bruce Willis, Joseph Gordon-Levitt, Emily Blunt, Paul Dano, Noah Segan, Piper Perabo, Jeff Daniels",176500000.0
+2012,Promised Land,15000000.0,"Gus Van Sant, Matt Damon, John Krasinski, Frances McDorm,",8138788
+2012,Iron Sky,10000000.0,"Timo Vuorensola, Julia Dietze, Gtz Otto, Peta Sergeant, Stephanie Paul, Udo Kier",8135031
+2012,Tim and Eric's Billion Dollar Movie,3000000.0,"Tim Heidecker, Eric Wareheim, Zach Galifianakis",201436
+2012,Zero Dark Thirty,40000000.0,"Kathryn Bigelow, Jessica Chastain, Jason Clarke, Joel Edgerton",138800000.0
+2012,Back to 1942,210000000.0,"Feng Xiaogang, Liu Zhenyun, Zhang Guoli, Chen Daoming, Li Xuejian, Zhang Hanyu, Fan Wei, Xu Fan, Tim Robbins, Adrien Brody",364000000.0
+2012,The Impossible,45000000.0,"J. A. Bayona, Sergio G. Snchez, Naomi Watts, Ewan McGregor",180274123
+2012,Beasts of the Southern Wild,1800000.0,"Benh Zeitlin, Quvenzhan Wallis, Dwight Henry",21911774
+2012,End of Watch,7500000.0,"David Ayer, Jake Gyllenhaal, Michael Pea, Anna Kendrick, Natalie Martinez, America Ferrera, Frank Grillo, David Harbour",53000000.0
+2012,LOL,11000000.0,"Lisa Azuelos, Miley Cyrus, Demi Moore, Douglas Booth, Ashley Greene",18279948
+2012,The Five-Year Engagement,30000000.0,"Nicholas Stoller, Jason Segel, Jason Segel, Emily Blunt, Chris Pratt, Alison Brie, Jacki Weaver, Rhys Ifans, Chris Parnell",53909751
+2012,Sparkle,14000000.0,"Mara Brock Akil, Jordin Sparks, Whitney Houston, Derek Luke, Mike Epps, Tamela Mann, Carmen Ejogo, Tika Sumpter, Omari Hardwick, Cee Lo Green",24637469
+2012,Joyful Noise,25000000.0,"Todd Graff, Queen Latifah, Dolly Parton, Keke Palmer, Jeremy Jordan",31157914
+2012,Madagascar 3: Europe's Most Wanted,145000000.0,"Eric Darnell, Conrad Vernon, Tom McGrath, Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter, Jessica Chastain, Bryan Cranston, Martin Short, Frances McDorm,",746921274
+2012,Hope Springs,30000000.0,"David Frankel, Vanessa Taylor, Meryl Streep, Tommy Lee Jones, Steve Carell",114281051
+2012,A Thousand Words,40000000.0,"Brian Robbins, Steve Koren, Eddie Murphy, Kerry Washington, Cliff Curtis, Clark Duke, Allison Janney",22044277
+2012,Jack Reacher,60000000.0,"Christopher McQuarrie, Rosamund Pike, Richard Jenkins, Werner Herzog, David Oyelowo, Jai Courtney, Joseph Sikora, Robert Duvall",218340595
+2012,Savages,45000000.0,"Oliver Stone, Taylor Kitsch, Blake Lively, Aaron Johnson, John Travolta, Benicio del Toro, Salma Hayek",82966152
+2012,Hotel Transylvania,85000000.0,"Genndy Tartakovsky, Adam S,ler, Andy Samberg, Selena Gomez, Kevin James, Fran Drescher, Steve Buscemi, Molly Shannon, David Spade, CeeLo Green",358375603
+2012,The Bourne Legacy,125000000.0,"Tony Gilroy, Jeremy Renner, Rachel Weisz, Edward Norton, Albert Finney, Joan Allen, Stacy Keach, Oscar Isaac, Scott Glenn",276144750
+2012,Step Up Revolution,33000000.0,"Scott Speer, Ryan Guzman, Kathryn McCormick, Misha Gabriel, Cleopatra Coleman, Stephen ""tWitch"" Boss, Tommy Dewey, Peter Gallagher, RJ Mitte",140470746
+2012,Prometheus,125000000.0,"Ridley Scott, Jon Spaihts, Damon Lindelof, Noomi Rapace, Michael Fassbender, Guy Pearce, Idris Elba, Logan Marshall-Green, Charlize Theron",403400000.0
+2012,Wreck-It Ralph,165000000.0,"Rich Moore, John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch",471200000.0
+2012,What to Expect When You're Expecting,40000000.0,"Kirk Jones, Cameron Diaz, Jennifer Lopez, Elizabeth Banks, Chace Crawford, Brooklyn Decker, Anna Kendrick, Matthew Morrison, Dennis Quaid, Chris Rock, Rodrigo Santoro",84384002
+2012,Project X,12000000.0,"Nima Nourizadeh, Thomas Mann, Oliver Cooper, Jonathan Daniel Brown",102700000.0
+2012,Dark Shadows,150000000.0,"Tim Burton, Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Eva Green, Jackie Earle Haley, Jonny Lee Miller, Chlo Grace Moretz, Bella Heathcote",245527149
+2012,Pitch Perfect,17000000.0,"Jason Moore, Anna Kendrick, Skylar Astin, Rebel Wilson, Adam DeVine, Anna Camp, Brittany Snow, John Michael Higgins, Elizabeth Banks",113042075
+2012,21 Jump Street,42000000.0,"Phil Lord,Christopher Miller, Jonah Hill, Channing Tatum, Brie Larson, Dave Franco, Rob Riggle, DeRay Davis, Ice Cube",201600000.0
+2012,Stolen,35000000.0,"Simon West, Nicolas Cage, Danny Huston, Malin kerman, M.C. Gainey, Sami Gayle, Mark Valley, Josh Lucas",17415428
+2012,Abraham Lincoln: Vampire Hunter,69000000.0,"Timur Bekmambetov, Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead, Rufus Sewell, Marton Csokas",116471580
+2012,The Perks of Being a Wallflower,13000000.0,"Stephen Chbosky, Logan Lerman, Emma Watson, Ezra Miller, Mae Whitman",33400000.0
+2012,Chronicle,12000000.0,"Josh Trank, Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly, Ashley Hinshaw",126636097
+2012,Rock of Ages,75000000.0,"Adam Shankman, Julianne Hough, Diego Boneta, Russell Br,, Paul Giamatti, Catherine Zeta-Jones, Bryan Cranston, Malin kerman, Mary J. Blige, Alec Baldwin, Tom Cruise",59418613
+2012,Chernobyl Diaries,1000000.0,"Jesse McCartney, Jonathan Sadowski, Devin Kelley, Olivia Taylor Dudley, Nathan Phillips, Ingrid Bolso Berdal, Dimitri Diatchenko",37157648
+2012,That's My Boy,70000000.0,"Sean Anders, David Caspe, Andy Samberg",57700000.0
+2012,Underworld: Awakening,70000000.0,"Mns Mrlind, Kate Beckinsale, Stephen Rea, Michael Ealy, Theo James, India Eisley, S,rine Holt, Charles Dance",160112671
+2012,"For a Good Time, Call...",1300000.0,"Jamie Travis, Ari Graynor, Lauren Miller, Justin Long, Sugar Lyn Beard, Mimi Rogers, Nia Vardalos, Mark Webber, James Wolk",1251749
+2012,The Words,6000000.0,"Brian Klugman, Bradley Cooper, Zoe Saldana, Olivia Wilde, Jeremy Irons, Ben Barnes, Dennis Quaid, Nora Arnezeder",13231461
+2012,Casa de Mi Padre,6000000.0,"Matt Piedmont, Gael Garca Bernal, Diego Luna, Gnesis Rodrguez, Pedro Armendriz Jr., Nick Offerman, Efren Ramirez",8041667
+2012,The Apparition,17000000.0,"Ashley Greene, Sebastian Stan, Tom Felton, Julianna Guill",9627492
+2012,Wrath of the Titans,150000000.0,"Jonathan Liebesman, Sam Worthington, Rosamund Pike, Bill Nighy, dgar Ramrez, Toby Kebbell, Danny Huston, Sinead Cusack, John Bell, Ralph Fiennes, Liam Neeson",305270083
+2012,Barfi!,4900000.0,"Anurag Basu, Ranbir Kapoor, Priyanka Chopra, ""Ileana DCruz"", Saurabh Shukla, Ashish Vidyarthi, Roopa Ganguly",28000000.0
+2012,The Raven,26000000.0,"James McTeigue, John Cusack, Alice Eve, Brendan Gleeson, Luke Evans",29700000.0
+2013,Peeples,15000000.0,"Tina Gordon Chism, Craig Robinson, Kerry Washington, David Alan Grier",9177065
+2013,Filth,5000000.0,"James McAvoy, Jamie Bell, Eddie Marsan, Imogen Poots, Jim Broadbent",8280558
+2013,The Starving Games,4500000.0,"Jason Friedberg,Aaron Seltzer, Maiara Walsh, Cody Christian, Brant Daugherty, Lauren Bowles, Diedrich Bader",3889688
+2013,Thor: The Dark World,170000000.0,"Alan Taylor, Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgrd, Idris Elba, Christopher Eccleston, Adewale Akinnuoye-Agbaje, Kat Dennings, Ray Stevenson, Zachary Levi, Tadanobu Asano, Jaimie Alex,er, Rene Russo",644800000.0
+2013,After Earth,130000000.0,"M. Night Shyamalan, Jaden Smith",243843127
+2013,Insidious: Chapter 2,5000000.0,"James Wan, Patrick Wilson, Rose Byrne, Lin Shaye, Ty Simpkins, Barbara Hershey",161919318
+2013,Dallas Buyers Club,5000000.0,"Jean-Marc Valle, Craig Borten, Melisa Wallack, Matthew McConaughey, Jennifer Garner, Jared Leto",55200000.0
+2013,Gori Tere Pyaar Mein,4900000.0,"Punit Malhotra, Kareena Kapoor Khan, Imran Khan",2000000.0
+2013,The To Do List,1500000.0,"Maggie Carey, , Aubrey Plaza, Johnny Simmons, Bill Hader, Scott Porter, Alia Shawkat, Rachel Bilson, Christopher Mintz-Plasse, Andy Samberg, Donald Glover, Connie Britton, Clark Gregg",3883704
+2013,Waar,1600000.0,"Bilal Lashari, Shaan Shahid, Shamoon Abbasi, Ali Azmat, Ayesha Khan",2200000.0
+2013,Star Trek Into Darkness,185000000.0,"J.J. Abrams, John Cho, Benedict Cumberbatch, Alice Eve, Bruce Greenwood, Simon Pegg, Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban, Peter Weller, Anton Yelchin",467381584
+2013,Bad Words,10000000.0,"Jason Bateman, Kathryn Hahn, Rohan Ch,, Ben Falcone, Philip Baker Hall, Allison Janney",7800000.0
+2013,August: Osage County,25000000.0,"John Wells, Tracy Letts, Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch, Juliette Lewis, Margo Martindale, Dermot Mulroney, Julianne Nicholson, Sam Shepard, Misty Upham",74188937
+2013,Life of Crime,12000000.0,"Daniel Schechter, Yasiin Bey, Isla Fisher, Will Forte, Mark Boone Junior, Tim Robbins, John Hawkes",1420602
+2013,The Smurfs 2,105000000.0,"Raja Gosnell, Neil Patrick Harris, Brendan Gleeson, Jayma Mays, Katy Perry, Hank Azaria",347545360
+2013,Jobs,12000000.0,"Joshua Michael Stern, Ashton Kutcher, Dermot Mulroney, Josh Gad, Lukas Haas, J. K. Simmons, Lesley Ann Warren, Ron Eldard, ""Ahna OReilly"", John Getz, James Woods, Matthew Modine",35900000.0
+2013,The Fifth Estate,28000000.0,"Bill Condon, Benedict Cumberbatch, Daniel Brhl, Anthony Mackie, David Thewlis, Alicia Vik,er, Stanley Tucci, Laura Linney",8600000.0
+2013,Nebraska,12000000.0,"Alex,er Payne, Bob Nelson, Bruce Dern, Will Forte, June Squibb, Stacy Keach, Bob Odenkirk",24183912
+2013,The Lone Ranger,225000000.0,"Gore Verbinski, Johnny Depp, Armie Hammer, Tom Wilkinson, William Fichtner, Barry Pepper, James Badge Dale, Helena Bonham Carter",260500000.0
+2013,The Grand Seduction,12700000.0,"Don McKellar, Ken Scott, Michael Dowse, Taylor Kitsch, Brendan Gleeson, Liane Balaban, Gordon Pinsent, Mark Critch, Mary Walsh, Cathy Jones, Matt Watts",3878262
+2013,Saving Mr. Banks,35000000.0,"John Lee Hancock, Kelly Marcel, Emma Thompson, Tom Hanks, Paul Giamatti, Jason Schwartzman, Bradley Whitford, Colin Farrell",112500000.0
+2013,Jack the Giant Slayer,192500000.0,"Bryan Singer, Nicholas Hoult, Eleanor Tomlinson, Stanley Tucci, Ian McShane, Bill Nighy, Ewan McGregor",197687603
+2013,Under the Skin,13300000.0,"Jonathan Glazer, Scarlett Johansson",5735963
+2013,American Hustle,40000000.0,"David O. Russell, Eric Warren Singer, Christian Bale, Bradley Cooper, Amy Adams, Jeremy Renner, Jennifer Lawrence",251200000.0
+2013,Stoker,12000000.0,"Park Chan-wook, Wentworth Miller, Mia Wasikowska, Matthew Goode, Nicole Kidman, Dermot Mulroney, Jacki Weaver",12077441
+2013,Himmatwala,8100000.0,"Sajid Khan, Sajid Khan, Ajay Devgan, Tamannaah Bhatia, Paresh Rawal, Mahesh Manjrekar, Leena Jumani, Adhyayan Suman, Zarina Wahab",11000000.0
+2013,Prince Avalanche,725000,"David Gordon Green, Paul Rudd, Emile Hirsch",442313
+2013,Fruitvale Station,900000,"Ryan Coogler, Michael B. Jordan, Melonie Diaz, Octavia Spencer",17385830
+2013,The Wolf of Wall Street,100000000.0,"Martin Scorsese, Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Ch,ler, Rob Reiner, Jon Bernthal, Jon Favreau, Jean Dujardin",392000000.0
+2013,Getaway,18000000.0,"Courtney Solomon, Ethan Hawke, Selena Gomez, Jon Voight, Rebecca Budig",11806432
+2013,We're the Millers,37000000.0,"Rawson Marshall Thurber, Jennifer Aniston, Jason Sudeikis, Emma Roberts, Nick Offerman, Kathryn Hahn, Ed Helms",269994119
+2013,The Incredible Burt Wonderstone,30000000.0,"Don Scardino, Steve Buscemi, Olivia Wilde, Alan Arkin, James G,olfini, Jim Carrey",27500000.0
+2013,12 Years a Slave,22000000.0,"Steve McQueen, Chiwetel Ejiofor, Michael Fassbender, Benedict Cumberbatch, Paul Dano, Paul Giamatti, ""Lupita Nyongo"", Sarah Paulson, Alfre Woodard",187700000.0
+2013,Romeo and Juliet,24000000.0,"Douglas Booth, Hailee Steinfeld, Damian Lewis, Kodi Smit-McPhee, Ed Westwick, Paul Giamatti",1162635
+2013,In Secret,2000000.0,"Elizabeth Olsen, Tom Felton, Oscar Isaac, Jessica Lange",444179
+2013,Race 2,9700000.0,"Abbas Burmawalla, Mustan Burmawalla, Anil Kapoor, Saif Ali Khan, John Abraham, Deepika Padukone, Ameesha Patel, Jacqueline Fern,ez",26000000.0
+2013,Labor Day,18000000.0,"Jason Reitman, Kate Winslet, Josh Brolin, Gattlin Griffith, Tobey Maguire",19296451
+2013,Despicable Me 2,76000000.0,"Pierre Coffin, Chris Renaud, Cinco Paul, Ken Daurio, Steve Carell, Kristen Wiig, Benjamin Bratt, Mir,a Cosgrove, Russell Br,, Steve Coogan, Ken Jeong",970800000.0
+2013,Parker,35000000.0,"Taylor Hackford, Jason Statham, Jennifer Lopez",46200000.0
+2013,Carrie,30000000.0,"Kimberly Peirce, Chlo Grace Moretz, Judy Greer, Portia Doubleday, Alex Russell, Gabriella Wilde, Ansel Elgort, Julianne Moore",84790678
+2013,Grown Ups 2,80000000.0,"Dennis Dugan, Tim Herlihy, Fred Wolf, Kevin James, Chris Rock, David Spade, Salma Hayek, Maya Rudolph, Maria Bello, Nick Swardson",247000000.0
+2013,The Croods,135000000.0,"Kirk DeMicco, Chris S,ers, Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Clark Duke, Cloris Leachman",587204668
+2013,A Haunted House,2500000.0,"Marlon Wayans, Marlon Wayans, Essence Atkins, Cedric the Entertainer, Nick Swardson, David Koechner, Dave Sheridan",60141683
+2013,Inside Llewyn Davis,11000000.0,"Joel Coen,Ethan Coen, Oscar Isaac, Carey Mulligan, John Goodman, Garrett Hedlund, F. Murray Abraham, Justin Timberlake",32900000.0
+2013,Home Run,1200000.0,"David Boyd, Scott Elrod",2861020
+2013,The Canyons,250000,"Paul Schrader, Bret Easton Ellis, James Deen",56825
+2013,The Railway Man,12000000.0,"Jonathan Teplitzky, Colin Firth, Nicole Kidman, Jeremy Irvine, Stellan Skarsgrd",22320893
+2013,Free Birds,55000000.0,"Jimmy Hayward, Owen Wilson, Woody Harrelson, Amy Poehler",110387072
+2013,Ek Thi Daayan,3900000.0,"Kannan Iyer, Vishal Bhardwaj, Emraan Hashmi, Huma Qureshi, Konkona Sen Sharma, Kalki Koechlin",7300000.0
+2013,Escape from Planet Earth,40000000.0,"Bob Barlen, Rob Corddry, Brendan Fraser, Sarah Jessica Parker, William Shatner, Jessica Alba, Craig Robinson, George Lopez, Jane Lynch, Sofa Vergara",74597643
+2013,All Is Lost,8500000.0,"J. C. Ch,or, Robert Redford",10175509
+2013,Attarintiki Daredi,8900000.0,"Trivikram Srinivas, Pawan Kalyan, Samantha Ruth Prabhu, Nadhiya, Boman Irani, Pranitha, Brahman,am, Ali, Alakh Niranjan",12000000.0
+2013,Percy Jackson: Sea of Monsters,90000000.0,"Thor Freudenthal, Logan Lerman, Br,on T. Jackson, Alex,ra Daddario, Jake Abel, Douglas Smith, Stanley Tucci",199850315
+2013,Rush,38000000.0,"Ron Howard, Chris Hemsworth, Daniel Brhl, Olivia Wilde, Alex,ra Maria Lara, Pierfrancesco Favino",90200000.0
+2013,The Secret Life of Walter Mitty,90000000.0,"Ben Stiller, Kristen Wiig, Shirley MacLaine, Adam Scott, Kathryn Hahn, Sean Penn",188133322
+2013,Philomena,12000000.0,"Stephen Frears, Judi Dench",100100000.0
+2013,Pain & Gain,26000000.0,"Michael Bay, Mark Wahlberg, Dwayne Johnson, Anthony Mackie, Tony Shalhoub, Ed Harris",96175291
+2013,Dhoom 3,20000000.0,"Vijay Krishna Acharya, Aamir Khan, Abhishek Bachchan, Katrina Kaif, Uday Chopra, Jackie Shroff",86000000.0
+2013,Epic,93000000.0,"Chris Wedge, Colin Farrell, Josh Hutcherson, Am,a Seyfried, Christoph Waltz, Aziz Ansari, ""Chris ODowd"", Pitbull, Jason Sudeikis, Steven Tyler, Beyonc Knowles",268426634
+2013,Go Goa Gone,2600000.0,"Raj Nidimoru, Krishna D.K., Saif Ali Khan, Kunal Khemu, Vir Das, An, Tiwari, Puja Gupta",4600000.0
+2013,Fukrey,810000,"Pulkit Samrat, Ali Fazal, Manjot Singh, Priya An,, Richa Chadda, Vishakha Singh, Varun Sharma",5800000.0
+2013,Ghanchakkar,4900000.0,"Rajkumar Gupta, Emraan Hashmi, Vidya Balan, Rajesh Sharma, Parvin Dabas",6200000.0
+2013,Hansel & Gretel: Witch Hunters,50000000.0,"Tommy Wirkola, Jeremy Renner, Gemma Arterton, Famke Janssen, Peter Stormare, Thomas Mann, Derek Mears",226300000.0
+2013,Seethamma Vakitlo Sirimalle Chettu,4100000.0,"Srikanth Addala, Ganesh Patro, Venkatesh, Mahesh Babu, Anjali, Samantha, Prakash Raj, Jayasudha",8400000.0
+2013,Hours,4000000.0,"Eric Heisserer, Paul Walker, Kerry Cahill, Gnesis Rodrguez, TJ Hassan, Nick Gomez, Judd Lorm,",783997
+2013,The Host,40000000.0,"Andrew Niccol, Saoirse Ronan, Emily Browning, Max Irons, Jake Abel, Frances Fisher, Ch,ler Canterbury, Diane Kruger, William Hurt",63327201
+2013,Kai Po Che!,4900000.0,"Abhishek Kapoor, Sushant Singh Rajput, Asif Basra, Amit Sadh, Rajkummar Rao, Amrita Puri",10000000.0
+2013,Mandela: Long Walk to Freedom,35000000.0,"Justin Chadwick, Idris Elba, Naomie Harris",27333835
+2013,This Is the End,32000000.0,"Seth Rogen, Evan Goldberg, James Franco, Jonah Hill, Seth Rogen, Jay Baruchel, Danny McBride, Craig Robinson, Michael Cera, Emma Watson",126041322
+2013,Only God Forgives,4800000.0,"Nicolas Winding Refn, Ryan Gosling, Kristin Scott Thomas, Vithaya Pansringarm, Ratha Phongam, Tom Burke",10337387
+2013,G.I. Joe: Retaliation,130000000.0,"Jon M. Chu, Rhett Reese, Paul Wernick, Dwayne Johnson, Bruce Willis, D.J. Cotrona, Byung-hun Lee, Adrianne Palicki, Ray Park, Jonathan Pryce, Ray Stevenson, Channing Tatum",375740705
+2013,White House Down,150000000.0,"Rol, Emmerich, Channing Tatum, Jamie Foxx, Maggie Gyllenhaal, Jason Clarke, Richard Jenkins, James Woods",205400000.0
+2013,Bombay Talkies,970000,"Karan Johar, Dibakar Banerjee, Zoya Akhtar, Anurag Kashyap, Reema Kagti, Rani Mukerji, R,eep Hooda, Saqib Saleem, Nawazuddin Siddiqui, Sadashiv Amrapurkar",1000000.0
+2013,Beautiful Creatures,60000000.0,"Richard LaGravenese, Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis, Emmy Rossum, Thomas Mann, Emma Thompson, Eileen Atkins, Margo Martindale, Zoey Deutch, Tiffany Boone",60052138
+2013,Man of Steel,225000000.0,"Zack Snyder, Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Laurence Fishburne, Antje Traue, Ayelet Zurer, Christopher Meloni, Russell Crowe, ",668050000.0
+2013,The Last Exorcism Part II,5000000.0,"Ed Gass-Donnelly, Ashley Bell, Julia Garner, Spencer Treat Clark, Louis Herthum, Muse Watson",15179302
+2013,Scary Movie 5,20000000.0,"Malcolm D. Lee, Pat Proft, Ashley Tisdale, Simon Rex, Erica Ash, Molly Shannon, Heather Locklear, J. P. Manoux, ""Jerry OConnell"", Charlie Sheen, Lindsay Lohan",78400000.0
+2013,Oblivion,120000000.0,"Joseph Kosinski, Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough, Nikolaj Coster-Waldau, Melissa Leo",286168572
+2013,The Wind Rises,30000000.0,"Hayao Miyazaki, Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Steve Alpert, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, Nomura Mansai",134965832
+2013,Kick-Ass 2,28000000.0,"Jeff Wadlow, Aaron Taylor-Johnson, Christopher Mintz-Plasse, Chlo Grace Moretz, Jim Carrey",60795985
+2013,The Last Stand,45000000.0,"Kim Jee-woon, Arnold Schwarzenegger, Forest Whitaker, Johnny Knoxville, Rodrigo Santoro, Daniel Henney, Jaimie Alex,er, Luis Guzmn, Eduardo Noriega, Peter Stormare, Zach Gilford, Gnesis Rodrguez",48330757
+2013,Now You See Me,75000000.0,"Louis Leterrier, Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher, Dave Franco, Mlanie Laurent, Morgan Freeman, Michael Caine",351723989
+2013,The Wolverine,120000000.0,"James Mangold, Hugh Jackman, Hiroyuki Sanada, Tao Okamoto, Rila Fukushima, Famke Janssen, Will Yun Lee, Svetlana Khodchenkova, Brian Tee",415000000.0
+2013,R.I.P.D.,130000000.0,"Robert Schwentke, Jeff Bridges, Ryan Reynolds, Kevin Bacon, Mary-Louise Parker, Stephanie Szostak",78477749
+2013,Main Hoon Shahid Afridi,160000,"Syed Ali Raza Usama, Humayun Saeed, Javed Shaikh, Nadeem Baig, Ismail Tara, Shafqat Cheema",490000
+2013,About Time,12000000.0,"Richard Curtis, Domhnall Gleeson, Rachel McAdams, Bill Nighy, Tom Holl,er, Margot Robbie",87100000.0
+2013,Baggage Claim,8500000.0,"David E. Talbert, Paula Patton, Adam Brody, Sweeny, Djimon Hounsou, Tremaine Neverson, Christina Milian, Derek Luke",22456509
+2013,The Counselor,25000000.0,"Ridley Scott, Cormac McCarthy, Michael Fassbender, Penlope Cruz, Cameron Diaz, Javier Bardem, Brad Pitt",71009334
+2013,Monsters University,200000000.0,"Dan Scanlon, Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren",743600000.0
+2013,The Mortal Instruments: City of Bones,60000000.0,"Harald Zwart, Lily Collins, Jamie Campbell Bower, Robert Sheehan, Kevin Zegers, Lena Headey, Kevin Dur,, Aidan Turner, Jemima West, Godfrey Gao, C. C. H. Pounder, Jared Harris, Jonathan Rhys Meyers",90565421
+2013,World War Z,190000000.0,"Marc Forster, Brad Pitt, Mireille Enos, James Badge Dale, Matthew Fox",540007876
+2013,Nurse 3D,10000000.0,"David Loughery, Paz de la Huerta, Katrina Bowden, Corbin Bleu",18234342
+2013,Lone Survivor,40000000.0,"Peter Berg, Mark Wahlberg, Taylor Kitsch, Emile Hirsch, Ben Foster, Eric Bana",149300000.0
+2013,Pacific Rim,190000000.0,"Guillermo del Toro, Charlie Hunnam, Idris Elba, Rinko Kikuchi, Charlie Day, Robert Kazinsky, Max Martini, Ron Perlman",411000000.0
+2013,Trance,20000000.0,"Danny Boyle, James McAvoy, Vincent Cassel, Rosario Dawson",24300000.0
+2013,Broken City,35000000.0,"Allen Hughes, Mark Wahlberg, Russell Crowe, Catherine Zeta-Jones, Jeffrey Wright, Barry Pepper",19700000.0
+2013,Captain Phillips,55000000.0,"Paul Greengrass, Tom Hanks, Barkhad Abdi",218800000.0
+2013,Metallica: Through the Never,18000000.0,"Nimrd Antal, James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo, Dane DeHaan",21196967
+2013,The Conjuring,20000000.0,"James Wan, Chad Hayes, Carey W. Hayes, Vera Farmiga, Patrick Wilson, Ron Livingston, Lili Taylor",318000000.0
+2013,Movie 43,6000000.0,"Steven Brill, Peter Farrelly, Steve Carr, Griffin Dunne, Elizabeth Banks, Brett Ratner, Rusty Cundieff, James Gunn, Ricky Blitt, Greg Pritikin, Olle Sarri, Jeremy Sosenko, ",32438988
+2013,Europa Report,10000000.0,"Sebastin Cordero, Christian Camargo, Anamaria Marinca, Michael Nyqvist, Daniel Wu, Karolina Wydra, Sharlto Copley, Embeth Davidtz, Dan Fogler, Isiah Whitlock Jr.",125687
+2013,The Great Gatsby,105000000.0,"Baz Luhrmann, Leonardo DiCaprio, Tobey Maguire, Carey Mulligan, Joel Edgerton, Isla Fisher, Jason Clarke, Elizabeth Debicki, Jack Thompson, Amitabh Bachchan",351040419
+2013,The Spectacular Now,2500000.0,"James Ponsoldt, Miles Teller, Shailene Woodley, Brie Larson, Jennifer Jason Leigh, Kyle Ch,ler",6918591
+2013,Turbo,127000000.0,"David Soren, Robert Siegel, Ryan Reynolds, Paul Giamatti, Michael Pea, Snoop Dogg, Maya Rudolph, Michelle Rodriguez, Samuel L. Jackson",282570682
+2013,23 Blast,1000000.0,"Dylan Baker, Stephen Lang, Alexa PenaVega, Mark Hapka, Max Adler, Kim Zimmer, Becky Ann Baker, Timothy Busfield, Fred Thompson",549185
+2013,The Best Offer,18000000.0,"Giuseppe Tornatore, Geoffrey Rush, Jim Sturgess, Sylvia Hoeks, Donald Sutherl,",20489700
+2013,Machete Kills,20000000.0,"Robert Rodriguez, Danny Trejo, Michelle Rodriguez, Sofa Vergara, Amber Heard, Antonio B,eras, Lady Gaga, Cuba Gooding Jr., Walt Goggins, William Sadler, Demin Bichir, Mel Gibson",15008161
+2013,The Purge,3000000.0,"James DeMonaco, Ethan Hawke, Lena Headey, Adelaide Kane, Max Burkholder",89300000.0
+2013,The Grandmaster,38600000.0,"Wong Kar-wai, Tony Leung, Zhang Ziyi, Chang Chen, Zhao Benshan, Song Hye-kyo",50000000.0
+2013,Out of the Furnace,22000000.0,"Scott Cooper, Christian Bale, Woody Harrelson, Casey Affleck, Forest Whitaker, Willem Dafoe, Zo Saldana, Sam Shepard",14100000.0
+2013,The Hobbit: The Desolation of Smaug,225000000.0,"Peter Jackson, Ian McKellen, Martin Freeman, Richard Armitage, Benedict Cumberbatch, Evangeline Lilly, Lee Pace, Luke Evans, Ken Stott, James Nesbitt, Orl,o Bloom",958400000.0
+2013,Oculus,5000000.0,"Karen Gillan, Brenton Thwaites, Rory Cochrane, Katee Sackhoff",44000000.0
+2013,Before Midnight,3000000.0,"Richard Linklater, Ethan Hawke, Julie Delpy",20737030
+2013,Hell Baby,2500000.0,"Robert Ben Garant, Thomas Lennon, Rob Corddry, Leslie Bibb, Keegan Michael Key, Riki Lindhome, Paul Scheer, Rob Huebel, Robert Ben Garant, Thomas Lennon, Michael Ian Black, Cathy Shim, Kumail Nanjiani",8785
+2013,Side Effects,30000000.0,"Steven Soderbergh, Jude Law, Rooney Mara, Catherine Zeta-Jones, Channing Tatum",63372757
+2013,Runner Runner,30000000.0,"Brad Furman, Brian Koppelman, David Levien, Justin Timberlake, Gemma Arterton, Ben Affleck",62700000.0
+2013,Dark Skies,3500000.0,"Scott Stewart, Keri Russell, Josh Hamilton, Dakota Goyo, J. K. Simmons",26421747
+2013,Planes,50000000.0,"Klay Hall, Dane Cook, Stacy Keach, Priyanka Chopra, Brad Garrett, Cedric the Entertainer, Julia Louis-Dreyfus, Roger Craig Smith, John Cleese, Carlos Alazraqui, Val Kilmer, Anthony Edwards",219800000.0
+2013,Paranoia,35000000.0,"Robert Luketic, Liam Hemsworth, Gary Oldman, Amber Heard, Harrison Ford, Lucas Till, Embeth Davidtz, Julian McMahon, Josh Holloway, Richard Dreyfuss",13785015
+2013,Texas Chainsaw 3D,20000000.0,"John Luessenhop, Alex,ra Daddario, Tremaine Neverson, Tania Raymonde, Thom Barry, Paul Rae, Bill Moseley",47241945
+2013,Red 2,84000000.0,"Dean Parisot, Bruce Willis, John Malkovich, Mary-Louise Parker, Catherine Zeta-Jones, Byung-hun Lee, Anthony Hopkins, Helen Mirren",148100000.0
+2013,Oz the Great and Powerful,215000000.0,"Sam Raimi, James Franco, Mila Kunis, Rachel Weisz, Michelle Williams, Zach Braff, Bill Cobbs, Joey King, Tony Cox",493300000.0
+2013,The World's End,20000000.0,"Edgar Wright, Simon Pegg, Nick Frost, Paddy Considine, Martin Freeman, Eddie Marsan, Rosamund Pike",46000000.0
+2013,Safe Haven,28000000.0,"Lasse Hallstrm, Julianne Hough, Josh Duhamel, David Lyons, Cobie Smulders",97594140
+2013,The Hangover Part III,103000000.0,"Todd Phillips, Craig Mazin, Bradley Cooper, Ed Helms, Zach Galifianakis, Ken Jeong, Heather Graham, Jeffrey Tambor, Justin Bartha, John Goodman",362000000.0
+2013,Diana,15000000.0,"Oliver Hirschbiegel, Naomi Watts, Naveen Andrews",21766271
+2013,Escape Plan,50000000.0,"Mikael Hfstrm, Sylvester Stallone, Arnold Schwarzenegger",137000000.0
+2013,Enough Said,8000000.0,"Nicole Holofcener, Julia Louis-Dreyfus, James G,olfini, Catherine Keener, Toni Collette, Ben Falcone",25300000.0
+2013,The Heat,43000000.0,"Paul Feig, Katie Dippold, S,ra Bullock, Melissa McCarthy, Demin Bichir, Marlon Wayans, Michael Rapaport",229900000.0
+2013,The Way Way Back,5000000,"Nat Faxon, Jim Rash, Steve Carell, Toni Collette, Allison Janney, AnnaSophia Robb, Sam Rockwell, Maya Rudolph, Liam James",26474920
+2013,Chennai Express,12000000.0,"Rohit Shetty, Deepika Padukone, Shahrukh Khan",64000000.0
+2013,The Book Thief,19000000.0,"Brian Percival, Geoffrey Rush, Emily Watson, Sophie Nlisse",76600000.0
+2013,Drinking Buddies,500000,"Joe Swanberg, Olivia Wilde, Jake Johnson, Anna Kendrick, Ron Livingston",343341
+2013,Mama,15000000.0,"Andrs Muschietti, es, Jessica Chastain, Nikolaj Coster-Waldau, Megan Charpentier, Daniel Kash",10784216
+2013,2 Guns,61000000.0,"Baltasar Kormkur, Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton, Fred Ward, James Marsden, Edward James Olmos",131940411
+2013,Phantom,18000000,"Todd Robinson, Ed Harris, David Duchovny, William Fichtner, Lance Henriksen, Johnathon Schaech, Julian Adams",1177589
+2013,Grace Unplugged,1700000.0,"AJ Michalka, James Denton, Kevin Pollak",2507106
+2013,The Hunger Games: Catching Fire,135000000.0,"Francis Lawrence, Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Philip Seymour Hoffman, Jeffrey Wright, Stanley Tucci, Donald Sutherl,",864900000.0
+2013,Iron Man 3,200000000.0,"Shane Black, Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stephanie Szostak, James Badge Dale, Jon Favreau, Ben Kingsley",1200000000.0
+2013,Shootout at Wadala,7800000.0,"Sanjay Gupta, Anil Kapoor, John Abraham, Kangna Ranaut, Sonu Sood, Manoj Bajpai, Ronit Roy, Mahesh Manjrekar, Tusshar Kapoor",12000000.0
+2013,Special 26,6800000.0,"Neeraj P,ey, Neeraj P,ey, Akshay Kumar, Kajal Aggarwal, Manoj Bajpayee, Jimmy Shergill, Divya Dutta, Anupam Kher",17000000.0
+2013,Oldboy,30000000.0,"Spike Lee, Josh Brolin, Elizabeth Olsen, Sharlto Copley",4700000.0
+2013,Jackass Presents: Bad Grandpa,15000000.0,"Jeff Tremaine, Jackson Nicoll",151826547
+2013,Upstream Color,50000,"Shane Carruth, Amy Seimetz, Shane Carruth",444098
+2013,Battle of the Year,20000000.0,"Benson Lee, Josh Holloway, Laz Alonso, Josh Peck, Caity Lotz, Chris Brown",16549477
+2013,Short Term 12,1000000.0,"Destin Daniel Cretton, Brie Larson, John Gallagher Jr., Kaitlyn Dever, Rami Malek, Keith Stanfield, Melora Walters, Stephanie Beatriz, Diana-Maria Riva",1600000.0
+2013,47 Ronin,175000000.0,"Carl Rinsch, Keanu Reeves, Hiroyuki Sanada",151000000.0
+2013,The Big Wedding,32000000.0,"Justin Zackham, Robert De Niro, Katherine Heigl, Diane Keaton, Am,a Seyfried, Topher Grace, Ben Barnes, Susan Sar,on, Robin Williams",35770721
+2013,Murder 3,1900000.0,"Mahesh Bhatt, R,eep Hooda, Aditi Rao Hydari, Sara Loren",3700000.0
+2013,One Direction: This Is Us,10000000.0,"Morgan Spurlock, Niall Horan, Zayn Malik, Liam Payne, Harry Styles, Louis Tomlinson",68532898
+2013,Justin Bieber's Believe,45000000.0,"Jon M. Chu, Justin Bieber",6206566
+2013,Riddick,38000000.0,"David Twohy, Jordi Moll, Matt Nable, Katee Sackhoff, Dave Bautista, Bokeem Woodbine, Raoul Trujillo, Karl Urban",98337295
+2013,Welcome to the Punch,8500000.0,"Eran Creevy, James McAvoy, Mark Strong, Andrea Riseborough",1120000.0
+2013,Walking with Dinosaurs,80000000.0,"Neil Nightingale, Barry Cook, John Collee, John Leguizamo, Justin Long, Tiya Sircar, Skyler Stone",126500000.0
+2013,So Young,5000000.0,"Zhao Wei, Mark Chao, Han Geng, Yang Zishan",116000000.0
+2013,21 & Over,13000000.0,"Jon Lucas, Scott Moore, Justin Chon, Miles Teller, Skylar Astin, Sarah Wright",48065672
+2013,A Good Day to Die Hard,92000000.0,"John Moore, Bruce Willis, Jai Courtney, Sebastian Koch, Cole Hauser, Yuliya Snigir",304654182
+2013,42,40000000.0,"Brian Helgel,, Chadwick Boseman, Harrison Ford",97470701
+2013,The Call,13000000.0,"Brad Anderson, Halle Berry, Abigail Breslin, Morris Chestnut, Michael Eklund, Michael Imperioli, David Otunga",68572378
+2013,The Bling Ring,8000000.0,"Sofia Coppola, Israel Broussard, Katie Chang, Taissa Farmiga, Claire Julien, Emma Watson, Leslie Mann",20045576
+2013,Cloudy with a Chance of Meatballs 2,78000000.0,"Cody Cameron, Bill Hader, Anna Faris, James Caan, Will Forte, Andy Samberg, Benjamin Bratt, Neil Patrick Harris, Terry Crews, Kristen Schaal",274325949
+2013,The Best Man Holiday,17000000.0,"Malcolm D. Lee, Taye Diggs, Sanaa Lathan, Nia Long, Morris Chestnut, Monica Calhoun, Harold Perrineau, Regina Hall, Terrence Howard, Melissa De Sousa",71625195
+2013,Ramayya Vasthavayya,650000,"Harish Shankar, N. T. Rama Rao Jr., Samantha, Shruti Haasan",5000000.0
+2013,Tiny Times,45000000.0,"Guo Jingming, Yang Mi, Ko Chen-tung, Amber Kuo, Rhydian Vaughan, Hayden Kuo",79700000.0
+2013,Shuddh Desi Romance,4100000.0,"Maneesh Sharma, Jaideep Sahni, Parineeti Chopra, Sushant Singh Rajput, Vaani Kapoor, Rishi Kapoor",8900000.0
+2013,Frozen,150000000.0,"Chris Buck, Jennifer Lee, Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana",1274000000.0
+2013,Lootera,4400000.0,"Vikramaditya Motwane, Ranveer Singh, Sonakshi Sinha",4500000.0
+2013,The Family,30000000.0,"Luc Besson, Robert De Niro, Michelle Pfeiffer, Tommy Lee Jones, Dianna Agron, ""John DLeo""",78418811
+2013,Gravity,100000000.0,"Alfonso Cuarn, Jons Cuarn, S,ra Bullock, George Clooney",716392705
+2013,Anchorman 2: The Legend Continues,50000000.0,"Adam McKay, Steve Carell, Paul Rudd, David Koechner, Christina Applegate",173600000.0
+2013,Dead Man Down,30000000.0,"Niels Arden Oplev, Colin Farrell, Noomi Rapace, Dominic Cooper, Terrence Howard, Isabelle Huppert",18074539
+2013,Elysium,115000000.0,"Neill Blomkamp, Matt Damon, Jodie Foster, Sharlto Copley, Alice Braga, Diego Luna, Wagner Moura, William Fichtner",286140700
+2013,Chander Pahar,2400000.0,"Kamaleshwar Mukherjee, Dev, Grard Rudolf",2600000.0
+2013,The Internship,58000000.0,"Shawn Levy, Owen Wilson",93500000.0
+2013,Bhaag Milkha Bhaag,4900000.0,"Rakeysh Omprakash Mehra, , Prasoon Joshi, Farhan Akhtar, Sonam Kapoor, Hikaru Ito, Meesha Shafi, Divya Dutta, Pawan Malhotra, Yograj Singh, Prakash Raj, Japtej Singh",27000000.0
+2013,Don Jon,6000000.0,"Joseph Gordon-Levitt, Scarlett Johansson, Julianne Moore, Rob Brown, Glenne Headly, Brie Larson, Tony Danza",30500000.0
+2013,The Butler,30000000.0,"Lee Daniels, Danny Strong, Forest Whitaker, Oprah Winfrey",176600000.0
+2013,Baadshah,8900000.0,"Srinu Vaitla Jr. NTR, Kajal Aggarwal, Navdeep, Mukesh Rishi, Ashish Vidyarthi, Nassar, Kelly Dorji",9700000.0
+2013,The Attacks of 26/11,4900000.0,"Ram Gopal Varma, Ram Gopal Varma, Rommel Rodrigues, Nana Patekar, Sanjeev Jaiswal, ",5200000.0
+2013,Grudge Match,40000000.0,"Peter Segal, Robert De Niro, Sylvester Stallone, Kevin Hart, Alan Arkin, Kim Basinger, Jon Bernthal",69807260
+2013,Prisoners,46000000.0,"Denis Villeneuve, Aaron Guzikowski, Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard, Melissa Leo, Paul Dano",122100000.0
+2013,Gangster Squad,60000000.0,"Ruben Fleischer, Josh Brolin, Ryan Gosling, Sean Penn, Nick Nolte, Emma Stone, Anthony Mackie, Giovanni Ribisi, Michael Pea",105200000.0
+2013,Warm Bodies,35000000.0,"Jonathan Levine, Nicholas Hoult, Teresa Palmer, Rob Corddry, Dave Franco, Analeigh Tipton, Cory Hardrict, John Malkovich",116980662
+2013,Her,23000000.0,"Spike Jonze, Joaquin Phoenix, Amy Adams, Rooney Mara, Olivia Wilde, Scarlett Johansson",47400000.0
+2013,Olympus Has Fallen,70000000.0,"Antoine Fuqua, Gerard Butler, Aaron Eckhart, Morgan Freeman, Angela Bassett, Robert Forster, Cole Hauser, Ashley Judd, Melissa Leo, Dylan McDermott, Radha Mitchell, Rick Yune",161000000.0
+2013,Yeh Jawaani Hai Deewani,8100000.0,"Ayan Mukerji, Hussain Dalal, Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapur, Kalki Koechlin, ",49000000.0
+2013,Delivery Man,26000000.0,"Ken Scott, Vince Vaughn, Chris Pratt, Cobie Smulders",51200000.0
+2013,Evil Dead,17000000.0,"Fede Alvarez, Jane Levy, Shiloh Fern,ez, Jessica Lucas, Lou Taylor Pucci",97500000.0
+2013,Ender's Game,110000000.0,"Gavin Hood, Asa Butterfield, Harrison Ford, Hailee Steinfeld, Viola Davis, Abigail Breslin, Ben Kingsley",125537191
+2013,Fast & Furious 6,160000000.0,"Justin Lin, Chris Morgan, Paul Walker, Dwayne Johnson, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Chris Bridges, Sung Kang, Luke Evans, Gina Carano, John Ortiz",788700000.0
