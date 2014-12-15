@@ -229,7 +229,7 @@ def calculate_predict(data,bad_k,good_k,bad_m,good_m):
             except Exception, e:
                 # print e
                 t_sum = t_sum
-        pred_score = t_sum*float(movie['Budget'])
+        pred_score = (t_sum/contributor_count)*float(movie['Budget'])
         if pred_score<good_k:
             pred_rev = bad_k*pred_score
         else:
@@ -285,7 +285,7 @@ if __name__ == "__main__":
     # draw_plot_given_x_y_list(base_errors,'Index of the Movie','Error','base','Base Hubs')
     draw_plot_given_x_y_list(final_errors,'Index of the Movie','Error','final','Final Hubs')
 
-    save_scores_to_db(final_hub_score,final_result)
+    # save_scores_to_db(final_hub_score,final_result)
 
 
 
