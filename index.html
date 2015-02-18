@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="PROM : Predicting Revenue of Movies">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>PROM</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/moontails/PROM">View on GitHub</a>
+
+          <h1 id="project_title">PROM</h1>
+          <h2 id="project_tagline">Predicting Revenue of Movies</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/moontails/PROM/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/moontails/PROM/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p>Prediction of the success of the movie depends on various factors. In this project we studied this problem using a social network-based approach.</p>
+
+<p>Using a dataset of movies spread over 20 years of Hollywood cinema, we uncover the collaboration network for each of the movies. We seek to analyze and compute influence of each of the contributors of the movies – actors, directors, scriptwriters etc., towards the success of the movie. Using these influence scores of the collaborators, we then predict the box office revenue of the movies.</p>
+
+<p>We are analysing various algorithms like HITS, Modified Shapley approach etc., that can be used to compute the influence score of the collaborators.</p>
+
+<pre><code>+ extractMovieLink.py - to get the movie links from the films listed by year page in wikipedia.
++ extractMovieData.py - to extract the movie infobox from wikipedia
++ getOscarData.py - to extract academy awards info
++ insertToDB.py - to clean and consolidate our data.
+</code></pre>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">PROM maintained by <a href="https://github.com/moontails">moontails</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
